@@ -1,0 +1,1235 @@
+[
+    {
+      "number": "1.",
+      "degree": "Qiyinlik darajasi - 2",
+      "question": "Web-sahifa bu…",
+      "answer": "*yagona adresga ega bo'lgan, (brauzera yordamida) ochish va ko'rish imkoniyatiga ega bo'lgan xujjatdir"
+    },
+    {
+      "number": "2.",
+      "degree": "Qiyinlik darajasi - 2",
+      "question": "Teglar necha xil bo'ladi",
+      "answer": "*juft, toq teglari"
+    },
+    {
+      "number": "3.",
+      "degree": "Qiyinlik darajasi - 2",
+      "question": "JavaScript - tili bu…",
+      "answer": "statistik web sahifalarni qo'shimcha funksional imkoniyatlarini qo'llash uchun Netscape va Sun Microsystemlarda ishlab chiqilgan ssenariylar"
+    },
+    {
+      "number": "4.",
+      "degree": "Qiyinlik darajasi - 2",
+      "question": "Qanday ma’lumotlar mantiqiy",
+      "answer": "*true va false"
+    },
+    {
+      "number": "5.",
+      "degree": "Qiyinlik darajasi - 2",
+      "question": "Javascript tilida qanday unar operatorlar mavjud",
+      "answer": "#*-, !, ++, --"
+    },
+    {
+      "number": "6.",
+      "degree": "Qiyinlik darajasi - 2",
+      "question": "JavaScript tilida qanday binar operatorlar mavjud?",
+      "answer": "*-, +, /, %*-, +, /, %"
+    },
+    {
+      "number": "7.",
+      "degree": "Qiyinlik darajasi - 2",
+      "question": "JavaScript tilida qaysi buyruqlar alohida bitlar bilan ishlaydi?",
+      "answer": "*&, |, ~, ^"
+    },
+    {
+      "number": "8.",
+      "degree": "Qiyinlik darajasi - 2",
+      "question": "JavaScript tilida qanday siljitish operatorlari mavjud?",
+      "answer": "*>>, >>>, <<"
+    },
+    {
+      "number": "9.",
+      "degree": "Qiyinlik darajasi - 2",
+      "question": "JavaScript tilida qanday munosabat operatorlari mavjud?",
+      "answer": "*>, >=,<,<="
+    },
+    {
+      "number": "10.",
+      "source": "Manba: ma'ruza matnlari",
+      "degree": "Qiyinlik darajasi - 2",
+      "question": "JavaScript tilida qanday mantiqiy operatorlar mavjud?",
+      "answer": "*||,&&"
+    },
+    {
+      "number": "11.",
+      "source": "Manba: ma'ruza matnlari",
+      "degree": "Qiyinlik darajasi - 2",
+      "question": "JavaScript tilida qanday o‘zlashtirish operatorlari mavjud?",
+      "answer": "* =,+=,-=,/=,"
+    },
+    {
+      "number": "12.",
+      "source": "Manba: ma'ruza matnlari",
+      "degree": "Qiyinlik darajasi - 2",
+      "question": "JavaScript tilida qanday ob’ektlar mavjud?",
+      "answer": "* vstroenniy ob’ektlar, dasturchi o‘zi yaratuvchi brauzer va ob’ektlar ob’ektlari"
+    },
+    {
+      "number": "13.",
+      "source": "Manba: ma'ruza matnlari",
+      "degree": "Qiyinlik darajasi - 2",
+      "question": "Web sahifa yaratishda HTML tilidagi quyidagi tegning ma’nosi nima? <multicol>",
+      "answer": "*Kolonkali matn"
+    },
+    {
+      "number": "14.",
+      "source": "Manba: ma'ruza matnlari",
+      "degree": "Qiyinlik darajasi - 2",
+      "question": "JavaScript tilida qanday brauzer ob’ektlari mavjud?",
+      "answer": "*document, parent, frame, location"
+    },
+    {
+      "number": "15.",
+      "source": "Manba: ma'ruza matnlari",
+      "degree": "Qiyinlik darajasi - 2",
+      "question": "JavaScript tilida eng bosh brauzer ob’ekti hisoblanadi?",
+      "answer": "*window"
+    },
+    {
+      "number": "16.",
+      "source": "Manba: ma'ruza matnlari",
+      "degree": "Qiyinlik darajasi - 2",
+      "question": "JavaScript tilida massivlar uchun qaysi usul qo‘llaniladi?",
+      "answer": "*uchta usul: join, reverse, sort"
+    },
+    {
+      "number": "17.",
+      "source": "Manba: ma'ruza matnlari",
+      "degree": "Qiyinlik darajasi - 2",
+      "question": "Qaysi usul quyi indeks sifatida tasvirlangan satrni qaytaradi?",
+      "answer": "*sub"
+    },
+    {
+      "number": "18.",
+      "source": "Manba: ma'ruza matnlari",
+      "degree": "Qiyinlik darajasi - 2",
+      "question": "Qanday vstroenniy JavaScript ssenariyi klasi kompyuter soati bo‘yicha turli holatlarni bajarishi mumkin?",
+      "answer": "*Date"
+    },
+    {
+      "number": "19.",
+      "source": "Manba: ma'ruza matnlari",
+      "degree": "Qiyinlik darajasi - 2",
+      "question": "Qaysi usul 0 dan 1gacha oraliqdagi ixtiyoriy soni qaytaradi",
+      "answer": "*random"
+    },
+    {
+      "number": "20.",
+      "source": "Manba: ma'ruza matnlari",
+      "degree": "Qiyinlik darajasi - 2",
+      "question": "Qaysi usul yordamida ekranga ikkita OK va Cancel tugmalari bo‘lgan muloqot oynasini chiqarish mumkin",
+      "answer": "*confirm"
+    },
+    {
+      "number": "21.",
+      "source": "Manba: ma'ruza matnlari",
+      "degree": "Qiyinlik darajasi - 2",
+      "question": "checkbox ob’ekti uchun nechta va qanday usullar mavjud?",
+      "answer": "* bittausul: click"
+    },
+    {
+      "number": "22.",
+      "source": "Manba: ma'ruza matnlari",
+      "degree": "Qiyinlik darajasi - 2",
+      "question": "Qaysi teg HTML xujjatning tanasini ifodalaydi?",
+      "answer": "*BODY"
+    },
+    {
+      "number": "23.",
+      "source": "Manba: ma'ruza matnlari",
+      "degree": "Qiyinlik darajasi - 2",
+      "question": "Qaysi teg World Wide Web da xujjatni nomlash uchun ishlatiladi?",
+      "answer": "*TITLE"
+    },
+    {
+      "number": "24.",
+      "source": "Manba: ma'ruza matnlari",
+      "degree": "Qiyinlik darajasi - 2",
+      "question": "Qaysi teg xujjatni stilini ifodalash uchun ishlatiladi?",
+      "answer": "*STYLE"
+    },
+    {
+      "number": "25.",
+      "source": "Manba: ma'ruza matnlari",
+      "degree": "Qiyinlik darajasi - 2",
+      "question": "Qaysi teg HTML xujjatni ifodalaydi?",
+      "answer": "*HTML"
+    },
+    {
+      "number": "26.",
+      "source": "Manba: ma'ruza matnlari",
+      "degree": "Qiyinlik darajasi - 2",
+      "question": "BODY tegining Qaysi atributi saxifa rangini berishda qo`llaniladi?",
+      "answer": "*bgcolor"
+    },
+    {
+      "number": "27.",
+      "source": "Manba: ma'ruza matnlari",
+      "degree": "Qiyinlik darajasi - 2",
+      "question": "SCRIPT tegi to`g`ri keltirilgan variantni tanlang",
+      "answer": "*<SCRIPT LANGUAGE= dasturlash tili>dastur matni </SCRIPT>"
+    },
+    {
+      "number": "28.",
+      "source": "Manba: ma'ruza matnlari",
+      "degree": "Qiyinlik darajasi - 2",
+      "question": "Qaysi teg HTML xujjat sarlavxasini ifodalaydi?",
+      "answer": "*HEAD"
+    },
+    {
+      "number": "29.",
+      "source": "Manba: ma'ruza matnlari",
+      "degree": "Qiyinlik darajasi - 2",
+      "question": "CGI nima?",
+      "answer": "*Common gateway interface"
+    },
+    {
+      "number": "30.",
+      "source": "Manba: ma'ruza matnlari",
+      "degree": "Qiyinlik darajasi - 2",
+      "question": "To‘liq formada berilmagan gipermatnli ssilka xujjatining bazali URL ni aniqlash uchun qaysi teg xizmat qiladi?",
+      "answer": "* BASE"
+    },
+    {
+      "number": "31.",
+      "source": "Manba: ma'ruza matnlari",
+      "degree": "Qiyinlik darajasi - 2",
+      "question": "Yuborilganidan so’ng xujjatni saqlashni taqiqlash … orqali amalga oshiriladi",
+      "answer": "* *<META HTTP ='Cache-Control' CONTENT='no- store'>"
+    },
+    {
+      "number": "32.",
+      "source": "Manba: ma'ruza matnlari",
+      "degree": "Qiyinlik darajasi - 2",
+      "question": "Noto’g’ri ko`rsatilgan gipersselkalarni qo`rsating.",
+      "answers": "*<a TARGET=intuit.htm href=\"new\">intuit<a>",
+      "answer": "<a href=\"new\" \/>intuit<a>"
+    },
+    {
+      "number": "33.",
+      "source": "Manba: ma'ruza matnlari",
+      "degree": "Qiyinlik darajasi - 2",
+      "question": "Tashqi jadval stilini xujjat bilan to‘g‘ri bog‘lanish usulini toping.",
+      "answer": "*<LINK HREF=stylesheet href='../css/style.css' TYPE='text/css'>"
+    },
+    {
+      "number": "34.",
+      "source": "Manba: ma'ruza matnlari",
+      "degree": "Qiyinlik darajasi - 2",
+      "question": "Sahifa fonini to‘g‘ri ko‘rsatish variantini ko‘rsating.",
+      "answer": "*<body bgcolor='yellow'>"
+    },
+    {
+      "number": "35.",
+      "source": "Manba: ma'ruza matnlari",
+      "degree": "Qiyinlik darajasi - 2",
+      "question": "Quyidagi teglardan qaysi biri ro‘yxatni nomerlash uchun ishlatiladi?",
+      "answer": "*OL"
+    },
+    {
+      "number": "36.",
+      "source": "Manba: ma'ruza matnlari",
+      "degree": "Qiyinlik darajasi - 2",
+      "question": "Gipersselka to‘g‘ri ko‘rsatilgan qatorni toping:",
+      "answer": "*<a href='www.intuit.ru/index.html'>ssilka</a>"
+    },
+    {
+      "number": "37.",
+      "source": "Manba: ma'ruza matnlari",
+      "degree": "Qiyinlik darajasi - 2",
+      "question": "BODY tegining qaysi atributi “faol” gipersselkaning rangini o‘zgartirish uchun ishlatiladi?",
+      "answer": "*ALINK"
+    },
+    {
+      "number": "38.",
+      "source": "Manba: ma'ruza matnlari",
+      "degree": "Qiyinlik darajasi - 2",
+      "question": "HTML da qanday teglar ma’lumotlar tiplarini ifodalaydi?",
+      "answer": "*<YeM>, <SITE>, <KVD>, <SODE>"
+    },
+    {
+      "number": "39.",
+      "source": "Manba: ma'ruza matnlari",
+      "degree": "Qiyinlik darajasi - 2",
+      "question": "Jadval xosil qilish uchun qaysi tegdan foydalaniladi?",
+      "answer": "*<TABLE>"
+    },
+    {
+      "number": "40.",
+      "source": "Manba: ma'ruza matnlari",
+      "degree": "Qiyinlik darajasi - 2",
+      "question": "HTML da shrift o‘lchamini o‘zgartirish uchun qaysi tegdan foydalaniladi?",
+      "answer": "*<SMALL>"
+    },
+    {
+      "number": "41.",
+      "source": "Manba: ma'ruza matnlari",
+      "degree": "Qiyinlik darajasi - 2",
+      "question": "JavaScript da qaysi ob’ektlar yordamida massivlar vstroenniy klass ob’ektlari sifatida xosil qilinadi?",
+      "answer": "*Array"
+    },
+    {
+      "number": "42.",
+      "source": "Manba: ma'ruza matnlari",
+      "degree": "Qiyinlik darajasi - 2",
+      "question": "Qaysi ob’ekt oyna xususiyatlarini, oyna o‘lchamini, freymlar oynasida joylashishini, oyna nomini, oyna holat satrini ifodalaydi",
+      "answer": "* window"
+    },
+    {
+      "number": "43.",
+      "source": "Manba: ma'ruza matnlari",
+      "degree": "Qiyinlik darajasi - 2",
+      "question": "JavaScript ssenariysida qaysi ob’ekt usul va kattaliklaridan foydalangan holda brauzerga yuklangan xujjatning joriy vaqtdagi xolati haqida ma’lumot olish mumkin?",
+      "answer": "*document"
+    },
+    {
+      "number": "44.",
+      "source": "Manba: ma'ruza matnlari",
+      "degree": "Qiyinlik darajasi - 2",
+      "question": "JavaScript da qanday sonlar haqiqiy sonlar bo‘la oladi?",
+      "answer": "*0.0, -2.9, 0.7E1, 14.7e-2, 1e+308"
+    },
+    {
+      "number": "45.",
+      "source": "Manba: ma'ruza matnlari",
+      "degree": "Qiyinlik darajasi - 2",
+      "question": "JavaScript ning qanday standart funksiyasi s satr tarkibida bir yoki bir nechta operatorlarni amalga oshiradi, hisoblaydi?",
+      "answer": "* eval(s)"
+    },
+    {
+      "number": "46.",
+      "source": "Manba: ma'ruza matnlari",
+      "degree": "Qiyinlik darajasi - 2",
+      "question": "Qanday o‘zgaruvchilar bo‘shliqni ifodalaydi?",
+      "answer": "* var re = /|S/"
+    },
+    {
+      "number": "47.",
+      "source": "Manba: ma'ruza matnlari",
+      "degree": "Qiyinlik darajasi - 2",
+      "question": "Qanday o‘zgaruvchilar sonlarni ifodalaydi?",
+      "answer": "* var nm = /|d/"
+    },
+    {
+      "number": "48.",
+      "source": "Manba: ma'ruza matnlari",
+      "degree": "Qiyinlik darajasi - 2",
+      "question": "«\n» belgisi nimani ifodalaydi",
+      "answer": "* Yangi satrga o‘tish"
+    },
+    {
+      "number": "49.",
+      "source": "Manba: ma'ruza matnlari",
+      "degree": "Qiyinlik darajasi - 2",
+      "question": "Qaysi atribut berilgan matnli ssыlkalar rangini ifodalaydi?",
+      "answer": "* VLINK"
+    },
+    {
+      "number": "50.",
+      "source": "Manba: ma'ruza matnlari",
+      "degree": "Qiyinlik darajasi - 2",
+      "question": "<P> tegi nima uchun qo‘llaniladi?",
+      "answer": "* matnni paragraflarga ajratish uchun"
+    },
+    {
+      "number": "51.",
+      "source": "Manba: ma'ruza matnlari",
+      "degree": "Qiyinlik darajasi - 2",
+      "question": "<BR SLEAR=all> matni nimani ifodalaydi",
+      "answer": "*o‘ng va chap tomonlari bo‘sh bo‘lgan joydan matn boshlanadi"
+    },
+    {
+      "number": "52.",
+      "source": "Manba: ma'ruza matnlari",
+      "degree": "Qiyinlik darajasi - 2",
+      "question": "Qaysi teg matn qo‘shtirnoq bilan tugashi uchun qo‘llaniladi?",
+      "answer": "*<Q>...</Q>"
+    },
+    {
+      "number": "53.",
+      "source": "Manba: ma'ruza matnlari",
+      "degree": "Qiyinlik darajasi - 2",
+      "question": "<UL> tegi nimani ifodalaydi?",
+      "answer": "*Numerlanmagan ro‘yxatni"
+    },
+    {
+      "number": "54.",
+      "source": "Manba: ma'ruza matnlari",
+      "degree": "Qiyinlik darajasi - 2",
+      "question": "<UL TYPE=DISK> matni nimani ifodalaydi",
+      "answer": "* Teg birinchi ro‘yxatda ifodalanganidek markerlar xosil qiladi"
+    },
+    {
+      "number": "55.",
+      "source": "Manba: ma'ruza matnlari",
+      "degree": "Qiyinlik darajasi - 2",
+      "question": "<OL TYRE=I> Matni nimani ifodalaydi",
+      "answer": "* Teg I., II., III., IV. va h.k ko‘rinishidagi ro‘yxatni xosil qiladi"
+    },
+    {
+      "number": "56.",
+      "source": "Manba: ma'ruza matnlari",
+      "degree": "Qiyinlik darajasi - 2",
+      "question": "<IMG> tegining qat’iy atributlarini toping",
+      "answer": "* SRC"
+    },
+    {
+      "number": "57.",
+      "source": "Manba: ma'ruza matnlari",
+      "degree": "Qiyinlik darajasi - 2",
+      "question": "Qaysi teg forma ichida qaerga ma’lumot kiritilishini ifodalaydi?",
+      "answer": "*<INPUT>"
+    },
+    {
+      "number": "58.",
+      "source": "Manba: ma'ruza matnlari",
+      "degree": "Qiyinlik darajasi - 2",
+      "question": "FORM tegining METHOD atributining nechta qiymati bor?",
+      "answer": "*ikkita: GET yoki POST"
+    },
+    {
+      "number": "59.",
+      "source": "Manba: ma'ruza matnlari",
+      "degree": "Qiyinlik darajasi - 2",
+      "question": "Qaysi teg formada ma’lumot kiritishda foydalanuvchi bir neyata variantlardan birini tanlashdan foydalanishni ifodalaydi?",
+      "answer": "*<INPUT> TYPE=radio atributi bilan"
+    },
+    {
+      "number": "60.",
+      "source": "Manba: ma'ruza matnlari",
+      "degree": "Qiyinlik darajasi - 2",
+      "question": "Formada parol kiritish kerak bo‘lsa qaysi kattalikdan foydalanishga to‘g‘ri keladi",
+      "answer": "* password"
+    },
+    {
+      "number": "61.",
+      "source": "Manba: ma'ruza matnlari",
+      "degree": "Qiyinlik darajasi - 2",
+      "question": "<TEXTAREA> tegida qanday atributlar foydalaniladi ?",
+      "answer": "* COLS, NAME va ROWS"
+    },
+    {
+      "number": "62.",
+      "source": "Manba: ma'ruza matnlari",
+      "degree": "Qiyinlik darajasi - 2",
+      "question": "Null nimani ifodalaydi?",
+      "answer": "* bo‘sh to‘plamni ifodalash uchun maxsus belgi"
+    },
+    {
+      "number": "63.",
+      "source": "Manba: ma'ruza matnlari",
+      "degree": "Qiyinlik darajasi - 2",
+      "question": "JavaScript da '=', '+=', '-=', '*=','/=', '%=' operatorlar qanday nomlanadi?",
+      "answer": "* O‘zlashtirish operatorlari"
+    },
+    {
+      "number": "64.",
+      "source": "Manba: ma'ruza matnlari",
+      "degree": "Qiyinlik darajasi - 2",
+      "question": "Quyidagi operatsiyalar qanday nomlanadi: '!', '~', '++', '--';",
+      "answer": "* inkor, inkrement, dekrement"
+    },
+    {
+      "number": "65.",
+      "source": "Manba: ma'ruza matnlari",
+      "degree": "Qiyinlik darajasi - 2",
+      "question": "JavaScript da qanday shart operatorlari mavjud?",
+      "answer": "* if"
+    },
+    {
+      "number": "66.",
+      "source": "Manba: ma'ruza matnlari",
+      "degree": "Qiyinlik darajasi - 2",
+      "question": "Qaysi operator for yoki while sikl operatorlari bajarilishini to‘xtatadi",
+      "answer": "* break"
+    },
+    {
+      "number": "67.",
+      "source": "Manba: ma'ruza matnlari",
+      "degree": "Qiyinlik darajasi - 2",
+      "question": "isFinite ning vazifasi nima?",
+      "answer": "* butun son argumentini ifodalaydi"
+    },
+    {
+      "number": "68.",
+      "source": "Manba: ma'ruza matnlari",
+      "degree": "Qiyinlik darajasi - 2",
+      "question": "Qaysi funksiya sonni yaqinlashishi bo‘yicha yaxlitlaydi",
+      "answer": "* ceil(x)"
+    },
+    {
+      "number": "69.",
+      "source": "Manba: ma'ruza matnlari",
+      "degree": "Qiyinlik darajasi - 2",
+      "question": "d=new Date() d nimaga teng?",
+      "answer": "* bugungi sana va vaktga teng"
+    },
+    {
+      "number": "70.",
+      "source": "Manba: ma'ruza matnlari",
+      "degree": "Qiyinlik darajasi - 2",
+      "question": "Qaysi funksiya satr ko`rinishida berilgan sanani sintaksik taxlil kilib, uni millisekund ko`rinishiga keltiradi",
+      "answer": "getSeconds()"
+    },
+    {
+      "number": "71.",
+      "source": "Manba: ma'ruza matnlari",
+      "degree": "Qiyinlik darajasi - 2",
+      "question": "Qaysi usul joriy oynani ko`rsatadi yoki yangisini ochadi?",
+      "answer": "* open"
+    },
+    {
+      "number": "72.",
+      "source": "Manba: ma'ruza matnlari",
+      "degree": "Qiyinlik darajasi - 2",
+      "question": "domain nima?",
+      "answer": "*xujjatni Qaysi domendan kelganligini ifodalovchi kator"
+    },
+    {
+      "number": "73.",
+      "source": "Manba: ma'ruza matnlari",
+      "degree": "Qiyinlik darajasi - 2",
+      "question": "Qaysi ob’ekt ichiga yozilgan bir yoki bir nechta URL fragmentlari qismini ukish va yozishni ifodalaydi?",
+      "answer": "* Location"
+    },
+    {
+      "number": "74.",
+      "source": "Manba: ma'ruza matnlari",
+      "degree": "Qiyinlik darajasi - 2",
+      "question": "Web-sayt nima?",
+      "answer": "* anik maksad asosida mantikiy bogdangan web- saxifalar birlashmasi"
+    },
+    {
+      "number": "75.",
+      "source": "Manba: ma'ruza matnlari",
+      "degree": "Qiyinlik darajasi - 2",
+      "question": "Serverda qayta ishlanuvchi ssenariy tili bu …",
+      "answer": "* PHP"
+    },
+    {
+      "number": "76.",
+      "source": "Manba: ma'ruza matnlari",
+      "degree": "Qiyinlik darajasi - 2",
+      "question": "% binar operatori nimani ifodalaydi?",
+      "answer": "* bulinmani koldigini ifodalaydi"
+    },
+    {
+      "number": "77.",
+      "source": "Manba: ma'ruza matnlari",
+      "degree": "Qiyinlik darajasi - 2",
+      "question": "«||», «&&» operatorlari qanday nomlanadi?",
+      "answer": "* mantikiy operatorlar"
+    },
+    {
+      "number": "78.",
+      "source": "Manba: ma'ruza matnlari",
+      "degree": "Qiyinlik darajasi - 2",
+      "question": "Foydalanuvchi oyna bilan ishlashni tugatib, brauzer oynasini yopishi ,yoki boshqa xujjatni qo`shishi Qaysi xolatni beradi",
+      "answer": "* onUnload"
+    },
+    {
+      "number": "79.",
+      "source": "Manba: ma'ruza matnlari",
+      "degree": "Qiyinlik darajasi - 2",
+      "question": "var MyStr; MyStr = 'Hello World!'; k = MyStr.length; document.write('Satr uzunligi' + k); natija qanday bo‘ladi?",
+      "answer": "* Satr uzunligi 11"
+    },
+    {
+      "number": "80.",
+      "source": "Manba: ma'ruza matnlari",
+      "degree": "Qiyinlik darajasi - 2",
+      "question": "FORM tegining qaysi parametri CGI dasturni va to‘la berilgan parametrlarini yuklanuvchi URL adresini ko‘rsatadi?",
+      "answer": "* ACTION"
+    },
+    {
+      "number": "81.",
+      "source": "Manba: ma'ruza matnlari",
+      "degree": "Qiyinlik darajasi - 2",
+      "question": "Qaysi operator yordamida formada berilgan bir nechta ro‘yxat ichidan birini tanlash amalga oshiriladi?",
+      "answer": "*<SELECT>"
+    },
+    {
+      "number": "82.",
+      "source": "Manba: ma'ruza matnlari",
+      "degree": "Qiyinlik darajasi - 2",
+      "question": "Quyidagi PHP tilidagi dasturlardan to‘g‘risini ko‘rsating.",
+      "answer": "*<html> <title><? print 'Hello world!';?> </title> </html>"
+    },
+    {
+      "number": "83.",
+      "source": "Manba: ma'ruza matnlari",
+      "degree": "Qiyinlik darajasi - 2",
+      "question": "Quyidagi ASP usulidagi PHP dasturlardan to‘g‘risini ko‘rsating",
+      "answer": "*<%php print 'Welcome to the world of PHP!'; %>"
+    },
+    {
+      "number": "84.",
+      "source": "Manba: ma'ruza matnlari",
+      "degree": "Qiyinlik darajasi - 2",
+      "question": "PHP da ko‘p satrli kommentari (izoh) qanday beriladi?",
+      "answer": "*/* va */"
+    },
+    {
+      "number": "85.",
+      "source": "Manba: ma'ruza matnlari",
+      "degree": "Qiyinlik darajasi - 2",
+      "question": "PHP da qaysi parametr xatolik xabari darajasini aniqlaydi?",
+      "answer": "*display_errors [on | off]"
+    },
+    {
+      "number": "86.",
+      "source": "Manba: ma'ruza matnlari",
+      "degree": "Qiyinlik darajasi - 2",
+      "question": "Bir xil tipli elementlar birlashmasi nima bo‘lishi mumkin?",
+      "answer" : "* Massiv"
+    },
+    {
+      "number": "87.",
+      "source": "Manba: ma'ruza matnlari",
+      "degree": "Qiyinlik darajasi - 2",
+      "question": "Yagona adresga ega va (brauzer yordamida) ochish, o‘qish imkoniyatiga ega bo‘lgan xujjat…",
+      "answer": "* Web-sahifa"
+    },
+    {
+      "number": "88.",
+      "source": "Manba: ma'ruza matnlari",
+      "degree": "Qiyinlik darajasi - 2",
+      "question": "Qaysi teg xujjatlar aro aloqa o‘rnatilganligi haqida metama’lumot beradi",
+      "answer": "* LINK element,"
+    },
+    {
+      "number": "89.",
+      "source": "Manba: ma'ruza matnlari",
+      "degree": "Qiyinlik darajasi - 2",
+      "question": "MENU qanday teg?",
+      "answer": "*satr ko‘rinishda, ixcham xolda berilgan ro‘yxat"
+    },
+    {
+      "number": "90.",
+      "source": "Manba: ma'ruza matnlari",
+      "degree": "Qiyinlik darajasi - 2",
+      "question": "Qaysi teglar shrift teglari?",
+      "answer": "*TT, I, B, U"
+    },
+    {
+      "number": "91.",
+      "source": "Manba: ma'ruza matnlari",
+      "degree": "Qiyinlik darajasi - 2",
+      "question": "<form> <input type=button value='Yahoo' onClick='location. href='http://www.yahoo.com'; > </form> Natijani ko‘rsating?",
+      "answer": "*'Yahoo' tugmasi bosilganda 'http://www.yahoo.com' ssilkasi yuklanadi"
+    },
+    {
+      "number": "92.",
+      "source": "Manba: ma'ruza matnlari",
+      "degree": "Qiyinlik darajasi - 2",
+      "question": "",
+      "answer": "*5"
+    },
+    {
+      "number": "93.",
+      "source": "Manba: ma'ruza matnlari",
+      "degree": "Qiyinlik darajasi - 2",
+      "question": "INPUT tegi TYPE atribut qabul qilmaydigan qiymatni toping",
+      "answer": "*TOP"
+    },
+    {
+      "number": "94.",
+      "source": "Manba: ma'ruza matnlari",
+      "degree": "Qiyinlik darajasi - 2",
+      "question": "Jadvalni romkasiz yaratish uchun TABLE tegining BORDER atributiga qanday qiymat berish kerak?",
+      "answer": "*0"
+    },
+    {
+      "number": "95.",
+      "source": "Manba: ma'ruza matnlari",
+      "degree": "Qiyinlik darajasi - 2",
+      "question": "HTML da kommentariy sintaksisi qanday?",
+      "answer": "*<!-- Bu kommentariy -->"
+    },
+    {
+      "number": "96.",
+      "source": "Manba: ma'ruza matnlari",
+      "degree": "Qiyinlik darajasi - 2",
+      "question": "Avtomatik ravishda keyingi satrga o‘tish qaysi teg orqali amalga oshiriladi",
+      "answer": "# Server qismi"
+    },
+    {
+      "number": "97.",
+      "source": "Manba: ma'ruza matnlari",
+      "degree": "Qiyinlik darajasi - 2",
+      "question": "Rasm ramkasi kengligini qaysi parametr orqali berasiz?",
+      "answer": "* BORDER"
+    },
+    {
+      "number": "98.",
+      "source": "Manba: ma'ruza matnlari",
+      "degree": "Qiyinlik darajasi - 2",
+      "question": "Xujjatda «>» belgidan foydalanish uchun Qaysi escape- ketma ketligidan foydalaniladi?",
+      "answer": "* &gt"
+    },
+    {
+      "number": "99.",
+      "source": "Manba: ma'ruza matnlari",
+      "degree": "Qiyinlik darajasi - 2",
+      "question": "Xujjatda «<» belgidan foydalanish uchun Qaysi escape- ketma ketligidan foydalaniladi?",
+      "answer": "*&lt;"
+    },
+    {
+      "number": "100.",
+      "source": "Manba: ma'ruza matnlari",
+      "degree": "Qiyinlik darajasi - 2",
+      "question": "Date ob’ekti nima qiladi?",
+      "answer": "* Kompyuter soati ustida amallar bajaradi"
+    },
+    {
+      "number" : "101",
+      "question" : "FTP-serverda joylashgan faylga havola tuzganda qanday ko’rinishda yoziladi?",
+      "answer" : "*‘FTP://’"
+    },
+    {
+      "number" : "102",
+      "question" : "Teg orasida yozilgan matn ustidan chiziq tortish tegi qaysi javobda to’g’ri ko’rsatilgan?",
+      "answer" : "*STRIKE"
+    },
+    {
+      "number" : "103",
+      "question" : "Matndagi paragraf va satrlarni belgilashda qaysi tegdan foydalaniladi?",
+      "answer" : "*BLOCKQUOTE"
+    },
+    {
+      "number" : "104",
+      "question" : "LINK atributining vazifasi?",
+      "answer" : "*Sahifadagi havola rangi teg o’lchamlaridagi rang kodini ekranda namoyish etadi."
+    },
+    {
+      "number" : "105",
+      "question" : "ALINK atributining vazifasi?",
+      "answer" : "*Kursor yordamida tanlangan va sichqoncha chap tugmasi bosilgan paytda havola rangini o’zgartirish uchun qo’llaniladi."
+    },
+    {
+      "number" : "106",
+      "question" : ". . . brauzer oynasidagi mustaqil to’g’ri to’rtburchak shaklidagi maydon bo’lib, u o’z ichiga boshqa alohida mustaqil HTML- hujjatlarni birlashtira oladi.",
+      "answer" : "*Freym"
+    },
+    {
+      "number" : "107",
+      "question" : "PHP ni o’rganish uchun avval qaysi tillardan xabardor bo’lish talab qilinadi?",
+      "answer" : "*HTML"
+    },
+    {
+      "number" : "108",
+      "question" : "PHP da yozilgan kod serverning o’zida bajarilib, mijozga qanday shaklda yetib boradi?",
+      "answer" : "*HTML"
+    },
+    {
+      "number" : "109",
+      "question" : "PHP dasturlari necha usulda bajariladi?",
+      "answer" : "*2"
+    },
+    {
+      "number" : "110",
+      "question" : "PHP da qaysi buyruq web sahifalarda uchraydigan har qanday ma’lumotni chiqarish uchun qo’llaniladi?",
+      "answer" : "*Echo"
+    },
+    {
+      "number" : "111",
+      "question" : "PHP da o’zgaruvchilar qanday belgi bilan boshlanadi?",
+      "answer" : "*$"
+    },
+    {
+      "number" : "112",
+      "question" : "PHP da necha xil sikl operatorlari mavjud?",
+      "answer" : "*4"
+    },
+    {
+      "number" : "113",
+      "question" : "JavaScript asosan qanday formatda saqlanishi mumkin?",
+      "answer" : "*Js"
+    },
+    {
+      "number" : "114",
+      "question" : "JavaScript bilan ishlay oladigan dastur nomi?",
+      "answer" : "*Brauzer"
+    },
+    {
+      "number" : "115",
+      "question" : "JavaScript tilida web sahifadagi barcha elementlar qay tarzda joylashitiriladi?",
+      "answer" : "*Ierarxik"
+    },
+    {
+      "number" : "116",
+      "question" : "JavaScript tilining birinchi versiyasi qanday nomlanadi?",
+      "answer" : "*Java Scropt 1.3"
+    },
+    {
+      "number" : "117",
+      "question" : "JavaScriptning birinchi nomi qanday nomlanadi?",
+      "answer" : "*LiveScript"
+    },
+    {
+      "number" : "118",
+      "question" : "JavaScript dasturi qanday qismlardan tashkil topgan?",
+      "answer" : "*Konteynerlar. <SCRIPT> Hodisalarni qayta ishlovchi(EventHandler).Gipermatn ko’rinishi <A HREF=” javascript:… ”>"
+    },
+    {
+      "number" : "119",
+      "question" : "JavaScriptda onMouseOver amalining vazifasi nima?",
+      "answer" : "*sichqoncha ko’rsatkichini yo’naltirgan payt"
+    },
+    {
+      "number" : "120",
+      "question" : "JavaScriptda onMouseOut amalining vazifasi nima?",
+      "answer" : "*sichqoncha ko’rsatkichini tashqariga olgan payt"
+    },
+    {
+      "number" : "121",
+      "question" : "JavaScriptda onLoad amalining vazifasi nima?",
+      "answer" : "*HTML hujjati ishga tushgan payt,ya’ni oyna ochilganda"
+    },
+    {
+      "number" : "122",
+      "question" : "JavaScriptda onUnload amalining vazifasi nima?",
+      "answer" : "*HTML hujjati ishni yakunlagan payt, ya‟ni oyna yopilganda"
+    },
+    {
+      "number" : "123",
+      "question" : "JavaScriptda onBlur amalining vazifasi nima?",
+      "answer" : "*Sichqoncha ko’rsatkichi oyna yoki freymdan tashqarida bo’lishi"
+    },
+    {
+      "number" : "124",
+      "question" : "JavaScriptda onChange amalining vazifasi nima?",
+      "answer" : "*Kontent o’zgargan payt"
+    },
+    {
+      "number" : "125",
+      "question" : "JavaScriptda onDragDrop amalining vazifasi nima?",
+      "answer" : "*Ob’ektni dragdrop qilgan payt"
+    },
+    {
+      "number" : "126",
+      "question" : "JavaScriptda onFocus amalining vazifasi nima?",
+      "answer" : "*Sichqoncha ko’rsatkichini oyna yoki freymda ushlagan payt"
+    },
+    {
+      "number" : "127",
+      "question" : "JavaScriptda onKeyDown amalining vazifasi nima?",
+      "answer" : "*Ishchi tugmani bosib turgan payt"
+    },
+    {
+      "number" : "128",
+      "question" : "JavaScriptda onKeyPress amalining vazifasi nima?",
+      "answer" : "*Ishchi tugmani bosgan payt"
+    },
+    {
+      "number" : "129",
+      "question" : "JavaScriptda onKeyUp amalining vazifasi nima?",
+      "answer" : "*Ishchi tugmani bosib qo’yib yuborgan payt"
+    },
+    {
+      "number" : "130",
+      "question" : "JavaScriptda onMouseDown amalining vazifasi nima?",
+      "answer" : "*Sichqonchaning tugmasi bosilgan payt"
+    },
+    {
+      "number" : "131",
+      "question" : "JavaScriptda onMouseMove amalining vazifasi nima?",
+      "answer" : "*Sichqoncha ko’rsatkichini qimirlatgan payt"
+    },
+    {
+      "number" : "132",
+      "question" : "JavaScriptda onMouseUp amalining vazifasi nima?",
+      "answer" : "*Sichqonchani bosib qo’yib yoborgandan keyingi payt"
+    },
+    {
+      "number" : "133",
+      "question" : "JavaScriptda onSubmit amalining vazifasi nima?",
+      "answer" : "*Submit bo’lgan payt"
+    },
+    {
+      "number" : "134",
+      "question" : "JavaScriptda onSelect amalining vazifasi nima?",
+      "answer" : "*Tanlangan payt"
+    },
+    {
+      "number" : "135",
+      "question" : "JavaScriptda substr-bu?",
+      "answer" : "*Bu funksiya berilgan string toifadagi ma’lumotdan nechanchi simvoldan boshlab nechta simvol tanlab olishni ta’minlaydi."
+    },
+    {
+      "number" : "136",
+      "question" : "JavaScriptda qatorni haqiqiy songa aylantiruvchi usul?",
+      "answer" : "*String --> float"
+    },
+    {
+      "number" : "137",
+      "question" : "JavaScript tilidagi quyidagi funksiyaning ma’nosi nima? charAt",
+      "answer" : "*Son qiymati"
+    },
+    {
+      "number" : "138",
+      "question" : "JavaScript tilidagi quyidagi funksiyaning ma’nosi nima? indexOf",
+      "answer" : "*Simvol"
+    },
+    {
+      "number" : "139",
+      "question" : "JavaScriptda toLowerCase() funksiyaning vazifasi nima?",
+      "answer" : "*Bu funksiya rus yoki lotin alifbosidagi katta harflarni kichik harflarga almashtiradi."
+    },
+    {
+      "number" : "140",
+      "question" : "JavaScriptda alert, prompt, confirm funksiyalari qanday funksiyalar deb ataladi?",
+      "answer" : "*Xabar beruvchi"
+    },
+    {
+      "number" : "141",
+      "question" : "JavaScriptda Binar amal mavjudmi?",
+      "answer" : "*Mavjud"
+    },
+    {
+      "number" : "142",
+      "question" : "JavaScriptda Math.abs(x) nimani hisoblaydi?",
+      "answer" : "*Qiymatning modulini hisoblash"
+    },
+    {
+      "number" : "143",
+      "question" : "JavaScriptda Math.round(x) nimani hisoblaydi?",
+      "answer" : "*X sonini butun qismini topish"
+    },
+    {
+      "number" : "144",
+      "question" : "JavaScriptda Math.log(x) nimani hisoblaydi?",
+      "answer" : "*Natural logarifmni hisoblash"
+    },
+    {
+      "number" : "145",
+      "question" : "JavaScriptda Math.acos(x) nimani hisoblaydi?",
+      "answer" : "*X ning arkkosinusini hisoblash"
+    },
+    {
+      "number" : "146",
+      "question" : "JavaScriptda Math.asin(x) nimani hisoblaydi?",
+      "answer" : "*X ning arksinusini hisoblash"
+    },
+    {
+      "number" : "147",
+      "question" : "JavaScriptda Math.atan2(a,b) nimani hisoblaydi?",
+      "answer" : "*Arktanges a / b bo’yich hisoblash;"
+    },
+    {
+      "number" : "148",
+      "question" : "JavaScriptda Math.ceil(x) nimani hisoblaydi?",
+      "answer" : "*X ga juda yaqin sonni topish"
+    },
+    {
+      "number" : "149",
+      "question" : "JavaScriptda Math.max(a,b) nimani hisoblaydi?",
+      "answer" : "*A va b sonlar ichidan eng kattasini topish"
+    },
+    {
+      "number" : "150",
+      "question" : "JavaScriptda Math.exp(x) nimani hisoblaydi?",
+      "answer" : "*Exp ni hisoblash"
+    },
+    {
+      "number" : "151",
+      "question" : "JavaScriptda Math.pow(a,b) nimani hisoblaydi?",
+      "answer" : "*A ning b chi darajasini hisoblash"
+    },
+    {
+      "number" : "152",
+      "question" : "JavaScriptda Math.random() nimani hisoblaydi?",
+      "answer" : "*To’g’ri javob yo’q"
+    },
+    {
+      "number" : "153",
+      "question" : "JavaScriptda Math.min(a,b) nimani hisoblaydi?",
+      "answer" : "*A va b sonlar ichidan eng kichigini topish"
+    },
+    {
+      "number" : "154",
+      "question" : "JavaScript tilini qaysi muharrirda yozish qulay?",
+      "answer" : "*Notepad"
+    },
+    {
+      "number" : "155",
+      "question" : "HTML va JavaScript tillari birgalikda . . . hosil qiladi",
+      "answer" : "*DHTML"
+    },
+    {
+      "number" : "156",
+      "question" : "Java Scriptda yozilgan dastur kodini kompilyasiya qilish shartmi?",
+      "answer" : "*Shart emas va qilinmaydi"
+    },
+    {
+      "number" : "157",
+      "question" : ". . . yordamida brauzer ishini boshqarish mumkin",
+      "answer" : "*JavaScript"
+    },
+    {
+      "number" : "158",
+      "question" : "JavaScriptning funksional qo’llanishining necha xil usuli mavjud?",
+      "answer" : "*4"
+    },
+    {
+      "number" : "159",
+      "question" : "Gipermatnli tizimlar uchun dasturlash tillarining asosiy vazifasi nima?",
+      "answer" : "*Gipermatnli o’tishlarni dasturlashtir"
+    },
+    {
+      "number" : "160",
+      "question" : "JavaScriptda gipermatnli o’tishga keltrililgan holda ogohlantiruvchi oynani chiqarish qaysi javobda to’g’ri ko’rsatilgan?",
+      "answer" : "*<A HREF =”JavaScript: alert(‘Diqqat!!!’);”>Diqqat!!!</A>"
+    },
+    {
+      "number" : "161",
+      "question" : "JavaScriptda tugmani bosish ya’ni onClick hodisasi qanday tartibda hosil qilish mumkin?",
+      "answer" : "*<FORM>INPUT TYPE=button VALUE=”Knopka” onCLick=”window.alert (‘Diqqat!!!’);”></FORM>"
+    },
+    {
+      "number" : "162",
+      "question" : "JavaScriptda location metodi nima uchun mo’ljallangan?",
+      "answer" : "*Sahifani yuklashni va qayta yuklashni boshqarish uchun mo’ljallangan"
+    },
+    {
+      "number" : "163",
+      "question" : "JavaScriptda reload metodi nima uchun mo’ljallangan?",
+      "answer" : "*Instrumentlar panelidagi Reload tugmachasini bosgandagi brauzer harakatini to’laligicha modellaydi"
+    },
+    {
+      "number" : "164",
+      "question" : "JavaScriptda Regular Expression (Shablon) yaratish uchun qaysi operatordan foydalaniladi?",
+      "answer" : "*RegExp"
+    },
+    {
+      "number" : "165",
+      "question" : "JavaScriptda Stringda qidirish va almashtirish Tekstni ichidan qandaydir so’zni yoki belgini qidirib keyin uni almashtirish",
+      "answer" : "*Replace"
+    },
+    {
+      "number" : "166",
+      "question" : "Web sahifa yaratishda HTML tilidagi quyidagi tegning ma’nosi nima? <frameset>",
+      "answer" : "*Ekranni freymlarga bo‘lish"
+    },
+    {
+      "number" : "167",
+      "question" : "Web sahifa yaratishda HTML tilidagi quyidagi tegning ma’nosi nima? <frame> ",
+      "answer" : "*Freym(ramka)ning xossalari"
+    },
+    {
+      "number" : "168",
+      "question" : "Web sahifa yaratishda HTML tilidagi quyidagi tegning ma’nosi nima? <!--- >",
+      "answer" : "*Izoh qo‘yish"
+    },
+    {
+      "number" : "169",
+      "question" : "Web sahifa yaratishda HTML tilidagi quyidagi belging ma’nosi nima? &lt",
+      "answer" : "Web sahifa yaratishda HTML tilidagi quyidagi belging ma’nosi nima? &lt"
+    },
+    {
+      "number" : "170",
+      "question" : "Web sahifa yaratishda HTML tilidagi quyidagi belging ma’nosi nima? &gt",
+      "answer" : "Web sahifa yaratishda HTML tilidagi quyidagi belging ma’nosi nima? &gt"
+    },
+    {
+      "number" : "171",
+      "question" : "Web sahifa yaratishda HTML tilidagi quyidagi belging ma’nosi nima? &amp",
+      "answer" : "*& belgisi"
+    },
+    {
+      "number" : "172",
+      "question" : "Web sahifa yaratishda HTML tilidagi quyidagi belging ma’nosi nima? &quot",
+      "answer" : "Web sahifa yaratishda HTML tilidagi quyidagi belging ma’nosi nima? &quot"
+    },
+    {
+      "number" : "173",
+      "question" : "Web sahifa yaratishda HTML tilidagi quyidagi belging ma’nosi nima? &copy",
+      "answer" : "*Copyright belgisi"
+    },
+    {
+      "number" : "174",
+      "question" : "Web sahifa yaratishda HTML tilidagi quyidagi belging ma’nosi nima? &nbsp",
+      "answer" : "*Bo‘sh joy"
+    },
+    {
+      "number" : "175",
+      "question" : "Web sahifa yaratishda HTML tilidagi quyidagi tegning ma’nosi nima? Input",
+      "answer" : "*Kiritish maydoni"
+    },
+    {
+      "number" : "176",
+      "question" : "Web sahifa yaratishda HTML tilidagi quyidagi belging ma’nosi nima? Select",
+      "answer" : "*Variantlar ro‘yxati"
+    },
+    {
+      "number" : "177",
+      "question" : "Web sahifa yaratishda HTML tilidagi quyidagi tegning ma’nosi nima? Form",
+      "answer" : "*Formani aniqlash"
+    },
+    {
+      "number" : "178",
+      "question" : "Agar a=5 bo’lsa, quyidagi operatordan so’ng ekranda necha chiqadi? Documet.write(++a)",
+      "answer" : "*6"
+    },
+    {
+      "number" : "179",
+      "question" : "Javascriptda massiv bilan ishlash jarayonida ikita massivni qo’shish metodi qaysi qatorda to’g’ri ko’rsatilgan?",
+      "answer" : ""
+    },
+    {
+      "number" : "180",
+      "question" : "Agar a=5 bo’lsa, quyidagi operatordan so’ng ekranda necha chiqadi? Documet.write(a--)",
+      "answer" : "*5"
+    },
+    {
+      "number" : "181",
+      "question" : "Java scriptda agar a=5 bo’lsa quyidagi operatordan so’ng ekranda necha chiqadi? Document.write(a++)",
+      "answer" : "*5"
+    },
+    {
+      "number" : "182",
+      "question" : "Agar acriptda Web-sahifa yaratishda xatolik bo’lsa ekranda nma chiqadi?",
+      "answer" : "*Web-sahifada hech narsa chiqmaydi"
+    },
+    {
+      "number" : "183",
+      "question" : "Agar a=5 bo’lsa quyidagi operatordan so’ng ekranda nechi chiqadi? If (a<5) {document.write(a--);} else{{ document.write(++ a);}",
+      "answer" : "*6"
+    },
+    {
+      "number" : "184",
+      "question" : "Agar a=5 bo’lsa quyidagi operatordan so’ng ekranda nechi chiqadi? If (a%2=1) {document.write(-- a);} else{{ document.write(++ a);}",
+      "answer" : "*4"
+    },
+    {
+      "number" : "185",
+      "question" : "JavaScriptda window.open metodi nima qiladi?",
+      "answer" : "*Yangi oyna ochadi"
+    },
+    {
+      "number" : "186",
+      "question" : "javaScriptda takrorlash operatori qaysi qatorda to’g’ri keltirilgan?",
+      "answer" : "*for"
+    },
+    {
+      "number" : "187",
+      "question" : "Agar a=5 va s=0 bo’lsa quyidagi operatordan so’ng s nechiga teng ? for (i=1 ; i<=a ; i++) {s+=i}",
+      "answer" : "*15"
+    },
+    {
+      "number" : "188",
+      "question" : "PHP tarixi qaysi yildan boshlangan ?",
+      "answer" : "*1995"
+    },
+    {
+      "number" : "189",
+      "question" : "javaScriptda o’zgaruvchanlar qanday e’lon qilinadi?",
+      "answer" : "*var orqali"
+    },
+    {
+      "number" : "190",
+      "question" : "Agar a=5 va s=0 bo’lsa quyidagi opratordan so’ng s nechiga teng? For (i=1;i<=a i++){s*=i}",
+      "answer" : "*0"
+    },
+    {
+      "number" : "191",
+      "question" : "Web-saifada KGD- 301-302 chiqarish uchun Javasсriptdagi qaysi buyrug’ni yozish kerak?",
+      "answer" : "*document.write(“KGD- 301-302”)"
+    },
+    {
+      "number" : "192",
+      "question" : "JavaScriptda dasturlash tilida quyidagi belgilar nimani bildiradi? []",
+      "answer" : "*massivlar"
+    },
+    {
+      "number" : "193",
+      "question" : "JavaScriptda dasturlash tilida quyidagi belgilar nimani bildiradi? ==",
+      "answer" : "* Mantiqiy tekshirishda tengligini"
+    },
+    {
+      "number" : "194",
+      "question" : "Agar a=5 va s=1 bo’lsa quyidagi opratordan so’ng s nechiga teng? For (i=1;i<a i+=2){s*=i}",
+      "answer" : "*3"
+    },
+    {
+      "number" : "195",
+      "question" : "JavaScripda massiv e’lon qilish?",
+      "answer" : "*var nomi=[qiymat1,qiymat2,.. qiymatN]"
+    },
+    {
+      "number" : "196",
+      "question" : "JavaScriptda dasturlash tilida quyidagi belgilar nimani bildiradi? !=",
+      "answer" : "JavaScriptda dasturlash tilida quyidagi belgilar nimani bildiradi? !="
+    },
+    {
+      "number" : "197",
+      "question" : "JavaScriptda a massiv bo’lsa quyidagi buyruq nima bo’ladi?a.unshift(“ KGD-301-302”)",
+      "answer" : "*a-massivning boshiga qo’shadi"
+    },
+    {
+      "number" : "198",
+      "question" : "JavaScriptda dasturlash tilida quyidagi belgilar nimani bildiradi? %",
+      "answer" : "*qoldiqni hisoblaydi"
+    },
+    {
+      "number" : "199",
+      "question" : "JavaScriptda dasturlash tilida quyidagi belgilar nimani bildiradi? /**/",
+      "answer" : "*blok izohini"
+    },
+    {
+      "number" : "200",
+      "question" : "JavaScriptda dasturlash tilida quyidagi belgilar nimani bildiradi? &&",
+      "answer" : "JavaScriptda dasturlash tilida quyidagi belgilar nimani bildiradi? &&"
+    },
+    {
+      "number" : "201",
+      "question" : "Agar a=5 va s=0 bo’lsa quyidagi opratordan so’ng s nechiga teng? For(i=1;i<a i<=a;i++){s*=2}",
+      "answer" : "*0"
+    },
+    {
+      "number" : "202",
+      "question" : "JavaScriptda taqqoslash jarayonida ko’p shart bo’lsa qaysi belgi yoki so’z orqali VA mantiq foydalanadi?",
+      "answer" : "*&&"
+    },
+    {
+      "number" : "203",
+      "question" : "JavaScriptda taqqoslash jarayonida ko’p shart bo’lsa qaysi belgi yoki so’z orqali YOKI mantiq foydalanadi?",
+      "answer" : "*II"
+    },
+    {
+      "number" : "204",
+      "question" : "JavaScriptda takrorlash operatori qaysi qatorda to’g’ri ko’rsatilgan?",
+      "answer" : "*while"
+    },
+    {
+      "number" : "205",
+      "question" : "Web- sahifalar nechta asosiy qismdan tashkil topgan?",
+      "answer" : "*2"
+    },
+    {
+      "number" : "206",
+      "question" : "PHP ning asoschisi kim?",
+      "answer" : "*Rasmus Lerdorf"
+    },
+    {
+      "number" : "207",
+      "question" : "Web- sahifalar qaysi teg bilan boshlanadi?",
+      "answer" : "*<HTML>"
+    }
+    ,
+    {
+      "number" : "208",
+      "question" : "JavaScriptda operatorlaridagi quydagi amalni qaysi qatorda to’g’ri kursatilgan (Xossaga murojat)",
+      "answer" : "*."
+    }
+  ]

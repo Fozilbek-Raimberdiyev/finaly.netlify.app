@@ -1,0 +1,50 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<link rel="icon" href="../images/favicon.png" type="">
+		<link rel="preconnect" href="https://fonts.googleapis.com" />
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+		<link
+			href="https://fonts.googleapis.com/css2?family=Mukta:wght@500;800&display=swap"
+			rel="stylesheet"
+		/>
+		<title>Kompyuterni tashkillashtirish</title>
+		<link rel="stylesheet" href="../css/style.css" />
+	</head>
+	<body>
+		<header>
+			<ul>
+				<li>
+					<a class="source" href="./KT javoblari.pdf" target="_blank">Manbaga havola 1</a>
+					<a class="source" href="./KT savollar ruyhati_to`g`rilangan.pdf" target="_blank">Manbaga havola 2</a>
+					<a class="source" href="./KT test 200.pdf" target="_blank">Manbaga havola 3</a>
+					<a class="source" href="./Компьютерни ташкил этилиши узб.pdf" target="_blank">Manbaga havola 4</a>
+				</li>
+			</ul>
+			<a class="main-page-btn" href="../index.html">Bosh sahifa</a>
+		</header>
+		<main id="app">
+			<div class="searchform">
+				<input type="text" v-model="search" placeholder="Izlash"/>
+			</div>
+		<div class="content" v-if="filterQuestion.length">
+			<div v-for="question in filterQuestion">
+				<p class='question'> {{ question.number}}. {{ question.question }}</p>
+				<p class="answer"> Javob: {{ question.answer }}</p>
+			</div>
+		</div>
+		<div class="error" v-else>
+			<!-- <h2>Hech qanaqa ma'lumot topilmadi</h2> -->
+			<img src="../images/no-result.png" alt="error">
+			<h3>Ma'lumot topilmadi</h3>
+		</div>
+</main>
+	</body>
+	<script src="https://cdn.jsdelivr.net/npm/vue@2/dist/vue.js"></script>
+	<script type="module" src="com.js"></script>
+</html>

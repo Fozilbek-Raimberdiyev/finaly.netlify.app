@@ -1,0 +1,803 @@
+[
+	{
+		"number": "1",
+		"question": "Dasturiy ta'minot jarayonlari modellariga quyidagilarning qaysilari kirmaydi?",
+		"answer": "d)*Dispersiya modeli"
+	},
+	{
+		"number": "2",
+		"question": "Sharshara usulidan ko’ra ishlab chiqish jarayonida talablari o'zgaruvchan bo’lgan tizimlarni yaratishda qaysi model qulay hisoblanadi",
+		"answer": "*Incremental"
+	},
+	{
+		"number": "3",
+		"question": "Boshqaruv nuqtai nazaridan, incremental yondashuv qanday muammoga ega",
+		"answer": "Jarayon ko'rinmasligi  b)Yangi qo'shimchalar qo'shilishi bilan tizim strukturasi yomonlashishi  "
+	},
+	{
+		"number": "4",
+		"question": "4)Protatip nima",
+		"answer": "a)*bu kontseptsiyalarni namoyish qilish, loyiha variantlarini sinab ko'rish hamda muammo va uning mumkin bo'lgan echimlari haqida ko'proq ma'lumot olish uchun ishlatiladigan dasturiy ta'minot tizimining dastlabki versiyasi"
+	},
+	{
+		"number": "5",
+		"question": "5)UML ning kengaytmasi toping",
+		"answer": "a)Unified Modeling Language"
+	},
+	{
+		"number": "6",
+		"question": "6)Amaliy xarajatlar, rejalashtirish va ishonchlilik masalalarini, shuningdek, dasturiy ta'minot mijozlari va ishlab chiqaruvchilarining ehtiyojlarini hisobga oladigan dasturiy ta'minotni ishlab chiqarishning tizimli yondashuv nima deyiladi?",
+		"answer": "a)Dasturiy injiniring"
+	},
+	{
+		"number": "7",
+		"question": "7)Dasturiy ta’minot xususiyatlari?",
+		"answer": "d)Barcha javoblar to‘g‘ri "
+	},
+	{
+		"number": "8",
+		"question": "8)Barcha harakatlari oldindan rejalashtirilgan va taraqqiyot ushbu rejaga muvofiq o'lchanadigan jarayonlar …",
+		"answer": "a)Rejaga asoslangan jarayonlar"
+	},
+	{
+		"number": "9",
+		"question": "9)Tizimdan qanday xizmatlar talab qilinishini tushunish va aniqlash hamda tizimning ishlashi va rivojlanishidagi cheklovlarni aniqlash jarayoni nima deyiladi?",
+		"answer": "a)Dasturiy ta'minot spetsifikatsiyasi"
+	},
+	{
+		"number": "10",
+		"question": "10)Kontseptsiyalarni namoyish qilish, loyiha variantlarini sinab ko'rish hamda muammo va uning mumkin bo'lgan echimlari haqida ko'proq ma'lumot olish uchun ishlatiladigan dasturiy ta'minot tizimining dastlabki versiyasi nima deb ataladi?",
+		"answer": "a)Prototip"
+	},
+	{
+		"number": "11",
+		"question": "11)… bu bosqichma-bosqich rivojlanish usullari bo'lib, unda o'sishlar kichik bo'ladi va odatda tizimning yangi nashrlari yaratiladi va har ikki yoki uch haftada mijozlarga taqdim etiladi. ",
+		"answer": "a)Agile usullar"
+	},
+	{
+		"number": "12",
+		"question": "12)Katta loyihalarga xos bo'lgan murakkablik tan olingan Agility at Scale-ga o'tish nima deyiladi?",
+		"answer": "a)ASM(Agile Scaling Model) da masshtablashning yakuniy bosqichi"
+	},
+	{
+		"number": "13",
+		"question": "13. Tizimga qo'yiladigan funktsional talablar qanday vazifani bajaradi?",
+		"answer": "A)* tizim nima qilishi kerakligini tavsiflaydi."
+	},
+	{
+		"number": "14",
+		"question": "14. Boshlang‘ich versiyasini ishlab chiqish, foydalanuvchilar va boshqalarning fikr-mulohazalarini inobatga olish va kerakli tizim ishlab chiqilgungacha bo’lgan davrda dasturiy ta’minotni bir necha versiyalar orqali rivojlantirish g‘oyasiga asoslanadi - deb nimaga aytiladi?",
+		"answer": "D)* Incremental ishlab chiqish"
+	},
+	{
+		"number": "15",
+		"question": "15. System prototyping   nima degani?",
+		"answer": "C)* Tizimni prototiplash"
+	},
+	{
+		"number": "16",
+		"question": "16.Prototipni baholashni toping?",
+		"answer": "C) *Prototype evaluation"
+	},
+	{
+		"number": "17",
+		"question": "17. Intervyu qanday turlarga boʻlinadi?",
+		"answer": "A) *Kun tartibi oldindan belgilanmagan ochiq suhbatlar. "
+	},
+	{
+		"number": "18",
+		"question": "18. Focused ethnography nima?",
+		"answer": "D) *Yo'naltirilgan etnografiya"
+	},
+	{
+		"number": "19",
+		"question": "19. Dasturiy injiniring tog’ri tarif berilgan javobni toping?",
+		"answer": "A) *dasturiy ta'minot ishlab chiqarishning barcha jihatlari bilan bog'liq bo'lgan muhandislik intizomi bo'lib, u dastlabki kontseptsiyadan boshlab to foydalanish va texnik xizmat ko'rsatishgacha bo’lgan jarayonlarni qamrab oladi."
+	},
+	{
+		"number": "20",
+		"question": "20. Tizimning talablarga javob berish darajasi nima?",
+		"answer": "A)* Quality"
+	},
+	{
+		"number": "21",
+		"question": "21)Amaliy tadqiqotlar sifatida foydalanadigan tizim turlari qaysilar ?",
+		"answer": "a) Biriktirilgan tizim. Axborot tizimi.Sensorga asoslangan ma'lumotlarni yig'ish tizimi."
+	},
+	{
+		"number": "22",
+		"question": "22) Injiniring – bu  ______________________________.",
+		"answer": "a) reja va byudjet doirasida kerakli sifat natijalarini olish hisoblanadi."
+	},
+	{
+		"number": "23",
+		"question": "23) Jarayonning mukammalligi yondashuvi asosidagi umumiy jarayonni takomillashtirish bosqichlari to’g’ri korsatilgan javobni toping ?",
+		"answer": "a) Jarayonni o'lchash . Jarayon tahlili . Jarayonning o'zgarishi."
+	},
+	{
+		"number": "24",
+		"question": "24) Prototip – bu __________________________________________________.",
+		"answer": "a) kontseptsiyalarni namoyish qilish, loyiha variantlarini sinab ko'rish hamda muammo va uning mumkin bo'lgan echimlari haqida ko'proq ma'lumot olish uchun ishlatiladigan dasturiy ta'minot tizimining dastlabki versiyasi."
+	},
+	{
+		"number": "25",
+		"question": "25) O'zgarishlarni boshqarish jarayonining  asosiy bosqichilari ?",
+		"answer": "a) Muammoni tahlil qilish va o'zgartirish spetsifikatsiyasi. O'zgarishlarni tahlil qilish va xarajatlarni hisoblash.   Amalga oshirishni o'zgartirish. "
+	},
+	{
+		"number": "26",
+		"question": "26) Talablar spetsifikatsiyasi – bu  ______________________________________.",
+		"answer": "a) talablar hujjatida foydalanuvchi va tizim talablarini yozish jarayonidir."
+	},
+	{
+		"number": "27",
+		"question": "27) Foydalanuvchi talablari – bu ______________________________.",
+		"answer": "a) tizimning tizim foydalanuvchilariga qanday xizmatlar ko'rsatishi kutilayotgani va u qanday cheklovlar ostida ishlashi kerakligi to'g'risidagi tabiiy tildagi bayonotlar va diagrammalar."
+	},
+	{
+		"number": "28",
+		"question": "28) Tizimga qo'yiladigan talablar – bu  _________________________________.",
+		"answer": "c) tizim taqdim etishi kerak bo'lgan xizmatlarning tavsifi va dasturdan foydalanish jarayonidagi cheklovlar hisoblanadi."
+	},
+	{
+		"number": "29",
+		"question": "29)Dasturiy ta'minot mijozlarning o'zgaruvchan talablarini bajarish uchun rivojlana oladigan tarzda yozilishi kerak. Bu juda muhim xususiyatdir, chunki dasturiy ta'minotni o'zgartirish o'zgaruvchan biznes muhitining muqarrar talabidir.- ushbu tasnif Dasturiy taminotning qaysi xususiyatini ifodalaydi ?",
+		"answer": "A) Saqlash imkoniyati (Maintainability)"
+	},
+	{
+		"number": "30",
+		"question": "30)Amaliy xarajatlar, rejalashtirish va ishonchlilik masalalarini, shuningdek, dasturiy ta'minot mijozlari va ishlab chiqaruvchilarining ehtiyojlarini hisobga oladigan dasturiy ta'minotni ishlab chiqarishning tizimli yondashuv hisoblanuvchi soha qaysi ? ",
+		"answer": "B) Dasturiy injiniring"
+	},
+	{
+		"number": "31",
+		"question": "31)Ko'plab foydalanuvchilar tomonidan ishlatiladigan juda ko'p bog'langan kompyuter tizimlaridan tashkil topgan. Foydalanuvchilar dasturiy ta'minotni sotib olmaydilar, lekin dastur qancha ishlatilganiga qarab to'laydilar yoki ularning ekranida ko'rsatilgan reklamalarni tomosha qilish evaziga bepul kirish huquqiga ega bo’ladilar.- Dasturiy injiniringning qaysi turi tariflanmoqda ?",
+		"answer": "C) Bulutli hisoblash(Cloud computing)"
+	},
+	{
+		"number": "32",
+		"question": "32)Dasturiy ta'minotni tashkil etish sohasida Bulutli hisoblash(Cloud computing)ning paydo bo’lishi Veb-brauzerda boy interfeyslarni yaratishni qo'llab-quvvatlaydigan qaysi texnologiyalarni yaratilishiga sabab bo’ldi ?",
+		"answer": "D) AJAX (Holdener 2008) va HTML5 (Freeman 2011)"
+	},
+	{
+		"number": "33",
+		"question": "33)Dasturiy ta'minotning funksionalligi va uning ishlashidagi cheklovlar aniqlanishi kerak bo’lgan Dasturiy injiniring faoliyati qaysi ?",
+		"answer": "A) Dasturiy ta'minot spetsifikatsiyasi."
+	},
+	{
+		"number": "34",
+		"question": "34)Spetsifikatsiya, ishlab chiqish, tasdiqlash va evolyutsiyaning asosiy jarayonlarini o’z ichiga oladigan va talablarni spetsifikatsiya qilish, dasturiy ta'minotni loyihalash, amalga oshirish va testdan o'tkazish kabi alohida jarayon bosqichlari sifatida taqdim etiladigan Dasturiy taminot jarayonlari modeli qaysi ?",
+		"answer": "B) Sharshara modeli"
+	},
+	{
+		"number": "35",
+		"question": "35)Boshlang‘ich versiyasini ishlab chiqish, foydalanuvchilar va boshqalarning fikr-mulohazalarini inobatga olish va kerakli tizim ishlab chiqilgungacha bo’lgan davrda dasturiy ta’minotni bir necha versiyalar orqali rivojlantirish g‘oyasiga asoslanuvchi DT jarayonlari modeli qaysi ?",
+		"answer": "C) Incremental rivojlanish"
+	},
+	{
+		"number": "36",
+		"question": "36)Yaratiladigan dasturiy ta'minotning tuzilishi, tizim tomonidan ishlatiladigan ma'lumotlar modellari va tuzilmalari, tizim komponentlari orasidagi interfeyslar va ba'zan foydalaniladigan algoritmlarning tavsifi deb nimaga aytiladi ? ",
+		"answer": "D) Dasturiy ta'minotni loyihalash"
+	},
+	{
+		"number": "37",
+		"question": "37)Kontseptsiyalarni namoyish qilish, loyiha variantlarini sinab ko'rish hamda muammo va uning mumkin bo'lgan echimlari haqida ko'proq ma'lumot olish uchun ishlatiladigan dasturiy ta'minot tizimining dastlabki versiyasi deb nimaga aytiladi ?",
+		"answer": "B) Prototip"
+	},
+	{
+		"number": "38",
+		"question": "38)Tizimning tizim foydalanuvchilariga qanday xizmatlar ko'rsatishi kutilayotgani va u qanday cheklovlar ostida ishlashi kerakligi to'g'risidagi tabiiy tildagi bayonotlar va diagrammalar to’plami nima deyiladi ?",
+		"answer": "C) Foydalanuvchi talablari"
+	},
+	{
+		"number": "39",
+		"question": "39.Dasturiy injiniringning asosiy muammolari ……….. ?",
+		"answer": "D)(#) Dasturiy ta’minotlarning xilma-xilligi, ularni ishlab chiqish muddatlarini qisqartirish talablari, hamda ishonchli dasturiy ta'minotlarni ishlab chiqishga talablarning oshishi bilan bog'liq. "
+	},
+	{
+		"number": "40",
+		"question": "40.Dasturiy injiniring – bu …… ?",
+		"answer": "A)(#) bu amaliy xarajatlar, rejalashtirish va ishonchlilik masalalarini, shuningdek, dasturiy ta'minot mijozlari va ishlab chiqaruvchilarining ehtiyojlarini hisobga oladigan dasturiy ta'minotni ishlab chiqarishning tizimli yondashuv hisoblanadi."
+	},
+	{
+		"number": "41",
+		"question": "41.Dasturiy ta'minot spetsifikatsiyasi  bu  … ?",
+		"answer": "B)(#) Dasturiy ta'minotning funksionalligi va uning ishlashidagi cheklovlar aniqlanishi kerak."
+	},
+	{
+		"number": "42",
+		"question": "42.Dasturiy ta'minotni ishlab chiqish bu … ?",
+		"answer": "A)(#) Spetsifikatsiyaga javob beradigan dasturiy ta'minot ishlab chiqarilishi kerak."
+	},
+	{
+		"number": "43",
+		"question": "  43. Dasturiy ta'minotni tekshirish bu ….. ?",
+		"answer": "         A)(#) Dasturiy ta'minot mijoz talablarini bajarishini ta'minlash uchun tekshirilishi kerak."
+	},
+	{
+		"number": "44",
+		"question": "  44. Dasturiy ta'minot evolyutsiyasi bu …. ?",
+		"answer": "     B)(#) Dasturiy ta'minot mijozlarning o'zgaruvchan ehtiyojlarini qondirish uchun rivojlanishi kerak."
+	},
+	{
+		"number": "45",
+		"question": "45. Dasturiy ta'minotni loyihalash bu ….. ?",
+		"answer": "        C)(#)  bu yaratiladigan dasturiy ta'minotning tuzilishi, tizim tomonidan ishlatiladigan ma'lumotlar modellari va tuzilmalari, tizim komponentlari orasidagi interfeyslar va ba'zan foydalaniladigan algoritmlarning tavsifi hisoblanadi."
+	},
+	{
+		"number": "46",
+		"question": "46. Agile usullar – bu … ?",
+		"answer": "   D)(#)  bosqichma-bosqich rivojlanish usullari bo'lib, unda o'sishlar kichik bo'ladi va odatda tizimning yangi nashrlari yaratiladi va har ikki yoki uch haftada mijozlarga taqdim etiladi"
+	},
+	{
+		"number": "47",
+		"question": "47. Agile usullarini masshtablash bu … ?",
+		"answer": "       D) (#) barcha javob to’g’ri ."
+	},
+	{
+		"number": "48",
+		"question": "48. Funktsional talablar bu ..?",
+		"answer": "    C)(#) bu tizim taqdim etishi kerak bo'lgan xizmatlar, tizim ma'lumbir kirishlarga qanday munosabatda bo'lishi va tizim muayyan vaziyatlarda o'zini qanday tutishi kerakligi haqidagi bayonotlardir"
+	},
+	{
+		"number": "49",
+		"question": "49. Mahsulot talablari bu ..?",
+		"answer": "     A)(#) ushbu talablar dasturiy ta'minotning ishlash vaqtini belgilaydi yoki cheklaydi."
+	},
+	{
+		"number": "50",
+		"question": "50. Tashkiliy talablar  bu ..?",
+		"answer": "     B)(#) Bu talablar mijoz va ishlab chiquvchi tashkilotlardagi siyosat va tartiblardan kelib chiqadigan umumiy tizim talablaridir."
+	},
+	{
+		"number": "51",
+		"question": "51. Injiniring jarayonlariga qo'yiladigan talablar qaysilar ?",
+		"answer": "         A) (#)  aniqlash va tahlil qilish, spetsifikatsiyaga, validatsiya"
+	},
+	{
+		"number": "52",
+		"question": "52.qanday turdagi dasturiy maxsulotlar mavjud?",
+		"answer": "A.Umumiy mahsulotlar, Buyurtma qilingan dasturiy ta'minotlar."
+	},
+	{
+		"number": "53",
+		"question": "53.ma'lum bir mijoz tomonidan buyurtma qilingan va ishlab chiqilgan tizimlar qanday dasturiy taminot.?",
+		"answer": "A.Buyurtma qilingan dasturiy ta'minotlar."
+	},
+	{
+		"number": "54",
+		"question": "54.Rivojlanish jamoasi Scrum atamasi tarifini toping",
+		"answer": "A.O'z-o'zini tashkil etuvchi dasturiy ta'minot ishlab chiqaruvchilar guruhi, ular etti kishidan oshmasligi kerak. Ular dasturiy ta'minot va boshqa muhim loyiha hujjatlarini ishlab chiqish uchun mas'uldirlar"
+	},
+	{
+		"number": "55",
+		"question": "55.Refactoring Tamoyilini tafsifini toping..",
+		"answer": "A.Potensial kod yaxshilanishlari aniqlangandan so'ng barcha ishlab chiquvchilar kodni doimiy ravishda qayta ko'rib chiqadilar. Bu kodni sodda va barqaror saqlab turadi"
+	},
+	{
+		"number": "56",
+		"question": "56.Etnografiya nima?",
+		"answer": "A.bu operatsion jarayonlarni tushunish va ushbu jarayonlarni qo'llab-quvvatlash uchun dasturiy ta'minotga bo'lgan talablarni aniqlashda foydalanishi mumkin bo'lgan kuzatish usuli."
+	},
+	{
+		"number": "57",
+		"question": "57. Dasturiy ta’minotning qaysi xususiyati so’rovlarga javob berish tezligi, qayta ishlash vaqti, resurslardan foydalanish va boshqalarni o'z ichiga oladi?",
+		"answer": "C. Samaradorlik"
+	},
+	{
+		"number": "58",
+		"question": "58. Dasturiy ta'minot evolyutsiyasida …?",
+		"answer": "D. O'zgarib borayotgan bozor va mijozlarning talablariga mos ravishda dasturiy ta'minot takomillashtirib boriladi"
+	},
+	{
+		"number": "59",
+		"question": "59. Olimlar va muhandislar tomonidan jismoniy jarayonlar yoki vaziyatlarni modellashtirish uchun ishlab chiqilgan tizimlar?",
+		"answer": "A. Modellashtirish va simulyatsiya qilish tizimlari"
+	},
+	{
+		"number": "60",
+		"question": "60. Spetsifikatsiya, ishlab chiqish, tasdiqlash va evolyutsiyaning asosiy jarayonlarini o’z ichiga oluvchi va ularning talablarini spetsifikatsiya qiluvchi dasturiy ta’minot modeli?",
+		"answer": "C. Sharshara modeli"
+	},
+	{
+		"number": "61",
+		"question": "61. Tizim talablarining o'zgarishini kutish va tizimni ushbu o'zgarishlarga mos keladigan tarzda loyihalashtirish. Ushbu tavsif Agilening qaysi prinsipga xos?",
+		"answer": "B. O'zgarishlarni qabul qilish"
+	},
+	{
+		"number": "62",
+		"question": "62. Potensial kod yaxshilanishlari aniqlangandan so'ng barcha ishlab chiquvchilar kodni doimiy ravishda qayta ko'rib chiquvchi tamoyil?",
+		"answer": "A. Refactoring"
+	},
+	{
+		"number": "63",
+		"question": "63. Portativlikning o’lchovi nima?",
+		"answer": "D. Maqsadga bog'liq bayonotlar foizi, maqsadli tizimlar soni"
+	},
+	{
+		"number": "64",
+		"question": "64. Dasturiy injiniring individual dasturlashdan ko'ra qanday dasturiy ta'minotni ishlab chiqishga ko’proq mo'ljallangan?",
+		"answer": "A. professional"
+	},
+	{
+		"number": "65",
+		"question": "65. O'zgarishlarni qabul qilish prinsipi tavsifi nimadan iborat?",
+		"answer": "A. Tizim talablarining o'zgarishini kutish va tizimni ushbu o'zgarishlarga mos keladigan tarzda loyihalashtirish."
+	},
+	{
+		"number": "66",
+		"question": "66. Dasturiy ta'minot tizimini ishlab chiqarishga qaratilgan harakatlar to'plami nima deb ataladi?",
+		"answer": "A. Dasturiy ta'minot jarayoni"
+	},
+	{
+		"number": "67",
+		"question": "67. Qo'shimcha etkazib berish prinsipi tavsifi nimadan iborat?",
+		"answer": "A. Dasturiy ta'minot bosqichma-bosqich ishlab chiqiladi, mijoz har bir rivojlanishga kiritilishi kerak bo'lgan talablarni belgilaydi."
+	},
+	{
+		"number": "68",
+		"question": "68. Agile usullarini masshtablashning asosiy talabini qanday birlashtirish mumkin?",
+		"answer": "A. rejali yondashuvlar bilan"
+	},
+	{
+		"number": "69",
+		"question": "69. Oddiy loyihalash tamoyili tafsifi nima?",
+		"answer": "A. Mavjud talablarni bajarish uchun etarli darajada loyihalash amalga oshirildi "
+	},
+	{
+		"number": "70",
+		"question": "70. Sprintning tarifi nimadan iborat?",
+		"answer": "A. Rivojlanish iteratsiyasi. Sprintlar odatda 2 dan 4 haftagacha davom etadi."
+	},
+	{
+		"number": "71",
+		"question": "71 .  ……  bu - Avtomatlashtirilgan modulning test tizimi ushbu funksiyaning o'zi amalga oshirilgunga qadar yangi funksional qism uchun testlarni yozish uchun ishlatiladi.",
+		"answer": "A ) Birinchi ishlanmani sinab ko'rish."
+	},
+	{
+		"number": "72",
+		"question": "72.Tranzaksiyaga asoslangan interaktiv ilovalar qanday ilovalar?",
+		"answer": "A.Bu shaxsiy kompyuterda ishlaydigan dastur tizimlari yoki mobil qurilmada ishlaydigan ilovalar"
+	},
+	{
+		"number": "73",
+		"question": "73.Sharshara modelining bosqichlari to’ri keltirilgan qatorni belgilang:",
+		"answer": "A.Talablarni tahlil qilish; tizim va dasturiy ta’miotni loyihalashtirish; amalga oshirish va modellarni testdan o’tkazish; integratsiya va tizimni testlash; foydalanish va texnik xizmat ko’rsatish;"
+	},
+	{
+		"number": "74",
+		"question": "74.Boshlang‘ich versiyasini ishlab chiqish, foydalanuvchilar va boshqalarning fikr-mulohazalarini inobatga olish va kerakli tizim ishlab chiqilgungacha bo’lgan davrda dasturiy ta’minotni bir necha versiyalar orqali rivojlantirish g‘oyasiga asoslanuvchi ishlab chiqish qanday ishlab chiqish?",
+		"answer": "A.Dicremental"
+	},
+	{
+		"number": "75",
+		"question": "75.… dasturiy ta'minot tizimini aniqlash, loyihalash, amalga oshirish va sinovdan o'tkazishdan iborat bo'lgan umumiy maqsadli texnik, hamkorlik va boshqaruv faoliyatining ketma-ketligidan iborat.",
+		"answer": "A.Incremental ishlab chiqish"
+	},
+	{
+		"number": "76",
+		"question": "76.Mijozlar butun rivojlanish jarayonida yaqindan ishtirok etishlari kerak. Ularning roli yangi tizim talablarini ta'minlash va birinchi o'ringa qo'yish va tizimning joriy versiyalarini baholashdir. Bu-?",
+		"answer": "A.Mijozlarning ishtiroki"
+	},
+	{
+		"number": "77",
+		"question": "77.Plan release-?",
+		"answer": "A.Rejani tadbiq etish"
+	},
+	{
+		"number": "78",
+		"question": "78.Tizimga qo'yiladigan talablar uchun eng mos ta’rifni keltiring",
+		"answer": "A.Tizim taqdim etishi kerak bo'lgan xizmatlarning tavsifi va dasturdan foydalanish jarayonidagi cheklovlar"
+	},
+	{
+		"number": "79",
+		"question": "79. Operatsion jarayonlarni tushunish va ushbu jarayonlarni qo'llab-quvvatlash uchun dasturiy ta'minotga bo'lgan talablarni aniqlashda foydalanishi mumkin bo'lgan kuzatish usuli.",
+		"answer": "A.Etnografiya"
+	},
+	{
+		"number": "80",
+		"question": "80)  Komputer zahiralarini va amaliy dasturlarni boshqaruvchi, komputer bilan foydalanuvchi o‘rtasidagi muloqot ni ta’minlab beruvchi dasturlar majmuasi …deyiladi.",
+		"answer": "A) *Operatsion tizim;"
+	},
+	{
+		"number": "81",
+		"question": "81) Amaliy tizimlar va dasturiy mahsulotlarni ishlab chiqishda eng keng ",
+		"answer": "C)* Bosqichma-bosqich rivojlanish"
+	},
+	{
+		"number": "82",
+		"question": "82) Ideal holda, komponent kamchiliklari sinov jarayonining boshida aniqlanadi   va interfeys bilan bog'liq muammolar qachon topiladi?  ",
+		"answer": "A) *Tizim integratsiya qilinganda"
+	},
+	{
+		"number": "83",
+		"question": "83) Kim komponentni bilgani va shuning uchun test holatlarini yaratish uchun eng yaxshi hodim hisoblanadi?",
+		"answer": "D)* Dasturchi"
+	},
+	{
+		"number": "84",
+		"question": "84) V-modeli qaysi jarayon modelining har bir bosqichiga mos keladigan   dasturiy ta'minotni tekshirish faoliyatini ko'rsatadi?  ",
+		"answer": "B) *Sharshara"
+	},
+	{
+		"number": "85",
+		"question": "85) Jarayonning yetuklik darajasi bo'yicha ishlar dasturiy ta'minot qaysi jihatiga  katta ta'sir ko'rsatdi?  ",
+		"answer": "A) *Sanoatiga"
+	},
+	{
+		"number": "86",
+		"question": "86)  Tizimli dasturiy ta’minot tarkibiga kiruvchi dasturlar qaysi qatorda bexato berilgan?",
+		"answer": "A) *operatsion tizimlar, servis dasturlar;"
+	},
+	{
+		"number": "87",
+		"question": "87) XP da talablar qanday amalga oshiriladigan stsenariylar sifatida   ifodalanadi?  ",
+		"answer": "A) *To'g'ridan-to'g'ri bir qator vazifalar sifatida"
+	},
+	{
+		"number": "88",
+		"question": "88. Samaradorlik bu-",
+		"answer": "C) Dasturiy ta'minot tizim resurslaridan behuda foydalanmasligi kerak, masalan xotira va protsessor. Shunday qilib samaradorlik bu so’rovlarga javob berish tezligi, qayta ishlash vaqti, resurslardan foydalanish va boshqalarni o'z ichiga oladi."
+	},
+	{
+		"number": "89",
+		"question": "89.Incremental rivojlanish sharshara modeliga nisbatan qanday afzalliklarga ega?",
+		"answer": "A) xarajatlari kamayadi,  fikr-mulohazalarini olish osonroq bo’ladi, dasturiy ta'minotni mijozga erta yetkazib berish va joylashtirish "
+	},
+	{
+		"number": "90",
+		"question": "90.Incremental yondashuv muammolarini ko’rsating:",
+		"answer": "B)Jarayonlar ko’rinmaydi, yangi qo'shimchalar qo'shilishi bilan tizim strukturasi yomonlashadi"
+	},
+	{
+		"number": "91",
+		"question": "91. O'zgarishlarni qabul qilish bu-",
+		"answer": "C) Tizim talablarining o'zgarishini kutish va tizimni ushbu o'zgarishlarga mos keladigan tarzda loyihalashtirish."
+	},
+	{
+		"number": "92",
+		"question": "92. Qo'shimcha etkazib berishga ta’rif bering:",
+		"answer": "C) Dasturiy ta'minot bosqichma-bosqich ishlab chiqiladi, mijoz har bir rivojlanishga kiritilishi kerak bo'lgan talablarni belgilaydi."
+	},
+	{
+		"number": "93",
+		"question": "93. Product backlog ning vazifasi nima?",
+		"answer": "B) maxsulotni orqada qolishi"
+	},
+	{
+		"number": "94",
+		"question": "94. Dasturiy ta'minotni sinab ko'rishda qanday testlash o'tkazilmaydi?",
+		"answer": "a)Modulli"
+	},
+	{
+		"number": "95",
+		"question": "95. Birlashgan modellashtirish tili – UML bu –",
+		"answer": "a)yagona modellashtirish tizimi"
+	},
+	{
+		"number": "96",
+		"question": "96. UML notation-da meros qanday ko'rsatigadi ...",
+		"answer": "a)chapdan o'ngga"
+	},
+	{
+		"number": "97",
+		"question": "97. Talablarni o'z ichiga olgan hujjat - ...",
+		"answer": "a)dasturiy ta'minot tizimi mijozlari uchun rasmiy retsept"
+	},
+	{
+		"number": "98",
+		"question": "98.Qanday talablar dasturiy ta'minotning ishlash vaqtini belgilaydi yoki cheklaydi?",
+		"answer": "A)Mahsulot talablari"
+	},
+	{
+		"number": "99",
+		"question": "99. Talablarni aniqlashda ikkita asosiy yondashuv mavjud:bularni toping?",
+		"answer": "A) Intervyu olish, ya’ni hodimlar bilan nima ish qilayotgani haqida gaplashish."
+	},
+	{
+		"number": "100",
+		"question": "100. Dasturiy ta’minot tizmini ishlab chiqarishga qaratilgan harakatlar to’plami nima deyiladi?",
+		"answer": "A) Dasturiy ta’minot jarayoni "
+	},
+	{
+		"number": "101",
+		"question": "101. Dasturiy ta’minot jarayonlari modellari toping?   1. Sharshara, 2. Incremental (bosqichma-bosqich) rivojlanish, 3. Saqlash           4. Konfiguratsiya, 5. Samaradorlik, 6. Xavfsizlik, 7. Integratsiya, 8. ishonchlilik  ",
+		"answer": "B) 1, 2, 4, 7"
+	},
+	{
+		"number": "102",
+		"question": "102. Dasturiy ta’minot tizimining muhim xususiyatlarini aniqlang?",
+		"answer": ""
+	},
+	{
+		"number": "103",
+		"question": "103. To’g’ri kelish, 2. Incremental, 3. Saqlash, 4. Konfiguratsiya, 5. Samaradorlik, 6. Xavfsizlik, 7. Integratsiya, 8. ishonchlilik",
+		"answer": "A)  1, 3, 5, 6, 8"
+	},
+	{
+		"number": "104",
+		"question": "104. …. dasturlash jamoasi dasturiy ta'minotni mumkin bo'lgan yaxshilanishlarni izlashini va ularni darhol amalga oshirishini anglatadi.   Nuqtalar o’rniga mos so’zni toping?  ",
+		"answer": "D) Refactoring"
+	},
+	{
+		"number": "105",
+		"question": "105. Jamoadagi Scrum ning vazifasi qanday?",
+		"answer": "B) Jamoaning kunlik yig'ilishi, taraqqiyotni ko'rib chiqadi va o'sha kuni qilinadigan ishlarga ustuvorlik beradi."
+	},
+	{
+		"number": "106",
+		"question": "106. Jamoadagi Scrum Master ning vazifasi qanday?",
+		"answer": "Scrum jarayonining bajarilishini ta'minlash uchun mas'uldir"
+	},
+	{
+		"number": "107",
+		"question": "107.  …. tizim ma'lum bir kirishlarga qanday munosabatda bo'lishi va tizim muayyan vaziyatlarda o'zini qanday tutishi kerakligi haqidagi bayonotlardir.",
+		"answer": "C) Funktsional talablar"
+	},
+	{
+		"number": "108",
+		"question": "108.Talablarni aniqlashdagi asosiy yondashuvlar qaysilar?",
+		"answer": "A) Intervyu B) Kuzatish a va b"
+	},
+	{
+		"number": "109",
+		"question": "109. …. bu operatsion jarayonlarni tushunish va ushbu jarayonlarni qo'llab-quvvatlash uchun dasturiy ta'minotga bo'lgan talablarni aniqlashda foydalanishi mumkin bo'lgan kuzatish usuli.",
+		"answer": "B) Etnografiya"
+	},
+	{
+		"number": "110",
+		"question": "110. Bular shaxsiy foydalanish uchun tizimlar bo'lib, foydalanuvchini qiziqtirishga mo'ljallangan. Ushbu tizim qaysi?",
+		"answer": "C) Ko’ngilochar tizim"
+	},
+	{
+		"number": "111",
+		"question": "111. Dasturiy ta'minotni testlashda testlovchilar aniq nima qiladi? ",
+		"answer": "B)   Dasturiy ta'minotni testlashdan o'tkazuvchilarning maqsadi dasturiy ta'minotdagi kamchiliklarni imkon qadar erta aniqlashdir. "
+	},
+	{
+		"number": "112",
+		"question": "112.Mijozning haqiqiy ehtiyojlariga javob berishini tekshirish uchun mijoz ma'lumotlaridan foydalangan holda tizim sinovdan o'tkaziladigan jarayon bu-",
+		"answer": "D) Qabul qilish testi "
+	},
+	{
+		"number": "113",
+		"question": "113.Dasturiy ta'minot evolyutsiyasi bosqichi-",
+		"answer": "B)  Bu yerda o'zgarib borayotgan bozor va mijozlarning talablariga mos ravishda dasturiy ta'minot takomillashtirib boriladi."
+	},
+	{
+		"number": "114",
+		"question": "114.Dasturiy ta'minotni loyihalash-",
+		"answer": "C) Bu yaratiladigan dasturiy ta'minotning tuzilishi, tizim tomonidan ishlatiladigan ma'lumotlar modellari va tuzilmalari, tizim komponentlari orasidagi interfeyslar va ba'zan foydalaniladigan algoritmlarning tavsifi hisoblanadi."
+	},
+	{
+		"number": "115",
+		"question": "115.Quyida tizim manfaatdor tomonlardan talablarni olish va tushunish sabablari keltirilgan, shulardan kelib chiqib qaysi javob to’g’ri berilgan?",
+		"answer": "D) Barcha javoblar  to’g’ri keltirilgan."
+	},
+	{
+		"number": "116",
+		"question": "116.Agile usullari qaysi turdagi tizimni ishlab chiqishda qulay hisoblanadi:",
+		"answer": "C)  Mijoz tomonidan ishlab chiqish jarayonida ishtirok etish bo'yicha aniq majburiyat mavjud bo'lgan va dasturiy ta'minotga ta'sir ko'rsatadigan bir nechta tashqi manfaatdor tomonlar va qoidalar mavjud bo'lgan tashkilot ichida maxsus tizimni ishlab chiqish."
+	},
+	{
+		"number": "117",
+		"question": "117.Quyidagilardan qaysi biri jarayon faoliyatidagi talablarni aniqlash va tushunishga kiradi?",
+		"answer": "A)  Bu tizimning manfaatdor tomonlari bilan ularning talablarini aniqlash uchun o'zaro hamkorlik qilish jarayonidir. Ushbu faoliyat davomida manfaatdor tomonlardan soha bo’yicha talablari va hujjatlar ham aniqlanadi."
+	},
+	{
+		"number": "118",
+		"question": "118.Quyida tabiiy til talablarini yozishda tushunmovchiliklarni kamaytirish uchun  amal qilish ko’rsatmalaridan qaysi biri noto’g’ri keltirilgan?",
+		"answer": "D) har bir foydalanuvchi talabi bilan mantiqiy asosni bog'lamaslikka harakat qilishingiz kerak. Mantiqiy asosda talab nima uchun kiritilganligi va talabni kim taklif qilgani (talab manbasi) tushuntirilishi shart emas, shunda talabni o'zgartirish kerak bo'lganda kim bilan maslahatlashishni bilish oson bo’ladi. "
+	},
+	{
+		"number": "119",
+		"question": "119.Tizim arxitekturasi nima?",
+		"answer": "a.Ushbu bob kutilayotgan tizim arxitekturasining yuqori darajadagi umumiy ko'rinishini taqdim etadi, tizim modullari bo'yicha funktsiyalarning taqsimlanishini ko'rsatadi. Qayta foydalaniladigan arxitektura komponentlarini ajratib ko'rsatish kerak"
+	},
+	{
+		"number": "120",
+		"question": "120. Albatta, amalda har doim ishlab chiqilayotgan kodga o'zgartirishlar kiritilishi kerak bo'ladi. Ushbu o'zgarishlarni osonlashtirish uchun XP ishlab chiquvchilari nimani taklif qilishdi ?",
+		"answer": "A) Kodni doimiy ravishda qayta ishlashni taklif qilishdi"
+	},
+	{
+		"number": "121",
+		"question": "121.Dasturiy ta'minotni validasiyasi nima ?",
+		"answer": "B) Bu yerda dasturiy ta'minot mijozning talabiga mos kelishiga ishonch hosil qilish uchun tekshiriladi"
+	},
+	{
+		"number": "122",
+		"question": "122) Dasturiy ta'minot sifatining xarakteristikasi, boshqa dasturlar bilan ma'lumot almashish va bir xil sharoitda birgalikda ishlash qobiliyati qanday nomlanadi?",
+		"answer": "A) Moslik "
+	},
+	{
+		"number": "123",
+		"question": "123)Ilova ichida obyektlarni namoyish etishni anglatadi bu qaysi bo’lim?",
+		"answer": "B.View"
+	},
+	{
+		"number": "124",
+		"question": "124)Inkremental rivojlanish modeli haqida to’g’ri malumot berilgan qatorning toping?",
+		"answer": "B) Ushbu yondashuv spetsifikatsiya, ishlab chiqish va tasdiqlash faoliyatini birlashtiradi. Tizim bir qancha versiyalar (qo'shimchalar) bilan ishlab chiqilgan bo'lib, har bir versiya oldingi versiyadan ko’ra takomillashgan va qo’shimcha funksionallikka ega bo’ladi."
+	},
+	{
+		"number": "125",
+		"question": "125) Jarayonni takomillashtirish va o'zgartirish uchun qanday yondashuvlar  qo'llaniladi?",
+		"answer": "C) Yetuklik va Tezkor yondashuv."
+	},
+	{
+		"number": "126",
+		"question": "126) Testlash jaroyonining bosqichlari ketma-ketligi tog’ri berilgan qatorni toping. ",
+		"answer": "D) Komponentlarni testlash, Tizimni testlash, Mijoz tomonidan testlash."
+	},
+	{
+		"number": "127",
+		"question": "127) Qayta ishlash xarajatlarini kamaytirish qanday yondashuvlar bajariladi?",
+		"answer": "C) O'zgarishlarni kutish va   Jarayon va dasturiy ta’minot tizimga osongina osongina o'zgartirishlar kiritganda o'zgarishlarga chidamlilik."
+	},
+	{
+		"number": "128",
+		"question": "128)  Vazifa ustidagi ish tugashi bilan u bir butun tizimga birlashtiriladi. Bunday integratsiyadan so'ng tizimdagi barcha modular yoki tizim qismlari sinovdan o'tishi kerak. Bu qanday tamoyil?",
+		"answer": "D)Doimiy integratsiya"
+	},
+	{
+		"number": "129",
+		"question": "129) Agile usullari qanday tizimlarni ishlab chiqishda qulay hisoblanadi?",
+		"answer": "A) Dasturiy ta'minot kompaniyasi kichik yoki o'rta o'lchamdagi mahsulotni sotish uchun ishlab chiqayotgan mahsulotni yaratishda.   B) Mijoz tomonidan ishlab chiqish jarayonida ishtirok etish bo'yicha aniq majburiyat mavjud bo'lgan va dasturiy ta'minotga ta'sir ko'rsatadigan bir nechta tashqi manfaatdor tomonlar va qoidalar mavjud bo'lgan tashkilot ichida maxsus tizimni ishlab chiqish.  "
+	},
+	{
+		"number": "130",
+		"question": "130)  Agile manifestiga asoslangan tamoyillar to’g’ri berilgan qatorni toping.",
+		"answer": "B) A , C , D."
+	},
+	{
+		"number": "131",
+		"question": "131. Rivojlanish jamoasi?",
+		"answer": "B) O'z-o'zini tashkil etuvchi dasturiy ta'minot ishlab chiqaruvchilar guruhi, ular etti kishidan oshmasligi kerak. Ular dasturiy ta'minot va boshqa muhim loyiha hujjatlarini ishlab chiqish uchun mas'uldirlar"
+	},
+	{
+		"number": "132",
+		"question": "132.Maxsulot zaxirasi?",
+		"answer": "Bu Scrum jamoasi hal qilishi kerak bo'lgan bajarish narsalar ro'yxati. "
+	},
+	{
+		"number": "133",
+		"question": "133.Tezlik?",
+		"answer": "A) Rivojlanish iteratsiyasi."
+	},
+	{
+		"number": "134",
+		"question": "134.Oddiylikni saqlash",
+		"answer": "B)Yetkazib berish jadvallari bosimi ostida jamoa a'zolari kerakli tizimni soddalashtirishga vaqtlari bo'lmasligi mumkin."
+	},
+	{
+		"number": "135",
+		"question": "135.O’zgarishni boshqarish",
+		"answer": "A)bu tizimdagi o'zgarishlarni nazorat qilish jarayoni bo'lib, o'zgarishlarning ta'sirini oldindan aytish mumkin va xarajatlar nazorat qilinadi."
+	},
+	{
+		"number": "136",
+		"question": "136.Qanday usullari kichik va o'rta biznes tizimlari va dasturiy mahsulotlarni ishlab chiqish loyihalarida ishlab chiqilgan va takomillashtirilgan",
+		"answer": "A) Agile"
+	},
+	{
+		"number": "137",
+		"question": "137.Tizim mijozi ishlab chiqish guruhi bilan yaqindan ishlaydi va ushbu stsenariylarni boshqa jamoa a'zolari bilan muhokama qiladi. Birgalikda ular mijozning ehtiyojlarini qamrab oladigan hikoyani qisqacha tavsiflovchi nimani ishlab chiqadilar",
+		"answer": "A) Story card"
+	},
+	{
+		"number": "138",
+		"question": "138.Dasturchilar o'zlari ishlab chiqqan kodni testdan o'tkazadilar bu ularga nma uchun kerak?",
+		"answer": "A) Dastur xatolarini topish uchun  B) Testlash majburiy bo’lgani uchun  "
+	},
+	{
+		"number": "139",
+		"question": "139)Talablar injiniringi (TI) deb qanday jarayonga aytiladi?",
+		"answer": "D) Hamma javoblar to’g’ri"
+	},
+	{
+		"number": "140",
+		"question": "140)Foydalanuvchi talablari nimalarni o’z ichiga oladi?",
+		"answer": "A)foydalanuvchilarga qanday xizmat ko’rsatish tog’risidagi diagramma va bayonatlarni"
+	},
+	{
+		"number": "141",
+		"question": "141)Tizim talablari nimalarni o’z ichiga oladi?",
+		"answer": "B) dasturiy ta'minot tizimining funktsiyalari va operatsion cheklovlarining batafsil tavsifini"
+	},
+	{
+		"number": "142",
+		"question": "142)Funksional talabalar nima?",
+		"answer": "C) Tizim ma’lum bir vaziyatda nima qilishi kerakligini ko’rsatuvchi bayonot"
+	},
+	{
+		"number": "143",
+		"question": "143)Funktsional bo'lmagan talablar nima?",
+		"answer": "A)tizim tomonidan taklif qilinadigan xizmatlar yoki funksiyalarga cheklovlar."
+	},
+	{
+		"number": "144",
+		"question": "144)Tuzilmaviy tabiiy tilning xususiyatini aniqlang.",
+		"answer": "B) tizim talablarini yozish usuli bo'lib, unda talablar standart tarzda yoziladi"
+	},
+	{
+		"number": "145",
+		"question": "145)Muvofiqlikni tekshirish jarayoniga ta’rif bering.",
+		"answer": "B) Hujjatdagi talablar bir-biriga zid kelmasligini tekshirish "
+	},
+	{
+		"number": "146",
+		"question": "146)Doimiy integratsiya nima?",
+		"answer": "C) Vazifa ustidagi ish tugashi bilan u bir butun tizimga birlashtiriladi"
+	},
+	{
+		"number": "147",
+		"question": "147)Juft bo’lib dasturlash jarayoniga ta’rif bering.",
+		"answer": "D)bir-birlarining ishini tekshirish va har doim yaxshi ish qilish uchun bir-biriga yordam berish"
+	},
+	{
+		"number": "148",
+		"question": "148)Prototip tushunchasiga ta’rif bering?",
+		"answer": "A) Dasturiy ta’minot versiyasini ishlab chiqarilishidan oldingi tekshirishga mo’ljallangan versiya "
+	},
+	{
+		"number": "149",
+		"question": "149.Testlash jarayonining bosqichlari qaysilar?",
+		"answer": "A)Komponentlarni testlash, bosqichma-bosqich testlash."
+	},
+	{
+		"number": "150",
+		"question": "150.Jarayon yetukligi modelidagi darajalar qaysilar?",
+		"answer": "A)Boshlang'ich, Boshqarish, Aralash."
+	},
+	{
+		"number": "151",
+		"question": "151. RUP-…",
+		"answer": "C)Rational Unified Process."
+	},
+	{
+		"number": "152",
+		"question": "152.ERP – …",
+		"answer": "C)Enterprise Resource Planning System."
+	},
+	{
+		"number": "153",
+		"question": "153)Dasturiy ta'minot spetsifikatsiyasining ikkinchi nomi nima?",
+		"answer": "B)Talablar ishlab chiqarish."
+	},
+	{
+		"number": "154",
+		"question": "154. Tashkiliy talab foydalanuvchilar tizimga qanday vazifani belgilaydi?",
+		"answer": "     A). Autentifikatsiya"
+	},
+	{
+		"number": "155",
+		"question": "155. NIma Sharshara jarayoni modelining har bir bosqichiga mos keladigan dasturiy ta'minotni tekshirish faoliyatini ko'rsatadi.",
+		"answer": "     C) .V-modeli"
+	},
+	{
+		"number": "156",
+		"question": "156. Qaysi faoliyatda  talablarning tuzilmagan to'plamini, tegishli talablar guruhlarga ajratiladi va ularni izchil klasterlarga bo’linadi.",
+		"answer": "    A). Talablarni tasniflash va tashkil etish."
+	},
+	{
+		"number": "157",
+		"question": "157. Sprint nima?",
+		"answer": "    A). Rivojlanish iteratsiyasi."
+	},
+	{
+		"number": "158",
+		"question": "158.Dasturiy ta'minot jarayoni modellarini sanab bering.",
+		"answer": ""
+	},
+	{
+		"number": "159",
+		"question": "159.Jarayon faoliyati qaysilar ?",
+		"answer": "A)testlash,tahlil qilish "
+	},
+	{
+		"number": "160",
+		"question": "160.Tizim talablari bu...",
+		"answer": "A) bu dastur muhandislari tizim loyihasini boshlang'ich nuqta sifatida foydalanilgan foydalanuvchi  talablarning kengaytirilgan versiyalari"
+	}
+
+]

@@ -1,0 +1,1003 @@
+[
+	{
+		"number": "1",
+		"question": "Algoritm deb, ….",
+		"answer": "#qo’yilgan masalani yechish uchun ma’lum qoidaga binoan bajariladigan amallarning chekli qadamlar ketma-ketligiga aytiladi"
+	},
+	{
+		"number": "2",
+		"question": "Algoritmning tushunarlilik xossasi –  .  #",
+		"answer": "algoritmda ijrochiga berilayotgan ko’rsatmalar aniq mazmunda bo’lishi"
+	},
+	{
+		"number": "3",
+		"question": "Algoritmning diskretlilik xossasi –  .  #",
+		"answer": "algoritmlarni chekli qadamlardan tashkil qilib bo’laklash imkoniyati bo’lishi"
+	},
+	{
+		"number": "4",
+		"question": "Algoritmning cheklilik xossasi –",
+		"answer": "bajarilayotgan algoritm chekli qadamlarda natijaga olib kelishi"
+	},
+	{
+		"number": "5",
+		"question": "Algoritmning ommaviylik xossasi –",
+		"answer": "#har bir algoritm mazmuniga ko’ra bir turdagi masalalarning barchasi uchun ham o’rinli bo’lishi"
+	},
+	{
+		"number": "6",
+		"question": "Algoritmning formallik xossasi –",
+		"answer": "#komandalarni mexanik bajarish imkoniyati  ."
+	},
+	{
+		"number": "7",
+		"question": "Algoritmning formallik xossasi –  .  #",
+		"answer": "robotlar, kompyuterlar va boshqa qurilmalarda komandalarning bajarilishini ta’minlaydi"
+	},
+	{
+		"number": "8",
+		"question": "8. Chiziqli algoritm – deb ...  .  #",
+		"answer": "hech qanday shartsiz faqat ketma-ket bajariladigan jarayonlarga aytiladi"
+	},
+	{
+		"number": "9",
+		"question": "Tarmoqlanuvchi algoritm – deb ...",
+		"answer": "#ma’lum shartlarga muvofiq bajariladigan ko’rsatmalardan tuzilgan algoritmga aytiladi"
+	},
+	{
+		"number": "10",
+		"question": "Takrorlanuvchi algoritm – deb ...",
+		"answer": "#biron bir shart tekshirilishi yoki biron parametrning har xil qiymatlari asosida algoritmda ko’p marta qayta bajarishi yuz beradigan jarayonlarga aytiladi"
+	},
+	{
+		"number": "11",
+		"question": "Agar takrorlanuvchi algoritmlar bir nechta parametrlarga bog’liq bo’lsa ular qanday nomlanadi?",
+		"answer": "#ichma-ich joylashgan tsiklik algoritmlar"
+	},
+	{
+		"number": "12",
+		"question": "O’ziga–o’zi murojaat qiladigan algoritmlar qanday nomlanadi?  .  #",
+		"answer": "rekkurent algoritmlar deb ataladi"
+	},
+	{
+		"number": "13",
+		"question": "Algebraik va tratsending tenglamalarni taqribiy yechishda oraliqlarni aniqlash.",
+		"answer": "#Agar biror [a,b] oraliqda y = f(x) funktsiya uzluksiz bo’lib, f(a)*f(b)<0 bo’lsa, shu oraliqda f(x)=0 tenglamaning kamida bitta ildizi mavjud bo’ladi."
+	},
+	{
+		"number": "14",
+		"question": "Tenglamalarni Nyuton usulida taqribiy yechimlarini toppish formulasi",
+		"answer": "#Xn+1=Xn-f(Xn)/f’(Xn)  ."
+	},
+	{
+		"number": "15",
+		"question": "15. Tenglamalarni Vatarlar usulida taqribiy yechimlarini topish formulasi.  .  #",
+		"answer": "Xn+1=Xn-f(Xn)*(b-Xn)/(f(b)-f(Xn))"
+	},
+	{
+		"number": "16",
+		"question": "Loyiha – bu …  .  #",
+		"answer": "qo’yilgan masalani yechish va belgilangan maqsadga erishish uchun kechadigan jarayondir"
+	},
+	{
+		"number": "17",
+		"question": "Loyiha – bu …",
+		"answer": "bog’langan ob’ektlar ustida maqsadli amallar to’plami"
+	},
+	{
+		"number": "18",
+		"question": "Loyiha – bu …  .  #",
+		"answer": "berilgan vaqt davomida ajratilgan byudjet asosida aniq belgilangan natijaga erishish maqsadida shakllantirilgan chekli topshiriqlar to’plami  ."
+	},
+	{
+		"number": "19",
+		"question": "Loyiha – bu …",
+		"answer": "qo’yilgan masala, belgilangan muddat, narxi va sifat shartlari orqali xarakterlanadigan tashabbus  ."
+	},
+	{
+		"number": "20",
+		"question": "Loyihani boshqarish – bu  .  #",
+		"answer": "vaqt, kapital va mexnat resurslaridan foydalanib belgilangan maqsadga erishishni ta’minlashdan iborat bo’lgan faoliyatdir"
+	},
+	{
+		"number": "21",
+		"question": "Loyihalarni boshqarish – bu",
+		"answer": "#loyihaning turli bosqichlarida bir qator katta bo’lmagan alohida masalalarni yechishdan iborot  ."
+	},
+	{
+		"number": "22",
+		"question": "Loyihalarni boshqarishning asosida",
+		"answer": "qisqa muddatli yoki uzoq muddatli rejalashtirish yotadi"
+	},
+	{
+		"number": "23",
+		"question": "Loyihalarni boshqarish – bu  .  #",
+		"answer": "#doimiy ravishda oddiydan murakkabga o’tish va bitta katta masalani bir nechta oddiy masalalarni yechish orqali bajarishdir"
+	},
+	{
+		"number": "24",
+		"question": "Jarayonlarni rejalashtirish –",
+		"answer": "#qo’yilgan masalaning ustuvorligi va bajarilish muddatiga bog’liq bo’lgan rejalashtirish usullariga asoslanadi"
+	},
+	{
+		"number": "25",
+		"question": "25. Kichik loyiha – bu",
+		"answer": "ko’lamiga ko’ra katta bo’lmagan sodda va cheklangan hajmdagi loyiha"
+	},
+	{
+		"number": "26",
+		"question": "Megaloyihalar –",
+		"answer": "#maqsadlar umumiyligi, resurslar va vaqt bo’yicha o’zaro bog’langan bir necha loyihani o’z ichiga oladi"
+	},
+	{
+		"number": "27",
+		"question": "Amalga oshirish vaqti bo’yicha loyihalar",
+		"answer": "#qisqa, o’rta va uzoq muddatli loyihalarga bo’linadi"
+	},
+	{
+		"number": "28",
+		"question": "Amalga oshirilayotgan loyihaning faoliyat sohalari bo’yicha –",
+		"answer": "tashkiliy, iqtisodiy, ijtimoiy va aralash loyihalarga bo’linadi"
+	},
+	{
+		"number": "29",
+		"question": "Loyiha tarkibi va tizimi bo’yicha –",
+		"answer": "monoloyiha, multiloyiha, megaloyiha loyihalarga bo’linadi"
+	},
+	{
+		"number": "30",
+		"question": "Monoloyiha – bu  .  #",
+		"answer": "#har xil tur, qurilish va hajmdagi alohida loyihadir"
+	},
+	{
+		"number": "31",
+		"question": "Loyihaning hajmi, qatnashuvchilar soni va atrof-muhitga ta’sir darajasi bo’yicha loyihalar:",
+		"answer": "#kichik, o’rta, yirik, juda yirik loyihalarga bo’linadi"
+	},
+	{
+		"number": "32",
+		"question": "Loyiha davomiyligi bo’yicha:  .  #",
+		"answer": "qisqa va o’rta muddatli loyihalarga bo’linadi"
+	},
+	{
+		"number": "33",
+		"question": "Murakkablik darajasi bo’yicha loyihalar:  .  #",
+		"answer": "oddiy, murakkab, juda murakkab loyihalarga bo’linadi"
+	},
+	{
+		"number": "34",
+		"question": "Loyihaning fan sohasi xarakteri bo’yicha",
+		"answer": "#investitsion, innovatsion, ilmiy-tadqiqot, aralash"
+	},
+	{
+		"number": "35",
+		"question": "Loyihalar hayot davrining boskichlari:  .  #",
+		"answer": "investitsiya oldi, investitsiya, ekspluatatsiya"
+	},
+	{
+		"number": "36",
+		"question": "Qanday tizim statik tizim deyiladi?",
+		"answer": "vaqt o’tishi bilan tizim holatining o’zgarilishi kuzatilsa"
+	},
+	{
+		"number": "37",
+		"question": "Algoritm blok sxemalari necha turga bo’linadi?",
+		"answer": "3"
+	},
+	{
+		"number": "38",
+		"question": "Tomonlari uzunligi a,b,c bulgan uchburchak yuzasini topish masalasini qaysi algoritm blok sxemasidan foydalaniladi.",
+		"answer": "tarmoqlanuvchi"
+	},
+	{
+		"number": "39",
+		"question": "Loyihalash – tushunchasini ko’rsatilishi",
+		"answer": "#mo’ljallangan obьektlar (apparat va asboblar, bino va inshootlar, yo’l va ko’priklar, mashina va jixozlar, samolyot va kosmik kemalar, radiopiryomnik va televizorlar, telefon va kompьyuterlar va boshqa turli–tuman mahsulotlarning yangi xillari va na’munalari)ni qurish va yaratish uchun ularning loyihalarini tuzish va chizish jarayoni."
+	},
+	{
+		"number": "40",
+		"question": "Chiziqli tenglamalarni taqribiy yechishning iteratsiya usullarini ko’rsating",
+		"answer": "oraliqni ikkiga bo’lish, vatarlar, urunmalar"
+	},
+	{
+		"number": "41",
+		"question": "Matematik programmalash masalasi chiziqli programmalash masalasi deyiladi, agarda",
+		"answer": "maqsad funkciyasi chiziqli bo’lib, cheklanishlar sistemasi chiziqli tengsizliklar yoki tenglamalardan iborat  bo’lsa."
+	},
+	{
+		"number": "42",
+		"question": "CHiziqli programmalash masalasining maqsadiga quyidagilar kiradi",
+		"answer": "chiziqli chegaralar mavjudligida funkciyaning eng kam(ko’p) qiymatini topish  ."
+	},
+	{
+		"number": "43",
+		"question": "Berilgan funkciyalardan qay biri chiziqli dasturlash masalasining maqsad funkciyasi bo’lishi mumkin",
+		"answer": "F 12x  20x – 30x min"
+	},
+	{
+		"number": "44",
+		"question": "Dieta masalasidagi xi ..... anglatadi",
+		"answer": "aralashmadagi i chi homashening miqdori"
+	},
+	{
+		"number": "45",
+		"question": "Dieta masalasidagi bj ..... anglatadi",
+		"answer": "bir birlik aralashmadagi j chi ingridientning minimal miqdori"
+	},
+	{
+		"number": "46",
+		"question": "Dieta masalasidagi aij ..... anglatadi",
+		"answer": "i chi homashedagi j ingridientning miqdori"
+	},
+	{
+		"number": "47",
+		"question": "Matematik dasturlash masalasiga quyidagilar kiradi:  .",
+		"answer": "fuknciyaning minimumi yoki maksimumini topish"
+	},
+	{
+		"number": "48",
+		"question": "Hom ashening sarflash masalasidagi aij ..... anglatadi",
+		"answer": "j chi mahsulotni ishlab chiqarishga safrlangan i chi hom ashe miqdorini"
+	},
+	{
+		"number": "49",
+		"question": "Agarda hom ashe sarflash masalasida biror bir hom asheni to’liq ishlatilish talab qilinsa shu hom  ashega qanday chegara qo’yiladi",
+		"answer": "chegaraviy shart tenglama ko’rinishadi bo’ladi  ."
+	},
+	{
+		"number": "50",
+		"question": "Quyidagilarning qaysi biri to’g’ri?",
+		"answer": "Qoldiqlarsiz ochish racional bo’ladi"
+	},
+	{
+		"number": "51",
+		"question": "Umumiy holatdagi chiziqli dasturlash masalasining mumkin bo’lgan echimlar to’plami X vektor  quyidagi qaysi shartni qanoatlantiradi?",
+		"answer": "AX = A0 , X >= 0."
+	},
+	{
+		"number": "52",
+		"question": "Olaylik Ai vektor m o’lchovli bo’lsa u holda uning musbat komponentlari miqdori",
+		"answer": "m dan katta bo’lishi mumkin emas"
+	},
+	{
+		"number": "53",
+		"question": "Agar chegaraviy shart <= belgisi orqali berilgan bulsa u holda qo’shimcha qiymat qaysi ishora bilan  kiritiladi",
+		"answer": "#1"
+	},
+	{
+		"number": "54",
+		"question": "Agar chegaraviy shart >= belgisi orqali berilgan bulsa u holda qo’shimcha qiymat qaysi ishora bilan  kiritiladi",
+		"answer": "-1"
+	},
+	{
+		"number": "55",
+		"question": "Resurslarni optimal taqsimlash masalasidagi qo’shimcha uzgaruvchi xn+1 quyidagi iqtisodiy talqinga  ega bo’ladi",
+		"answer": "#i chi ko’rinishning ishlatilmagan resurlari hisoblanadi"
+	},
+	{
+		"number": "56",
+		"question": "Resurslarni optimal taqsimlash masalasidagi manfiy bo’lmaslik sharti quyidagining zimmasiga  yuklanadi",
+		"answer": "asosiy va qo’shimcha o’zgaruvchilar zimmasiga"
+	},
+	{
+		"number": "57",
+		"question": "Barcha ko’pburchak uchun chiziqli dasturlash masalasi mavjudmi?",
+		"answer": "yo’q faqat musbat qiymatli balandliklarga ega qavariq ko’pburchak uchun mavjud"
+	},
+	{
+		"number": "58",
+		"question": "CHiziqli dasturlash masalasining mumkin bo’lgan echimlar to’plami",
+		"answer": "bir vaqting o’zida barcha chegaraviy shartlarni qanoatlantirishi kerak"
+	},
+	{
+		"number": "59",
+		"question": "Geometrik chiziqli dasturlash masalasi ko’pburchakining shunday nuqtalarini topadiki, bu nuqtalar  funkciya uchun minimal qiymat beradi va mumkin bo’lgan echimlar to’plami bo’lib ham hizmat qiladi",
+		"answer": "ko’pburchakning barcha nuqtalari"
+	},
+	{
+		"number": "60",
+		"question": "CHiziqli dasturlash masalasi uchun quyidagilar chegaraviy shart bo’lishi mumkin:",
+		"answer": ""
+	},
+	{
+		"number": "61",
+		"question": "Korhona ikki turdagi mahsulot ishlab chiqaradi. A turdagi mahsulotni ishlab chiqarish uchun 2 kg hom  ashyo sarflanadi. B mahsulotni ishlab chiqarish uchun esa 1 kg mahsulot ketadi. Korhona zahirasida jami  60 kg hom ashe zahirasi mavjud. Agarda A mahsulotning sotilish narhi 3 birlik va B mahsulotning narhi 1  birlik bo’lsa va A mahsulot ishlab chiqarilishiga 25 birlik B mahsulot ishlab chiqarilishiga esa 30 birlik  chegara qo’yilgan bo’lsa. Masalaning maqsad funkciyasi qanday ko’rinishda bo’ladi",
+		"answer": "F(x1 , x2)=3x1 + x2  => max"
+	},
+	{
+		"number": "62",
+		"question": "Agarda bazis vektorlarga mos keladigan optimal rejaning echimlari faqat nollardan tashkil topgan  bo’lsa u holda",
+		"answer": "#optimal reja yagona hisoblanadi"
+	},
+	{
+		"number": "63",
+		"question": "Agarda nolli baholash bazisga kirmaydigan vektorga mos kelsa u holda",
+		"answer": "optimal reja yagona emas"
+	},
+	{
+		"number": "64",
+		"question": "CHiziqli dasturlash masalasining chegaraviy shartlariga sunъiy o’zgaruvchilar qanday koefficentlar  bilan kiritiladi",
+		"answer": "1"
+	},
+	{
+		"number": "65",
+		"question": "Agarda oldindan M kattalik berilmagan bo’lsa kengaytirilgan chiziqli dasturlash masalasining optimal  rejasini topish uchun simpleks usuldan foydalaniladi va u quyidagi ko’rinishga ega bo’ladi",
+		"answer": "oddiy simpleks tablicadan bitta ko’p qatorga ega bo’ladi"
+	},
+	{
+		"number": "66",
+		"question": "x4 , x5 sunъiy o’zgaruvchilarga ega bo’lgan kengaytirilgan chiziqli dasturlash masalasining rejasi  X=(1,1,1,0,0) bo’lsin. Birmlamchi masala uchun optimal reja qanday ko’rinishda bo’ladi",
+		"answer": "X=(1,1,1)."
+	},
+	{
+		"number": "67",
+		"question": "Ikkilangan masala juftligi simmetrik bo’lishi uchun birlamchi masalaning chegaraviy shartlari qanday ko’rinishda berilgan bo’lishi kerak",
+		"answer": "#tengsizliklar sistemasi ko’rinishida"
+	},
+	{
+		"number": "68",
+		"question": "Ikkilangan masala juftligi nosimmetrik bo’lishi uchun birlamchi masalaning chegaraviy shartlari qanday ko’rinishda berilgan bo’lishi kerak",
+		"answer": "tenglamalar sistemasi ko’rinishida"
+	},
+	{
+		"number": "69",
+		"question": "Simmetrik ikkilangan chiziqli dasturlash masalasi juftligida manfiy bo’lmaslik sharti .....",
+		"answer": "boshlang’ich va ikkilangan o’zgaruvchilar zimmasiga yuklatiladi"
+	},
+	{
+		"number": "70",
+		"question": "Algoritm tarmoqlanadi, agar:",
+		"answer": "Agar uni bajarilish biror shartninghaqiqiyligiga bog’liq bo’lsa."
+	},
+	{
+		"number": "71",
+		"question": "Algoritm – bu:",
+		"answer": "#Ko’zlangan natijaga erishish uchun ijrochiga berilgan tushunarli va aniq buyruqlar ketma-ketligi"
+	},
+	{
+		"number": "72",
+		"question": "Algoritm yozishning to’laroq usulari sababi:",
+		"answer": "So’zli, grafikli, psevdokodli, dasturli."
+	},
+	{
+		"number": "73",
+		"question": "Algoritm Natijaviylik xossasining mohiyati shundan iboratki:  .  #",
+		"answer": "Barcha aniq buyruqlar bajarilish jarayoni chekli qadamlarda to’xtatiladi, kutilgan natija olinganda."
+	},
+	{
+		"number": "74",
+		"question": "AlgoritmOmmaviylik xossasini mohiyati shundan iboratki:  .  #",
+		"answer": "Algoritm faqat bitta masala yechimini taminlashi emas balki shu tipga oid bir nechta masalalar klassini yechimini topishi zarur;"
+	},
+	{
+		"number": "75",
+		"question": "AlgoritmDiskretlik xossasini mohiyati shundan iboratki:  .  #",
+		"answer": "Algoritm diskretlik stukturasiga ega bo’lishi kerak (ketma-ket alohida qadamlarni ishdan chiqarishi zarur)."
+	},
+	{
+		"number": "76",
+		"question": "76. Algoritm deb hisoblash mumkin:",
+		"answer": "#Kvadrat tenglamaning yozma natijasi"
+	},
+	{
+		"number": "77",
+		"question": "77. Algortimni shu algortimdagi barcha klasslarga qo’lash mumkinligi xossasi nima deb nomalanadi?  .",
+		"answer": "#Ommaviylik"
+	},
+	{
+		"number": "78",
+		"question": "78. Algortimni natijaga doim yakuni qadamlar soni bilan yetib borish xossasi nima deb nomalanadi?",
+		"answer": "#Natijaviylik  ."
+	},
+	{
+		"number": "79",
+		"question": "79. Algoritmda bir nechta birinma ketin bajarladigan buyruqlar ketm-ketligi ……… deb nomlanadi",
+		"answer": "Seriya"
+	},
+	{
+		"number": "80",
+		"question": "Protsessor algoritmdagi buyruqlarni qanday qabul qiladi?  .",
+		"answer": "#Mashina tilida (ikkilik kodda)  ."
+	},
+	{
+		"number": "81",
+		"question": "Jadval funksiya uchun chiziqli model qanday ko’rinishda hosil qilinadi?",
+		"answer": "Y = ax + b"
+	},
+	{
+		"number": "82",
+		"question": "Jadval funksiya uchun kvadratik model qanday ko’rinishda hosil qilinadi?",
+		"answer": "Y = ax^2 + bx + c"
+	},
+	{
+		"number": "83",
+		"question": "Fur’e trigonometrik qatori formulasini ko’rsating.",
+		"answer": ""
+	},
+	{
+		"number": "84",
+		"question": "Fur’e qatorining nolinchi indeksli a koeffisentni [0; T] oraliqda hisoblash formulasini ko’rsating.  .",
+		"answer": ""
+	},
+	{
+		"number": "85",
+		"question": "Fur’e qatorining аn koeffisentni [0; T] oraliqda hisoblash formulasini ko’rsating.",
+		"answer": ""
+	},
+	{
+		"number": "86",
+		"question": "[A, B] oraliqda berilgan Xi ning qiymatlaridan iborat berilganlar nima deb nomlanadi?",
+		"answer": "Tugun nuqtalar"
+	},
+	{
+		"number": "87",
+		"question": "Chiziqli va kvadratik modellar qanday masala uchun qo’llaniladi",
+		"answer": "approksimatsiya"
+	},
+	{
+		"number": "88",
+		"question": "Fur’e qatorining bn koeffisentni [0; T] oraliqda hisoblash formulasini ko’rsating.  .",
+		"answer": ""
+	},
+	{
+		"number": "89",
+		"question": "y=f(x) berilgan funksiya bo’lsa. Argumentning fiksrlangan qiymatli orttirmasi qanday belgilanadi.",
+		"answer": "dx=h"
+	},
+	{
+		"number": "90",
+		"question": "Approksimatsiya – bu …",
+		"answer": "yaqinlashtirish  ."
+	},
+	{
+		"number": "91",
+		"question": "Interpolatsiya – bu …  .",
+		"answer": "Ichki qiymatlarni aniqlash"
+	},
+	{
+		"number": "92",
+		"question": "Ekstropolatsiya – bu …",
+		"answer": "Tashqi qiymatlarni aniqlash"
+	},
+	{
+		"number": "93",
+		"question": "Tajribalar o’tkazish orqali kuzatilgan kiruvchi X va chiquvchi Y qiymatlarni o’zaro bog’lashni  o’rganish ...",
+		"answer": "Approksimatsiya"
+	},
+	{
+		"number": "94",
+		"question": "Jadval funksiya uchun chiziqli modelni hosil qilishda qanday qiymatlardan foydalaniladi?",
+		"answer": "a va b ni toppish uchun хi , уi , (хi)^2 va xi ‧ yi larning summalari (i=0,1,2,…,n), hamda n+1."
+	},
+	{
+		"number": "95",
+		"question": "Quyidagi jadval funksiya uchun chiziqli model tuzilsin. x:[ –2; 0; 2; 4]  y:[ 0; 2; 1; 3]",
+		"answer": "Y=0.4x+1.1  ."
+	},
+	{
+		"number": "96",
+		"question": "Jadval funksiya (signal)ning Fur’e qatori koeffisentlari hisoblangan. Yetakchi garmonikalar amplitudasi, chastotasi boshlang’ich fazaning ko’chishi aniqlansin.  i: [0; 1; 2; 3; 4; 5]  ai: [0.003; 0.0001; 0.6; 0.0003; 0.0001; 0.0001]  bi: [-; 0.0002; 0.8; 0.0002; 0.0004; 0.0001]  T=0.6; ci<<c2 , i>5 bo’lsa.",
+		"answer": "C2=1; w2=21; f2=arctg(3/4)"
+	},
+	{
+		"number": "97",
+		"question": "Jadval funksiya (signal)ning Fur’e qatori koeffisentlari hisoblangan. Yetakchi garmonikaning amplituda va chastotasi aniqlansin.  i: [0; 1; 2; 3; 4; 5]  ai: [0.3; 0.0003; 0.0004; 1.2; 0.0002; 0.0007]  bi: [-; 0.0001; 0.0002; 0.9; 0.0004; 0.0001]  T=0.5; ci<<c3 , i>5 bo’lsa.",
+		"answer": "3- garmonika C3=1,5; w3=37.7"
+	},
+	{
+		"number": "98",
+		"question": "Ushbu jadval funksiya uchun  ti: [0; 0.1; 0.2; 0.3; 0.4]  fi: [1; 1.3; 1.4; 1.2; 1]  Fur’e koeffisientlari qanday topiladi?",
+		"answer": "Jadval funksiyani bo’lakli doimiylar ko’rinishida ifodalash orqali."
+	},
+	{
+		"number": "99",
+		"question": "Raqamli signallarni qayta ishlash va tahlil qilishda qanday bazis funksiyalardan foydalaniladi?",
+		"answer": "Trigonometrik funksiyalardan."
+	},
+	{
+		"number": "100",
+		"question": "Juft funksiyalarni Fur’e qatoriga yoyganda qanday alomat kuzatiladi?",
+		"answer": "sin komponentaning yo’qolishi va barcha bn=0"
+	},
+	{
+		"number": "101",
+		"question": "Toq funksiyalarni Fur’e qatoriga yoyganda qanday alomat kuzatiladi?",
+		"answer": "cos komponentaning yo’qolishi va barcha an=0"
+	},
+	{
+		"number": "102",
+		"question": "Funksional to’plamlarda ortogonallik deganda nima tushuniladi?",
+		"answer": "Berilgan oraliqda funksiyaning ko’paytmalaridan olingan integralning nolga tengligi.  ."
+	},
+	{
+		"number": "103",
+		"question": "[a;b] oraliqda berilgan funksiya uchun skalyar ko’paytma qanday aniqlanadi?",
+		"answer": "Berilgan oraliq bo’yicha ularning ko’paytmalarining integrali orqali."
+	},
+	{
+		"number": "104",
+		"question": "L2 da funksiyaning normasi qanday aniqlanadi?",
+		"answer": "Oraliq bo’yicha funksiya kvadratlarining integrali orqali."
+	},
+	{
+		"number": "105",
+		"question": "Bazis funksiyalarning qanday sistemasi ortonormallashgan deb nomlanadi?",
+		"answer": "Agar barcha (fi, fj) = {0, i≠j bo’lsa; 1, i=j bo’lsa}  ."
+	},
+	{
+		"number": "106",
+		"question": "Fur’e qatorida garmonika deb nimaga aytiladi va uning amplitudasi qanday topiladi?",
+		"answer": "Fur’e qatorining n=k ga mos qo’shiluvchisiga, amplitudasi esa ck=sqrt((ak)^2+(bk)^2)"
+	},
+	{
+		"number": "107",
+		"question": "Fur’e qatorida garmonika deb nimaga aytiladi va uning chastotasi qanday topiladi?",
+		"answer": "Fur’e qatorining n=k ga mos qo’shiluvchisiga, chastotasi esa wk=2πk/T"
+	},
+	{
+		"number": "108",
+		"question": "Fur’e qatorining yetakchi garmonikasi qanday aniqlanadi?",
+		"answer": "Agar i≠k da ck>>ci bo’lsa, u holda k- garmonika yetakchi bo’ladi."
+	},
+	{
+		"number": "109",
+		"question": "Yetakchi garmonikani aniqlash nima uchun kerak bo’ladi?",
+		"answer": "Signalning asosiy qismini ajratib olish uchun."
+	},
+	{
+		"number": "110",
+		"question": "Fur’e qatorida garmonikalarning yetarlicha soni qanday aniqlanadi?",
+		"answer": "Talab qilingan aniqlik tartibi bo’yicha ushbu aniqlikdan katta bo’lgan amplitudaga mos garmonikalar olib qolinadi."
+	},
+	{
+		"number": "111",
+		"question": "Spektral analiz nima uchun kerak?  1. Yetakchi chastotasini aniqlash uchun;  2. Yetakchi garmonikalarning hissasini aniqlash;  3. Signalni tozalash;  4. Grafigini tuzish uchun.",
+		"answer": "1, 2, 3"
+	},
+	{
+		"number": "112",
+		"question": "Raqamli signallarni Fur’e qatoriga yoyish usuli qayerlarda ishlatiladi?  1. Raqamli signallarni uzatuvchi va qabul qiluvchi zamonaviy uskunalarda;2. Geologik izlanishlarda foydali qazilmalarni topishda;  3. Uzoq masofadagi planeta va yulduzlarning kimyoviy tarkibini aniqlashda.",
+		"answer": "1, 2, 3  ."
+	},
+	{
+		"number": "113",
+		"question": "Jadval funksiya uchun Fur’e qatori koeffisientlarini aniqlashda qanday yaqinlashish me’zoni ishlatiladi?",
+		"answer": "Jadval funksiya va Fur’e qatori ayirmasi kvadratining integral normasining minimallligi."
+	},
+	{
+		"number": "114",
+		"question": "Jadval funksiyani Fur’e qatoriga yoyish uchun u qanday ko’rinishda beriladi?",
+		"answer": "#[0;T] oraliqda jadaval qiymatlarini hisobga olgan holda bo’lakli doimiylar funksiyasi ko’rinishida"
+	},
+	{
+		"number": "115",
+		"question": "[0;T] da ti=ih , f(ti)=fi , T=Nh, jadval funksiyani bo’lakli doimiylar ko’rinishiga o’tkazish qoidasini ko’rsating.",
+		"answer": "f(t)=fi , bunda t€[ti–h/2; ti+h/2) i=1,2,3,…,N–1; f(t)=f0 , bunda t€[0; h/2) ; f(t)=fN , bunda t€(T–h/2; T]."
+	},
+	{
+		"number": "116",
+		"question": "Qaysi holatlarda eng kichik kvadratlar usuli bo’yicha topilgan chiziqli bog’lanishli modeli maqulroq hisoblanadi?",
+		"answer": "Jadval qiymatlar va chiziqli model (y=ax+b) ning ayirmalarining kvadrati berilgan aniqlikdan kichik bo’lsa."
+	},
+	{
+		"number": "117",
+		"question": "Quyidagilardan qaysilari ikki parametrli bog’lanishli modellarga tegishli?  1. Chiziqli model;  2. Kvadratik model;  3. Teskari proporsional bog’lanish;  4. Ko’rsatgichli modelli bog’lanish.  .",
+		"answer": "1.3.4"
+	},
+	{
+		"number": "118",
+		"question": "y = a1 (a0)^x ko’rsatgichli modelli bog’lanishni tashkil qilishda qanday o’zgartirishdan (ifodadan) foydalaniladi?",
+		"answer": "#ln y = ln a1 + x ln a0"
+	},
+	{
+		"number": "119",
+		"question": "Nima uchun jadval funksiyani approksimatsiya qilinayotganda ikki parametrli bog’lanishli modellardan foydalaniladi?",
+		"answer": "Tabiatda va texnikada murakkab modelli boshlanishlar tez uchrab turgani sababli."
+	},
+	{
+		"number": "120",
+		"question": "Nima sababdan jadval funksiyalarni approksimatsiya qilishda interpolatsion polinomlardan ko’p foydalanilmaydi?  1. Tajribalar sonining oshishi bilan polinomning darajasi ham ortgani uchun;  2. Hisoblash hajmi keskin ortishi sababli;  3. Jadval qiymatlarida tuzatib bo’lmas xatoliklar uchrab turishi sababli;  4. Tabiatda va texnikada boshqa murakkab bog’lanishli modellarning yo’qligi tufayli.  .",
+		"answer": "#1, 3, 4"
+	},
+	{
+		"number": "121",
+		"question": "Bo'lib tashla va hukmronlik qil algoritmlari nechta bosqichdan iborat bo'ladi va ular qanday nomlanadi?",
+		"answer": "#3ta bosqichdan iborat 1) Bo'lib tashlash bosqichi 2) Hukumronlik bosqichi 3) Birlashtirish bosqichi"
+	},
+	{
+		"number": "122",
+		"question": "Rekursiya deb nimaga aytiladi?",
+		"answer": "Rekursiya deb shunday konstruktsiyag aytiladiki, funktsiya o'zini o'zi chaqiradi"
+	},
+	{
+		"number": "123",
+		"question": "Quiksort - tez saralash algoritmi deb nimaga aytiladi?",
+		"answer": "Bu algotirm rekursiv bo'lib, o'rtacha N*log2N ta solishtirish natijasida saralaydi.  ."
+	},
+	{
+		"number": "124",
+		"question": "124. Massivga asoslangan Stek bu?  .  #",
+		"answer": "Indeks orqali massivda joylashgan elementni vaqtda qaytaradi"
+	},
+	{
+		"number": "125",
+		"question": "Merge Sort algoritmi deb qanday algoritmga aytiladi?",
+		"answer": "#Bu algoritn saralanmagan massivni taqqoslashga asoslangan holda saralovchi algoritm  ."
+	},
+	{
+		"number": "126",
+		"question": "Merge sort algoritmi nechta qismdan iborat?",
+		"answer": "#2ta"
+	},
+	{
+		"number": "127",
+		"question": "Binar qidiruv algoritmi(Ikkilik qidirish algoritmi)",
+		"answer": "#Ketma-ket ikkiga bo'lishga asoslanadi, ya'ni berilgan x ni massivning o'rtadagi elementi bilan solishtiradi, agar katta bo'lsa oxiri va o'rtasi orasidagi massivni oladi, agar kichkina bo'lsa boshi va o'rtasi orasidagi massivni oladi, va har safar shu jarayon takrorlanib boradi toki x element solishtirilayotgan massivning elementga teng bo'lgunicha yoki massivning elementlari qolmaguncha.  ."
+	},
+	{
+		"number": "128",
+		"question": "Saralash deb nimaga aytiladi?",
+		"answer": "Kalitlari bo'yicha doimiy ko'rinishda mashina xotirasiga joylashtirish.  ."
+	},
+	{
+		"number": "129",
+		"question": "Saralashning nechta turi mavjud?",
+		"answer": "#2ta"
+	},
+	{
+		"number": "130",
+		"question": "Tanlash orqali saralash algoritmi qanday tamoyillarga asoslangan",
+		"answer": "Mazkur usul quyidagi tamoyillarga asoslangan: 1. Eng kichik kalitga ega element tanlanadi. 2. Ushbu element birinchi element bilan o'rin almashinadi. 3. Keyin mazkur jarayon qolgan n-1, n-2 elementlar bilan takrorlanib, to bitta eng 'katta' element qolguncha davom ettiriladi."
+	},
+	{
+		"number": "131",
+		"question": "Faraz qilaylik, N = 0,01n2 + 10n - taqqoslashlar soni. Agar n < 1000 bo'lsa, u holda ikkinchi qo'hiluvchi katta, aks holda ya'ni, n > 1000 bo'lsa, birinchi qo'shiluvchi katta bo'ladi. Demak, kichkina n larda taqqoslashlar soni n ga teng bo'ladi, katta n larda nimaga teng bo'ladi?",
+		"answer": "#n2"
+	},
+	{
+		"number": "132",
+		"question": "To'g'ridan-to'g'ri qo'shish usuli bilan saralash algoritmi deb qanday algoritmga aytiladi?",
+		"answer": "Bunday usul karta o'yinida keng qo'llaniladi. Elementlar (kartalar) hayolan 'tayyor' a(1),...,a(i-1) va boshlang'ich ketma-ketliklarga bo'linadi. Har bir qadamda (i=2 dan boshlanib, har bir qadamda bir birlikka oshirib boriladi) boshlang'ich ketma-ketlikdan i-chi element ajratib olinib tayyor ketma-ketlikning kerakli joyiga qo'yiladi."
+	},
+	{
+		"number": "133",
+		"question": "Pufaksimon saralash algoritmi bu?",
+		"answer": "n - 1 marta massivda quyidan yuqoriga qarab yurib kalitlar jufti-jufti bilan taqqoslanadi. Agar pastki kalit qiymati yuqoridagi jufti kalitidan kichik bo'lsa, u holda ularning o'rni almashtiriladi"
+	},
+	{
+		"number": "134",
+		"question": "Pufaksimon usulni qanday tarzda yahshilash mumkun?  .  #",
+		"answer": "Massiv elementlarida pastdan yuqoriga va yuqoridan pastga o'tishni bir vaqtda amalga oshirish natijasida yaxshilash mumkin"
+	},
+	{
+		"number": "135",
+		"question": "Stek tuzilmasini tushuntiring va misol keltiring",
+		"answer": "#Stekdagi barcha element o'zidan keyingi elementga bo'glangan bo'ladi va ushbu ketma-ketlik yordamida stekdagi 'top' elementni aniqlab olamiz."
+	},
+	{
+		"number": "136",
+		"question": "Birinchi darajali kesh hotiraning o'lchamlarin necha bayt bo'ladi?",
+		"answer": "bir necha 10kbayt"
+	},
+	{
+		"number": "137",
+		"question": "Ikkinchi darajali kesh hotiraning o'lchamlari necha bayt bo'ladi?",
+		"answer": "128/256/512 Kbayt va h.k"
+	},
+	{
+		"number": "138",
+		"question": "Dinamik massiv deb qanday massivga aytiladi?",
+		"answer": "O'z hajmini o'zi o'zgartira oladigan massiv"
+	},
+	{
+		"number": "139",
+		"question": "Saralashda taqqoslashlar soni qaysi oraliqlarda ideal holatda bo'ladi:",
+		"answer": "1 dan n gacha"
+	},
+	{
+		"number": "140",
+		"question": "Quiksort - tez saralash algoritmi berilgan massivni saralash uchun uni nechtaga bo'lib oladi?  .",
+		"answer": "2taga"
+	},
+	{
+		"number": "141",
+		"question": "Qaysi qatorda tezkor saralshning asosiy saralash metodi berilgan?",
+		"answer": "«bo’lib tashla va boshqar» (dekompozatsiya);"
+	},
+	{
+		"number": "142",
+		"question": "Ichki va tashqi saralash nimasi bilan farq qiladi?",
+		"answer": "#Ichki saralash ishga tushishdan oldin bevosita ОЗУ dan foydalanadi, tashqi saralash xotira qurilmalarini kattagina qismidan foydalanadi"
+	},
+	{
+		"number": "143",
+		"question": "Quyida keltirilgan algortimalardan turg’un bulmaganini toping:  .",
+		"answer": "#Tezkor saralash"
+	},
+	{
+		"number": "144",
+		"question": "Algortimlarni ishlab chiqishda qo`pol kuch usuli nimaga asoslanadi?  .",
+		"answer": "Qdiruv ketma-ketligiga  ."
+	},
+	{
+		"number": "145",
+		"question": "Quyida keltirilgan algortimalardan qo`pol usul algortimini toping  .",
+		"answer": "#Tanlash orqali saralash  ."
+	},
+	{
+		"number": "146",
+		"question": "Rekursiya algoritmda to’liq bo’ladi, qachonki:",
+		"answer": "Algoritmni o’zida joylashgan buyruq orqaliy algortimni o’ziga murojat qilish;  ."
+	},
+	{
+		"number": "147",
+		"question": "Markov algoritmida assotsiativlashgan yechim bo’ladi:",
+		"answer": "Berilgan alifbodagi barcha so’zlar jamlanmasi, ruhsat etilgan barcha almashtirishlar;  ."
+	},
+	{
+		"number": "148",
+		"question": "Assotsiativlangan hisoblashda ikkita so’z yonma-yon deyiladi:",
+		"answer": "Ulardan biri boshqasi bilan o’rin almashtirilib o’zgartirilgan bo’lish mumkin;  ."
+	},
+	{
+		"number": "149",
+		"question": "Rekursiya algoritmda bavosita bo’ladi, qachonki:  .  #",
+		"answer": "Rekursiv chaqiruv berilgan algoritmni yordamchi algoritmida sodir bo’lsa;"
+	},
+	{
+		"number": "150",
+		"question": "Tezkor xotirada sodir buladigan sarlash nomi nima?",
+		"answer": "Ichki saralash"
+	},
+	{
+		"number": "151",
+		"question": "Katta mikdordagi malumotlarni saralashda mashina vaktini kanday kiskartirish mumkin?  .",
+		"answer": "Kalitlar jadvalida saralashni amalga oshirish"
+	},
+	{
+		"number": "152",
+		"question": "Saralash usuli mustaxkam xisoblanadi, agar saralash jarayonida …  .",
+		"answer": "Elementlar joylashuvi, teng kalitlarga mos uzgarmasa"
+	},
+	{
+		"number": "153",
+		"question": "Yaxshilangan usullar sezilarli ustunliklarga yega :  .    .",
+		"answer": "Katta mikdordagi saralanuvchi elemntlar bulsa  ."
+	},
+	{
+		"number": "154",
+		"question": "Kuyidagikursatilganlarning kaysilari saralash turlari xisoblanadi?",
+		"answer": "Ichki saralash"
+	},
+	{
+		"number": "155",
+		"question": "Yaxshilangan saralash algoritmida solishtirishar soni kanday buladi?",
+		"answer": "n*log(n)"
+	},
+	{
+		"number": "156",
+		"question": "Quicksort saralash uchuli sanosi nimada?",
+		"answer": "#Tanlanganiga karab kalitlarni bulish"
+	},
+	{
+		"number": "157",
+		"question": "Massiv pufakchali sarlanadi. Nechta utish orkali yeng yengil element yukorida koladi?",
+		"answer": "#1 ta utishda  ."
+	},
+	{
+		"number": "158",
+		"question": "Binar kidiruv manosi nima?  .  #",
+		"answer": "X massivni 2ga bulish orkali, toki kidiralayotgan element topilmaguncha"
+	},
+	{
+		"number": "159",
+		"question": "Chizikli kidiruvning manosi nima?",
+		"answer": "Xar bir elementni kurib chikish ketma-ketligi"
+	},
+	{
+		"number": "160",
+		"question": "Transpozitsiya usulimanosi nima?",
+		"answer": "#Topilgan elementni ruyxat boshiga karatib 1ta pozitsiyaga siljitish  ."
+	},
+	{
+		"number": "161",
+		"question": "Evristik algoritm?  .  #",
+		"answer": "bu barcha mumkin bo'lgan holatlarda uning to'g'riligi isbotlanmagan, ammo ko'p hollarda juda yaxshi yechim topishi ma'lum bo'lgan masalani hal qilish algoritmi.  ."
+	},
+	{
+		"number": "162",
+		"question": "NP-murakkab masalalarni hal qilish qanday usullari mavjud?  .",
+		"answer": "aniq, evristik metaevristik  ."
+	},
+	{
+		"number": "163",
+		"question": "NP-murakkab masalalarni hal qilish aniq usullar-…..",
+		"answer": "barcha mumkin bo'lgan yechimlarni to'liq ko’rib chiqishga (полный перебор) asoslanadi va bu o'z navbatida ularning samadorligini kamaytiradi  ."
+	},
+	{
+		"number": "164",
+		"question": "NP-murakkab masalalarni hal qilish evristik usullar-…..",
+		"answer": "#yechimlarni nisbatan cheklangan qidirishga olib keladi va odatda maqbul vaqt ichida juda yaxshi yechimni topadi. Ammo bu usullar ham kamchilikka ega, ya'ni ular taxminiydir.  ."
+	},
+	{
+		"number": "165",
+		"question": "NP-murakkab masalalarni hal qilish metaevristik usullar-…..",
+		"answer": "eng samarali hisoblanadi, ammo bu usullarda natijaga bevosita ta'sir qiladigan parametr mavjud, kirish ma'lumotlariga asoslanib, amalda har safar ushbu parametrni qayta hisoblash kerak.  ."
+	},
+	{
+		"number": "166",
+		"question": "Ekvivalent Algoritmlar qaysi masalani yechadi?",
+		"answer": "#Ikkita natural m va n sonlari uchun EKUK si n hisoblanadi.  ."
+	},
+	{
+		"number": "167",
+		"question": "Berilgan A[0..2*N] massivni dastlab 2 elementdan iborat bolgan, keyin 4 elementdan iborat bolgan va t.b., barcha elementlarini birdan tartiblagancha iborat bolganda",
+		"answer": "#Shell boyicha tartiblash"
+	},
+	{
+		"number": "168",
+		"question": "Quyidagi berilgan algoritm qaysi algoritm? 1) M va N sonlarni birinchi va ikkinchi son deb qarang; 2) Birinchi va ikkinchi sonni taqqosla agar ular teng bo’lsa 5 punktga borbo’lmasa 3 punktga bor; 3) agar birinchi son ikkinchisidan kichik bo’lsa o’rin almashtir; 4) birinchi sondan ikkinchi sonni ayirib birinchi songa o’zlashtirva ikkinchi punktga bor; 5) birinchi sonni javob deb qara.",
+		"answer": "#Evklid algoritmi"
+	},
+	{
+		"number": "169",
+		"question": "… mashinasining algoritmi uchun odamning o’zi xizmat qiladi",
+		"answer": "Tyuring mashinasi"
+	},
+	{
+		"number": "170",
+		"question": "Eng oxirgi element stekning … dep ataladi.",
+		"answer": "Eng balandi"
+	},
+	{
+		"number": "171",
+		"question": "Agar stekdagi elementlarning soni cheklangan bo’lsa … deb ataladi",
+		"answer": "Chegaralangan stek  ."
+	},
+	{
+		"number": "172",
+		"question": "Elementga ega bo’lmagan stek … deb ataladi",
+		"answer": "Bo’sh stek"
+	},
+	{
+		"number": "173",
+		"question": "Yunaltirilmagan takrorsiz bog’langan torlar … deyiladi",
+		"answer": "daraxtlar  ."
+	},
+	{
+		"number": "174",
+		"question": "Algoritmlar teoriyasiga binoan birinchi ilmiy ishlar bir biridan habarsiz tarizda kimlar e’lon qildi?",
+		"answer": "Alan Tyuring, Aloyz CHyorch va Emil Postlar  ."
+	},
+	{
+		"number": "175",
+		"question": "Post mashinasining strukturasi p K m strukturasiga ega, bu yerda …,  .  #",
+		"answer": "n-komandaning tartib raqami; K galovka bilan bajariladigan amal; m-bajarilishga tegishli bo’lgan kelgusi kamandaning raqami;  ."
+	},
+	{
+		"number": "176",
+		"question": "NP toʻliqligi nazariyasida faqat hal qilish masalalari koʻrib chiqiladi?",
+		"answer": "#“ha” yoki “yoʻq” deb javob berish kerak boʻlgan masalalar"
+	},
+	{
+		"number": "177",
+		"question": "NP -toʻliq masalalar, maʼlum maʼnoda, NP sinfidagi “tipik” masalalar toʻplamini shakllantiradi:",
+		"answer": "#agar ularning baʼzilari uchun “tezkor” yechim algoritmi topilsa, NP sinfidagi har qanday boshqa masalani xuddi shu tarzda hal qilish mumkin."
+	},
+	{
+		"number": "178",
+		"question": "NP – to’liq masalalarni yechishda aniq usullarni ko’rsating.",
+		"answer": "To’liq qayta tanlash; Dinamik dasturlash; Tarmoqlar va chegaralar.  .  "
+	},
+	{
+		"number": "179",
+		"question": "179. NP – to’liq masalalarni yechishda taqribiy usullarni ko’rsating.",
+		"answer": "Ochko’z va gradiyent usullar; Tasodifiy usullar; FF turidagi usullar"
+	},
+	{
+		"number": "180",
+		"question": "180. To'liq qayta tanlash usulining mohiyati shundan iboratki:",
+		"answer": "1)barcha mumkin bo'lgan holatlarni ko'rib chiqish; 2)berilgan masalaning shartini qanoatlantiradigan yechimlarni topish;3)boshqa yechimlar yo'qligini ko'rsatish."
+	},
+	{
+		"number": "181",
+		"question": "P masalalar sinfi nima?",
+		"answer": "P - polinomda (kirish kattaligidan) vaqt ichida yechiladigan masalalar sinfi.  ."
+	},
+	{
+		"number": "182",
+		"question": "NP masalalar sinfi nima?  .  #",
+		"answer": "NP – polinom vaqtida tekshirilishi mumkin bo'lgan masalalar sinfi.  ."
+	},
+	{
+		"number": "183",
+		"question": "Masalani NP sinfiga tegishli ekanligini qanday isbotlash mumkin?  .",
+		"answer": "Determinatsiyalanmagan Turing mashinasida polinom vaqtini ishlatib, masalani yechish algoritmini keltirish orqali."
+	},
+	{
+		"number": "184",
+		"question": "NP masalalari eng qiyin masalalar sinfiga kiradimi?  .",
+		"answer": "#Yo'q. Murakkabroq muammolar mavjud bo’lib, ularning yechimlarini hatto polinom vaqtida tekshirish mumkin emas."
+	},
+	{
+		"number": "185",
+		"question": "NP-qiyin muammoga to’g’ri ta’rif berilgan javobni belgilang.  .",
+		"answer": "NP sinfidagi barcha muammolar kamaytiriladigan muammolar. Bundan tashqari, muammoning o'zi NP sinfiga tegishli bo'lishi shart emas, u yanada murakkab bo'lishi mumkin.  ."
+	},
+	{
+		"number": "186",
+		"question": "NP-to'liq muammolarni ko’rsating.  .",
+		"answer": "NP sinfiga tegishli bo'lgan NP-qiyin muammolar.  ."
+	},
+	{
+		"number": "187",
+		"question": "NP-qiyin masalani qanday isbotlash mumkin?  .",
+		"answer": "#NP sinfidagi barcha masalalar berilganga kamaytirilishi isbotlanadi. Shu tarzda, birinchi NP-murakkab (va -to'liq) muammo aniqlanadi.  ."
+	},
+	{
+		"number": "188",
+		"question": "188. NP-murakkab masalani qanday isbotlash mumkin?  .",
+		"answer": "NP-murakkab masala ekanligi isbotlanadi.  ."
+	},
+	{
+		"number": "189",
+		"question": "189. Algoritmlarni loyihalashning markaziy muammolaridan biri bu… .",
+		"answer": "#P va NP sinflarning tengligi masalasi."
+	},
+	{
+		"number": "190",
+		"question": "190. P sinfi NP sinfiga tegishlimi?",
+		"answer": "#Ha, tegishli. P sinfi NP sinfining bir qismidir."
+	},
+	{
+		"number": "191",
+		"question": "NP sinfiga qanday turdagi masalalar kiradi?",
+		"answer": "Determinallashmagan polynomial murakkablikka ega masalalar"
+	},
+	{
+		"number": "192",
+		"question": "Berilgan masalalardan qaysi biri NP-to’liq masalalar turkumiga kiradi?",
+		"answer": "Tyuring mashinasi"
+	},
+	{
+		"number": "193",
+		"question": "Quyidagi algoritmik baholashlarning qaysi biri eng kam vaqtda bajariladi",
+		"answer": "#O(N)"
+	},
+	{
+		"number": "194",
+		"question": "Kommivoyajer masalasi – bu…",
+		"answer": "#Oldindan berilgan punktlarni minimal vaqt ichida yoki yo’lning minimal bo’lishiga erishgan holda aylanib o’tish masalasi"
+	},
+	{
+		"number": "195",
+		"question": "Katta chuqurlikdagi rekursiyadan foydalanish dasturda qanday oqibatlarga olib keladi?  .",
+		"answer": "Uzoq vaqt ishlaydi va stek to’lib ketadi  ."
+	},
+	{
+		"number": "196",
+		"question": "Algoritm O(NlogN) murakkablik bilan bajarilishida 64 s vaqt sarflasa, shu algoritm O(N^2) murakkablik bilan qancha vaqt sarflaydi?  .  #",
+		"answer": "256"
+	},
+	{
+		"number": "197",
+		"question": "Algoritm O(N) murakkablik bilan bajarilishida 256 s vaqt sarflasa, shu algoritm O(NlogN) murakkablik bilan qancha vaqt sarflaydi?",
+		"answer": "2048"
+	},
+	{
+		"number": "198",
+		"question": "Algoritm O(N) murakkablik bilan bajarilishida 1024 s vaqt sarflasa, shu algoritm O(NlogN) murakkablik bilan qancha vaqt sarflaydi?",
+		"answer": "#10240"
+	},
+	{
+		"number": "199",
+		"question": "To’plam ostilari yig’indisini hisoblash mukrakkabligi qanday parametrlarga bog’liq?",
+		"answer": "#N-to’plamdagi elementlar soni, P-to’plamni tashkil etuvchi sonlarning ikkilik raqamlari soni"
+	},
+	{
+		"number": "200",
+		"question": "Dinamik dasturlashning asosiy formulasini ko’rsating:",
+		"answer": ""
+	}
+
+]

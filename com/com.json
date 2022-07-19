@@ -1,0 +1,2412 @@
+[
+    {
+        "number" : "1",
+        "question" : "",
+        "answer" : "kompyuterning ishlash tamoyillari va buyruqlar tizimini tushunish uchun yetarli darajadagi Kompyuter vazifalari va Kompyuterning tuzilishi tavsifi. "
+    },
+    {
+        "number" : "2",
+        "question" : "Kompyuter nima",
+        "answer" : "Berilganlarni aniq belgilangan ketma-ketlikda bajara oladigan qurilma yoki tizim. Unga kiritish va chiqaris qurilmalari ham talluqli."
+    },
+    {
+        "number" : "3",
+        "question" : "RAM - bu qanday xotira",
+        "answer" : "Doimiy ravishda qollanilgan malumotlar avtomatik tarzda saqlanib qolinadi."
+    },
+    {
+        "number" : "4",
+        "question" : "KESH xotira bu ...",
+        "answer" : "tezkor xotiraning tez-tez foydalaniladigan maydonlarini saqlaydigan juda tezkor xotira."
+    },
+    {
+        "number" : "5",
+        "question" : "Periferik qurilmaning vazifasi:",
+        "answer" : "axborotni kiritish va chiqarish."
+    },
+    {
+        "number" : "6",
+        "question" : "Modemning vazifasi.",
+        "answer" : "ma'lum bir vaqtda ma'lumotlarni qayta ishlash."
+    },
+    {
+        "number" : "7",
+        "question" : "Tashqi xotira quyidagilar uchun xizmat qiladi. ",
+        "answer" : "kompyuterning ishlashidan yoki ishlamasligidan qat'i nazar, ma'lumotni uzoq muddatli saqlash. "
+    },
+    {
+        "number" : "8",
+        "question" : "Protsessorning vazifasi qanday?",
+        "answer" : "hisoblash jarayonining borishini boshqaradi va arifmetik- mantiqiy amallarni bajaradi."
+    },
+    {
+        "number" : "9",
+        "question" : "Kuler nima?",
+        "answer" : "Markaziy protsessorni sovutish uchun moslama. "
+    },
+    {
+        "number" : "10",
+        "question" : "Ikkilik hisoblash tizimidan birinchi bo'lib foydalangan: ",
+        "answer" : "Konrad Zuse "
+    },
+    {
+        "number" : "11",
+        "question" : "Printer quyidagicha bo'lishi mumkin: ",
+        "answer" : "matritsali; lazerli; ignali; sublimatsiyali; qora siyohli. "
+    },
+    {
+        "number" : "12",
+        "question" : "Tezkor xotira bu: ",
+        "answer" : "protsessor ishlashi jarayonida talab qilinadigan ma'lumotlar va buyruqlarni vaqtincha saqlaydigan  xotira. "
+    },
+    {
+        "number" : "13",
+        "question" : "Markaziy protsessor tarkibiga quyidagi komponentlar talluqli: ",
+        "answer" : "boshqaruv bloki, arifmetik mantiqiy qurilma, registrlar, kesh xotirasi. "
+    },
+    {
+        "number" : "14",
+        "question" : "Dastlabki operatsion tizimlar qaysi mashina avlodida paydo bo'lgan? ",
+        "answer" : "Uchinchisida ;"
+    },
+    {
+        "number" : "15",
+        "question" : ".Raqamli hisoblashning asosiy tamoyillarini kim ishlab chiqqan?",
+        "answer" : "Jon fon Neyman; "
+    },
+    {
+        "number" : "16",
+        "question" : "Qaysi avlod mashinasi bir nechta foydalanuvchiga bitta kompyuter bilan ishlash imkonini beradi? ",
+        "answer" : "Uchinchisi;"
+    },
+    {
+        "number" : "17",
+        "question" : "Birinchi avlod mashinalari qanday  elektron asosdan  yaratilgan?",
+        "answer" : "elektron vakuum lampalari;"
+    },
+    {
+        "number" : "18",
+        "question" : "Birinchi kompyuter nechanchi yilda paydo bo'ldi?",
+        "answer" : "1946 yil "
+    },
+    {
+        "number" : "19",
+        "question" : "Inglizcha kompyuter so'zining asl ma'nosi nima? ",
+        "answer" : "hisob-kitoblarni amalga oshiruvchi mashinasi "
+    },
+    {
+        "number" : "20",
+        "question" : "Tizim dasturlari: ",
+        "answer" : "apparat qurilmalarining ishlashini nazorat qiladi, bizga va ilovalarimizga hizmat korsatadi. "
+    },
+    {
+        "number" : "21",
+        "question" : "Ilova dasturlari: ",
+        "answer" : "aniq muammolarni hal qilishga mo'ljallangan dasturlarB.apparatning ishlashini boshqaradigan va bizga va ilovalarimizga hizmat ko'rsatadigan dasturlar. "
+    },
+    {
+        "number" : "22",
+        "question" : "Dastur bu ... ",
+        "answer" : "Magnit diskda fayl sifatida saqlanadigan va foydalanuvchi buyrug'i bilan bajarish uchun kompyuterga yuklanadigan mashina tilidagi ko'rsatmalar to'plami. "
+    },
+    {
+        "number" : "23",
+        "question" : "Axborot texnologiyalari bu ...",
+        "answer" : "ma'lum (texnik) vositalar yordamida ma'lumotlarni to'plash, qayta ishlash va uzatish texnologiyasi. "
+    },
+    {
+        "number" : "24",
+        "question" : "Mikroprotsessor nima? ",
+        "answer" : "Integral mikrosxema, uning kiritilishida keladigan buyruqlarni bajaradi (masalan, hisoblash) va mashinaning ishlashini boshqaradi; "
+    },
+    {
+        "number" : "25",
+        "question" : "Kompyuterning alohida periferik qurilmalarini magistralga jismoniy darajada ulash mumkin: ",
+        "answer" : "A.kontroller yordamida; "
+    },
+    {
+        "number" : "26",
+        "question" : "Tashqi xotira nimaga kerak?",
+        "answer" : "kompyuterni o'chirib qo'ygandan keyin uzoq muddat ma'lumotlarni saqlash uchun; "
+    },
+    {
+        "number" : "27",
+        "question" : "Keltirilganlardan qaysi biri dasturiy vositalarga kirmaydi",
+        "answer" : "protsessor;"
+    },
+    {
+        "number" : "28",
+        "question" : "Fayl deb ",
+        "answer" : "EHM lardagi yoki disklardagi oz nomiga ega maydon;"
+    },
+    {
+        "number" : "29",
+        "question" : "Komputer bu ",
+        "answer" : "malumotlar bilan ishlashga moljallangan kop funktsiyali elektron qurilma;"
+    },
+    {
+        "number" : "30",
+        "question" : "komputer tarkibidagi qaysi qurilma malumotlarni qayta ishlash uchun hizmat qiladi?",
+        "answer" : "Protsessor;"
+    },
+    {
+        "number" : "31",
+        "question" : "kompyuterning ishlash tezligi quyidagiga bogliq:",
+        "answer" : "Protsessorning takt chastotasiga;"
+    },
+    {
+        "number" : "32",
+        "question" : "protsessorning takt chastotasi bu",
+        "answer" : "Bir sekundda bajariladigan amallar soni;"
+    },
+    {
+        "number" : "33",
+        "question" : "Tezkor xotira hajmi quyidagini aniqlaydi:",
+        "answer" : "Qattiq diskka murojaat qilmasdan qancha malumotni qayta ishlash mumkinligini;"
+    },
+    {
+        "number" : "34",
+        "question" : "kompyuterning asosiy qurilmalari ketma-ketligini toliq korsating.",
+        "answer" : "Markaziy protsessor, tezkor xotira, kiritish/chiqarish qurilmalari;"
+    },
+    {
+        "number" : "35",
+        "question" : "protsessor tarkibiga kiradigan qurilmalarni korsating.",
+        "answer" : "Arifmetik mantiqiy qurilma, boshqaruv qurilmasi;"
+    },
+    {
+        "number" : "36",
+        "question" : "protsessor malumotlarni  qayta ishlaydi.",
+        "answer" : "Ikkilik kodida;"
+    },
+    {
+        "number" : "37",
+        "question" : "Doimiy xotira qanday hizmat korsatadi.",
+        "answer" : "Kompyuterni ishga tushiruvchi dasturlarni saqlaydi va uning qurilmalarini sinovdan okazadi;"
+    },
+    {
+        "number" : "38",
+        "question" : "Qanday qurilma  ochganda Shaxsiy kompyuter oz  funksiyalarini  bajara olmaydi?",
+        "answer" : "Tezkor xotira;"
+    },
+    {
+        "number" : "39",
+        "question" : "Qanday qurilma malumotni uzoq vaqt saqlashga hizmat qiladi?",
+        "answer" : "Tashqi xotira;"
+    },
+    {
+        "number" : "40",
+        "question" : "Harvard universiteti tomonidan ishlab chiqilgan protsessor arxitekturasini toping.",
+        "answer" : "Harvard;"
+    },
+    {
+        "number" : "41",
+        "question" : "Bir xil xotiraga kirish arxitekturasi qanday nomlanadi?",
+        "answer" : "UMA (Uniform Memory Access);"
+    },
+    {
+        "number" : "42",
+        "question" : "Bir xil bo`lmagan xotiraga kirish arxitekturasi qanday nomlanadi?",
+        "answer" : "NUMA (Non-Uniform Memory Access);"
+    },
+    {
+        "number" : "43",
+        "question" : "Qisqartirilgan buyruqlar to`plamiga ega kompyuter arxitekturasi nomini korsating.",
+        "answer" : "RISC - Reduced Instruction Set Computer"
+    },
+    {
+        "number" : "44",
+        "question" : "Murakkab (to`liq) buyruqlar to`plamiga ega kompyuter arxitekturasi nomini korsating.",
+        "answer" : "CISC - Complex Instruction Set Computer;"
+    },
+    {
+        "number" : "45",
+        "question" : "komputer arxitekturasi Flinn tasnifi boyicha necha turga bolinadi?",
+        "answer" : "4"
+    },
+    {
+        "number" : "46",
+        "question" : "Flinn tasnifida keltirilgan EHM arxitekturalarini aniqlang.",
+        "answer" : "SISD, MISD, SIMD, MIMD;"
+    },
+    {
+        "number" : "47",
+        "question" : "qaysi javobda protsessor avlodlari togri korsatilgan?",
+        "answer" : "Core i3, Core i5, Core i7, Core i9;"
+    },
+    {
+        "number" : "48",
+        "question" : "zamonamizning protsessor ishlab chiqaruvchi yirik kompaniyalari nomini korsating",
+        "answer" : "Intel, AMD;"
+    },
+    {
+        "number" : "49",
+        "question" : "Konveyer qayta ishlash tamoyili qanday ishlaydi?",
+        "answer" : "Vazifalarni bloklarga taqsimlab qayta ishlashni tezlashtiradi;"
+    },
+    {
+        "number" : "50",
+        "question" : "Protsessor yadrolari soni qanday aniqlanadi?",
+        "answer" : "Qurilmalar dispetcheri orqali protsessor uyasiga kirib aniqlanadi;"
+    },
+    {
+        "number" : "51",
+        "question" : "Kompyuterni  o'chirib qo'yganingizda ma'lumotlar:",
+        "answer" : "Tezkor xotirada yo'qoladi;"
+    },
+    {
+        "number" : "52",
+        "question" : "Diskovod bu- ..... qurilma",
+        "answer" : "tashqi axborot vositalaridan ma'lumotlarni o'qish / yozish;"
+    },
+    {
+        "number" : "53",
+        "question" : "Qaysi qurilma ma'lumot almashishda eng katta tezlikda ega? ",
+        "answer" : "tezkor xotira mikrosxemalari;"
+    },
+    {
+        "number" : "54",
+        "question" : "Qaysi qurilma ma'lumot kiritish uchun o'ljallangan:",
+        "answer" : "klaviatura; "
+    },
+    {
+        "number" : "55",
+        "question" : "Sichqoncha  bu ..... uchun qurilma: ",
+        "answer" : "ma'lumot kiritish; "
+    },
+    {
+        "number" : "56",
+        "question" : "Kompyuterni telefon tarmog'iga ulash uchun quyidagilardan foydalaniladi: ",
+        "answer" : "modem;"
+    },
+    {
+        "number" : "57",
+        "question" : "Qaysi qurilmalar ro'yxatidan ishlaydigan shaxsiy kompyuterni yaratish mumkin?",
+        "answer" : "protsessor, operativ xotira, monitor, klaviatura;"
+    },
+    {
+        "number" : "58",
+        "question" : "Tashqi xotiraga quyidagilar kirmaydi:                    ",
+        "answer" : "Qattiq disk;"
+    },
+    {
+        "number" : "59",
+        "question" : "Monitorni  ..... boshqaruvi ostida ishlaydi:",
+        "answer" : "videokartalar;"
+    },
+    {
+        "number" : "60",
+        "question" : "Dastur  bu ....",
+        "answer" : "ma'lumotlarni qayta ishlash vazifasini bajarish uchun kompyuter bajarishi kerak bo'lgan harakatlar ketma-ketligining tavsifi;"
+    },
+    {
+        "number" : "61",
+        "question" : "Yangi ma'lumotni ko'p marta yozib olish uchun mo'ljallangan kompakt disk ... deb nomlanadi:",
+        "answer" : "CD-RW;"
+    },
+    {
+        "number" : "62",
+        "question" : "Kompyuterning struktursi - bu:",
+        "answer" : "tarkibiga riruvchi qismlarining tarkibini, tartibini va o'zaro munosabatlarining tamoyillarini belgilaydigan model;"
+    },
+    {
+        "number" : "63",
+        "question" : "Mikroprotsessor ..... uchun  mo'ljallangan.",
+        "answer" : "Kompyuterni boshqarish va ma'lumotlarni qayta ishlash;"
+    },
+    {
+        "number" : "64",
+        "question" : "Muayyan boshqaruv signallarini ishlab chiqaradi va barcha bloklarga yuboradi  bu.....",
+        "answer" : "boshqarish qurilmasi;"
+    },
+    {
+        "number" : "65",
+        "question" : "DXQ quyidagilar uchun xizmat qiladi",
+        "answer" : "doimiy dasturiy ma'lumotlarni saqlash uchun;"
+    },
+    {
+        "number" : "66",
+        "question" : "Klaviatura qanday tugmalar guruhiga ega?",
+        "answer" : "alfavit - raqamli, funktsional va boshqaruv;"
+    },
+    {
+        "number" : "67",
+        "question" : "Siz qaysi turdagi printerlarni bilasiz?",
+        "answer" : "matritsali, siyohli, lazerli;"
+    },
+    {
+        "number" : "68",
+        "question" : "ShKning asosiy texnik vositalari:",
+        "answer" : "tizimli blok, monitor, klaviatura, sichqoncha;"
+    },
+    {
+        "number" : "69",
+        "question" : "Tizim blogiga nimalar kiradi?",
+        "answer" : "qattiq va yumshoq magnit disklar, ona plata, CD-ROM;"
+    },
+    {
+        "number" : "70",
+        "question" : "Mikroprotsessorga nimalar kiradi:",
+        "answer" : "ALQ, MPP, BQ;"
+    },
+    {
+        "number" : "71",
+        "question" : "Dasturiy ta'minot qanday uchta asosiy sinflarga bo'linadi?",
+        "answer" : "tizimli, amaliy, dasturlash tizimlari;"
+    },
+    {
+        "number" : "72",
+        "question" : "Operatsion tizim qayerda saqlanadi?",
+        "answer" : " diskdagi tashqi xotirada;"
+    },
+    {
+        "number" : "73",
+        "question" : "Tizim dasturiy ta'minoti quyidagilarga mo'ljallangan:",
+        "answer" : "kompyuterni ishlatish va texnik xizmat ko'rsatish, hisoblash jarayonini boshqarish va tashkil etish uchun;"
+    },
+    {
+        "number" : "74",
+        "question" : "Drayvlar nima uchun kerak?",
+        "answer" : "yangi qurilmalarni kompyuterga ulash yoki mavjudlaridan nostandart foydalanish;"
+    },
+    {
+        "number" : "75",
+        "question" : "Arxivlovchilar quyidagilarga ruxsat berishadi:",
+        "answer" : "ma'lumotni zichroq yozish, shuningdek bir nechta fayllarning nusxalarini bitta arxiv fayliga birlashtirish;"
+    },
+    {
+        "number" : "76",
+        "question" : "Hisoblash va axborot muammolarini hal qilish jarayonida axborotni avtomatik ravishda qayta ishlashga mo'ljallangan texnik vositalar majmui  bu......",
+        "answer" : "Elektron - hisoblash mashinasi;"
+    },
+    {
+        "number" : "77",
+        "question" : "EHMning asosiy xarakteristikalariga ... kiradi:",
+        "answer" : "Barcha variantlar to'g'ri;"
+    },
+    {
+        "number" : "78",
+        "question" : "Kompyuterning ichki xotirasi ... ga bo'linadi:",
+        "answer" : "tezkor va doimiy;"
+    },
+    {
+        "number" : "79",
+        "question" : "To'g'ri  tarif (lar) ni ko'rsating:",
+        "answer" : "Kirish qurilmasi - ma'lumotni odamdan mashinaga uzatish uchun mo'ljallangan;"
+    },
+    {
+        "number" : "80",
+        "question" : "Mashina kodida qayd etilgan arifmetik, mantiqiy operatsiyalar va boshqarish operatsiyalarini bajarishga mas'ul bo'lgan qurilma ",
+        "answer" : "Protsessor;"
+    },
+    {
+        "number" : "81",
+        "question" : "EHM ning apparat vositalari arxitekturasiga ... kiradi",
+        "answer" : "Tizim tuzilishi, xotirani tashkil qilish, kiritish/chiqarishni tashkil etish, boshqarish tamoyillari;"
+    },
+    {
+        "number" : "82",
+        "question" : " Axborotni qayta ishlashda bevosita ishtirok etadigan qurilmalar (protsessor, tezkor xotira qurilmasi) qolgan qurilmalarga bitta magistral - shina orqali ulanadi. Soz  nima haqida ?",
+        "answer" : "Ochiq arhitektura  tamoyili;"
+    },
+    {
+        "number" : "83",
+        "question" : "Mikroprotsessorning asosiy xarakteristikalariga ... kiradi?",
+        "answer" : ". Mikroprotsessor turi, mikroprotsessorning tezligi, mikroprotsessorning takt chastotasi, protsessorning  razryadliligi ;"
+    },
+    {
+        "number" : "84",
+        "question" : "Operandalarda mantiqiy operatsiyalarni bajaradi, masalan, mantiqiy HAM, mantiqiy  YOKI,  tozalash, inversiya, turli siljishlar (o'ng, chap, arifmetik siljish, tsiklik siljish) ...? Soz nima haqida?",
+        "answer" : "Mantiqiy buyruqlar;"
+    },
+    {
+        "number" : "85",
+        "question" : "Registrlar maqsadi jihatidan quyidagilarga bolinadi ...?",
+        "answer" : "Barcha variantlar to'g'ri;"
+    },
+    {
+        "number" : "86",
+        "question" : "Turli xil ma'lumotlar to'plamlari bo'yicha bir xil ko'rsatmalar ketma-ketligini bajaradigan juda ko'p sonli o'xshash protsessorlardan iborat. Soz nima haqida?",
+        "answer" : "Matritsali protsessor;"
+    },
+    {
+        "number" : "87",
+        "question" : "Ma'lumotlar uchun mo'ljallangan shinalar bu .",
+        "answer" : "Kompyuter protsessori va tashqi qurilmalar o'rtasida ma'lumotlarni uzatish uchun ishlatiladigan barcha shinalar ;"
+    },
+    {
+        "number" : "88",
+        "question" : "Axborot bilan ishlashga qodir bo'lgan va bitta foydalanuvchining mustaqil ishlashi uchun mo'ljallangan o'zaro bog'liq bo'lgan apparatning murakkab tizimi bu ...?",
+        "answer" : "Shaxsiy kompyuter"
+    },
+    {
+        "number" : "89",
+        "question" : "89. Kompyuter tizim blogining ichki qurilmalari...?",
+        "answer" : "Barcha variantlar to'g'ri;"
+    },
+    {
+        "number" : "90",
+        "question" : "Kompyuterning tashqi xotirasi ... ga bo'linadi?",
+        "answer" : "Tashqi xotira qurilmalari va ularning tashuvchilari;"
+    },
+    {
+        "number" : "91",
+        "question" : "EHM arxitekturasi dasturiy taminotiga ... kiradi:",
+        "answer" : "Operatsion tizimlar, dasturlash tizimlari, dasturiy ta'minot;"
+    },
+    {
+        "number" : "92",
+        "question" : "Summator ....",
+        "answer" : "kirish impulslari sonini hisoblaydigan qurilma;"
+    },
+    {
+        "number" : "93",
+        "question" : "Buyruqlarning ketma-ket bajarilishining odatiy tartibini o'zgartirish uchun mo'ljallangan.",
+        "answer" : "O'tish buyruqlari"
+    },
+    {
+        "number" : "94",
+        "question" : "mantiqiy elementi .... operatsiyani bajaradi:",
+        "answer" : "mantiqiy ko'paytirish;"
+    },
+    {
+        "number" : "95",
+        "question" : "Axborotni qabul qilish va berish turiga ko'ra registrlar  qanday turlarga ajratiladi?",
+        "answer" : "Siljish registrlari, parallel registrlar;"
+    },
+    {
+        "number" : "96",
+        "question" : "Vektorli protsessor ...?",
+        "answer" : "Ma'lumotlar massivi ustida operatsiyalarni parallel bajarilishini ta'minlaydi;"
+    },
+    {
+         "number" : "97",
+         "question" : "Kompyuterning asosiy elektron qismlarini o'z ichiga olgan eng muhim qismi...?",
+         "answer" : "Tizim platasi;"
+    },
+    {
+        "number" : "98",
+        "question" : "Kiritish / chiqaris shinasi:",
+        "answer" : "Protsessorga periferik qurilmalar bilan aloqa o'rnatishga imkon beradi"
+    },
+    {
+        "number" : "99",
+        "question" : "Qisqartirilgan ko'rsatmalar to'plami bilan ishlaydigan protsessor:",
+        "answer" : "RISC"
+    },
+    {
+        "number" : "100",
+        "question" : "600 onlik soni Ikkilik sanoq sistemasida:",
+        "answer" : "1001011000;"
+    },
+    {
+        "number" : "101",
+        "question" : "Olti sathli kompyuterlarning nolinchi sathi qanday nomlanadi?",
+        "answer" : "raqamli mantiqiy sath"
+    },
+    {
+        "number" : "102",
+        "question" : "Olti sathli kompyuterlarning birinchi sathi qanday nomlanadi?",
+        "answer" : "mikroarxitektura sathi"
+    },
+    {
+        "number" : "103",
+        "question" : "Olti sathli kompyuterlarning ikkinchi sathi qanday nomlanadi?",
+        "answer" : "buyruqlar toplami arxitekturasi sathi"
+    },
+    {
+        "number" : "104",
+        "question" : "Olti sathli kompyuterlarning uchinchi sathi qanday nomlanadi?",
+        "answer" : "operatsion tizim sathi"
+    },
+    {
+        "number" : "105",
+        "question" : "Olti sathli kompyuterlarning tortinchi sathi qanday nomlanadi?",
+        "answer" : "assembler sathi"
+    },
+    {
+        "number" : "106",
+        "question" : "Olti sathli kompyuterlarning beshinchi sathi qanday nomlanadi?",
+        "answer" : "amaliy tillar dasturchilari sathi"
+    },
+    {
+        "number" : "107",
+        "question" : "Raqamli mantiqiy sathning obyektlari qanday nomlanadi?",
+        "answer" : "ventillar"
+    },
+    {
+        "number" : "108",
+        "question" : "Bir bitli xotira elementi deganda nima tushuniladi?",
+        "answer" : "trigger"
+    },
+    {
+        "number" : "109",
+        "question" : "Guruhga birlashtirilgan triggerlar yordamida nima hosil qilinadi?",
+        "answer" : "registr"
+    },
+    {
+        "number" : "110",
+        "question" : "Inkorlash elementining kirishi nechta bolishi mumkin?",
+        "answer" : "1"
+    },
+    {
+        "number" : "111",
+        "question" : "NOT, NOT-AND, NOT-OR kabi elementlarning kirish signallari, ulardagi tranzistorlarning qaysi oyoqchasiga ulangan?",
+        "answer" : "baza"
+    },
+    {
+        "number" : "112",
+        "question" : "NOT, NOT-AND, NOT-OR kabi elementlarning chiqish signallari, ulardagi tranzistorlarning qaysi oyoqchasidan olinadi?",
+        "answer" : "kollektor"
+    },
+    {
+        "number" : "113",
+        "question" : "Mantiqiy funktsiya ozgaruvchilarining soni n-ga teng bolsa, ushbu funktsiyaning xaqiqat jadvali necha qatordan iborat bolishi kerak?",
+        "answer" : "2^n"
+    },
+    {
+        "number" : "114",
+        "question" : "Uchta ozgaruvchili mantiqiy funksiyaning xaqiqat jadvali necha qatordan iborat boladi?",
+        "answer" : "8"
+    },
+    {
+        "number" : "115",
+        "question" : "Tortta ozgaruvchili mantiqiy funksiyaning xaqiqat jadvali necha qatordan iborat boladi?",
+        "answer" : "16"
+    },
+    {
+        "number" : "116",
+        "question" : "Beshta o‘zgaruvchili mantiqiy funtsiyaning xaqiqat jadvali necha qatordan iborat bo‘ladi?",
+        "answer" : "32"
+    },
+    {
+        "number" : "117",
+        "question" : "64 Kbaytli asosiy xotira adresining maksimal qiymati nechaga teng?",
+        "answer" : "FFFF"
+    },
+    {
+        "number" : "118",
+        "question" : "1 Mbaytli asosiy xotira adresining maksimal qiymati nechaga teng?",
+        "answer" : "FFFFF"
+    },
+    {
+        "number" : "119",
+        "question" : "4 Gbaytli asosiy xotira adresining maksimal qiymati nechaga teng?",
+        "answer" : "FFFF FFFF"
+    },
+    {
+        "number" : "120",
+        "question" : "Pentium oilasiga mansub protsessorlar asosida qurilgan kompyuterlarning asosiy xotirasida baytlar qanday tartibda joylashtiriladi? ",
+        "answer" : "teskari tartibda"
+    },
+    {
+        "number" : "121",
+        "question" : "SPARC oilasiga mansub protsessorlar asosida qurilgan kompyuterlarning asosiy xotirasida baytlar qanday tartibda joylashtiriladi? ",
+        "answer" : "togri tartibda"
+    },
+    {
+        "number" : "122",
+        "question" : "Asosiy xotirasida, baytlar togri tartibda joylashtirilgan kompyuter protsessori korsating.",
+        "answer" : "UltraSPARC III "
+    },
+    {
+        "number" : "123",
+        "question" : "Asosiy xotirasida, baytlar teskari tartibda joylashtirilgan kompyuter protsessori korsating.",
+        "answer" : "Pentium 4 "
+    },
+    {
+        "number" : "124",
+        "question" : "Xozirgi shaxsiy  kompyuterlarda xotiraga murojaat qilishning necha xil rejimi mavjud?",
+        "answer" : "2"
+    },
+    {
+        "number" : "125",
+        "question" : "Asosiy xotiraga murojaat qilishning real rejimida bitta segmentning xajmi nechaga teng?",
+        "answer" : "64 Kbayt"
+    },
+    {
+        "number" : "126",
+        "question" : "Asosiy otiraga murojaat qilishning himoyalangan rejimida bitta sahifaning xajmi nechaga teng?",
+        "answer" : "4 Kbayt"
+    },
+    {
+        "number" : "127",
+        "question" : "Intel protsessorlari oilasining, Core duo protsessoridan avvalgi protsessorlari ishlatilgan  kompyuterlarda birinchi sath kesh xotirasining maksimal xajmi nechaga teng bolishi mumkin?",
+        "answer" : "64 Kbayt"
+    },
+    {
+        "number" : "128",
+        "question" : "Intel protsessorlari oilasining, Core duo protsessoridan avvalgi protsessorlari ishlatilgan  kompyuterlarda ikkinchi sath kesh xotirasining maksimal xajmi nechaga teng bolishi mumkin?",
+        "answer" : "1 Mbayt"
+    },
+    {
+        "number" : "129",
+        "question" : "Intel protsessorlari oilasining, Core duo protsessoridan avvalgi protsessorlari ishlatilgan  kompyuterlarda uchinchi sath kesh xotirasining maksimal xajmi nechaga teng bolishi mumkin?",
+        "answer" : "bir necha megabaytga"
+    },
+    {
+        "number" : "130",
+        "question" : "Ulanish nuqtalari bir tomonda joylashgan xotira modullari qanday nomlanadi?",
+        "answer" : "SIMM"
+    },
+    {
+        "number" : "131",
+        "question" : "Ulanish nuqtalari ikki tomonda joylashgan xotira modullari qanday nomlanadi?",
+        "answer" : "DIMM"
+    },
+    {
+        "number" : "132",
+        "question" : "D-triggerlar asosida qurilgan tezkor xotira qurilmasini ko‘rsating.",
+        "answer" : "statik tezkor xotira qurilmasi (SRAM)"
+    },
+    {
+        "number" : "133",
+        "question" : "Axborotni ochirish va qayta yozish mumkin bolgan programmalanadigan doimiy xotira qurilmasini korsating.",
+        "answer" : "EPROM"
+    },
+    {
+        "number" : "134",
+        "question" : "Kochirib yozish buyruqlarini korsating.",
+        "answer" : "MOV, PUSH"
+    },
+    {
+        "number" : "135",
+        "question" : "Arifmetik buyruqlarni korsating.",
+        "answer" : "ADD, SUB "
+    },
+    {
+        "number" : "136",
+        "question" : "Ikkita operandalar ustida amallar bajarish buyruqlarini korsating.",
+        "answer" : "ADD, SUB"
+    },
+    {
+        "number" : "137",
+        "question" : "Bitta operanda ustida amallar bajarish buyruqlarini korsating.",
+        "answer" : "INC, DEC "
+    },
+    {
+        "number" : "138",
+        "question" : "Boshqarishni uzatish buyruqlarini korsating.",
+        "answer" : "JMP, CALL"
+    },
+    {
+        "number" : "139",
+        "question" : "Malumotlarni kiritish-chiqarish buyruqlarini korsating.",
+        "answer" : "IN, OUT "
+    },
+    {
+        "number" : "140",
+        "question" : "Kompyuter xotirasini iyerarxik korinishda tashkil yetishda, iyerarxiyaning eng yuqori qismida joylashgan xotirani korsating.",
+        "answer" : "ichki registrlar"
+    },
+    {
+        "number" : "141",
+        "question" : "Kompyuter xotirasini iyerarxik korinishda tashkil yetishda, iyerarxiyaning ikkinchi qatorida joylashgan xotirani korsating.",
+        "answer" : "kesh xotira "
+    },
+    {
+        "number" : "142",
+        "question" : "Kompyuter xotirasini iyerarxik korinishda tashkil yetishda, iyerarxiyaning uchinchi qatorida joylashgan xotirani korsating.",
+        "answer" : "asosiy xotira "
+    },
+    {
+        "number" : "143",
+        "question" : "Kompyuter xotirasini iyerarxik korinishda tashkil yetishda, iyerarxiyaning tortinchi qatorida joylashgan xotirani korsating.",
+        "answer" : "magnitli disk "
+    },
+    {
+        "number" : "144",
+        "question" : "Kompyuter xotirasini iyerarxik korinishda tashkil yetishda, iyerarxiyaning beshinchi qatorida joylashgan xotirani korsating.",
+        "answer" : "optik disk "
+    },
+    {
+        "number" : "145",
+        "question" : "Magnitli disk yolkasini tashkil yetuvchi sektorlari qanday uzunlikka ega?",
+        "answer" : "512 bayt"
+    },
+    {
+        "number" : "146",
+        "question" : "Kichik hisoblash tizimlarining interfeyslariga ega disklar deganda qanday disklar tushuniladi?",
+        "answer" : "SCSI disklar"
+    },
+    {
+        "number" : "147",
+        "question" : "Magnitli disklar asosida qurilgan, malumotlarni tezkor kiritish-chiqarish qurilmasi qanday nomlanadi?",
+        "answer" : "RAID disklar"
+    },
+    {
+        "number" : "148",
+        "question" : "4 Gbaytli asosiy xotiraga ega bolgan kompyuterlarda, adres shinasi necha razryadga teng boladi?",
+        "answer" : "32"
+    },
+    {
+        "number" : "149",
+        "question" : "8 Gbaytli asosiy xotiraga ega bolgan kompyuterlarda, adres shinasi necha razryadga teng boladi?",
+        "answer" : "33"
+    },
+    {
+        "number" : "150",
+        "question" : "Sanoatdagi standart arxitekturali shinani korsating.",
+        "answer" : "ISA"
+    },
+    {
+        "number" : "151",
+        "question" : "Sanoatdagi kengaytirilgan standart arxitekturali shinani korsating.",
+        "answer" : "EISA"
+    },
+    {
+        "number" : "152",
+        "question" : "Kompyuterning tashqi tashkil etuvchi qurilmalarni ozaro birgalikda ishlashini taminlovchi shinani korsating.",
+        "answer" : "PCI "
+    },
+    {
+        "number" : "153",
+        "question" : "Tez ishlaydigan grafik port shinasini korsating.",
+        "answer" : "AGP "
+    },
+    {
+        "number" : "154",
+        "question" : "Malumotlarni ketma-ket uzatuvchi universal shinani korsating.",
+        "answer" : "USB "
+    },
+    {
+        "number" : "155",
+        "question" : "Tarmoq interfeysi qurilmasini korsating.",
+        "answer" : "NID"
+    },
+    {
+        "number" : "156",
+        "question" : "ASCII kodi qanday uzunliklarga ega bolishi mumkin?",
+        "answer" : "7 yoki 8 bit"
+    },
+    {
+        "number" : "157",
+        "question" : "IS 10646 xalqaro standarti deb elon qilingan UNICODE-kodining uzunligi nechaga teng?",
+        "answer" : "16 bit"
+    },
+    {
+        "number" : "158",
+        "question" : "IS 10646 xalqaro standarti deb elon qilingan kodni korsating.",
+        "answer" : "UNICODE"
+    },
+    {
+        "number" : "159",
+        "question" : "Protsessor asosiy xotiradan malumotlarni oqish uchun, shina orqali qaysi boshqarish signallari bilan xotiraga murojaat qiladi?   ",
+        "answer" : "MREQ, RD"
+    },
+    {
+        "number" : "160",
+        "question" : "Protsessor asosiy xotiradan malumotlarni oqish uchun, shina orqali xotiraga murojaat qilish signalini korsating.   ",
+        "answer" : "MREQ"
+    },
+    {
+        "number" : "161",
+        "question" : "Monitorda rang hosil qilishda qanday ranglardan foydalaniladi?",
+        "answer" : "qizil, kok, yashil"
+    },
+    {
+        "number" : "162",
+        "question" : "PCI Express shinasi, kompyuter tarkibiga kirgan qurilmalarni boglashda, qanday rolni bajaradi? ",
+        "answer" : "universal kommutator"
+    },
+    {
+        "number" : "163",
+        "question" : "Protsessor tarkibidagi muhim registrlardan biri bolgan buyruqlar sanagichi registrini korsating.",
+        "answer" : "PC"
+    },
+    {
+        "number" : "164",
+        "question" : "Protsessorning IP yoki EIP registri deganda qanday registr tushuniladi?",
+        "answer" : "buyruqlarni korsatuvchi registr"
+    },
+    {
+        "number" : "165",
+        "question" : "Asosiy xotiraning dasturning buyruqlari  yoziladigan qismi nima deb ataladi?",
+        "answer" : "kodlar yoziladigan segment"
+    },
+    {
+        "number" : "166",
+        "question" : "AX yoki EAX registri deganda nima tushuniladi?",
+        "answer" : "akkumulyator"
+    },
+    {
+        "number" : "167",
+        "question" : "SF yoki EFLAGS registri deganda qaysi registr tushuniladi?",
+        "answer" : "bayroqlar registri"
+    },
+    {
+        "number" : "168",
+        "question" : "CS registri deganda qaysi registr tushuniladi?",
+        "answer" : "kodlar yoziladigan segment registri"
+    },
+    {
+        "number" : "169",
+        "question" : "Umumiy maqsadlar uchun moljallangan registrlarni korsating.",
+        "answer" : "AX, EAX"
+    },
+    {
+        "number" : "170",
+        "question" : "Pentium 4 protsessori tarkibida nechta tranzistor bor?",
+        "answer" : "42 000 000"
+    },
+    {
+        "number" : "171",
+        "question" : "Pentium 4 protsessorida «qatorining kengligi» qanday qiymatga ega? ",
+        "answer" : "0,18 mkm"
+    },
+    {
+        "number" : "172",
+        "question" : "UltraSPARC III protsessori tarkibida nechta tranzistor bor?",
+        "answer" : "29 000 000"
+    },
+    {
+        "number" : "173",
+        "question" : "Pentium 4 protsessori mikroarxitekturasi qanday nomlanadi?",
+        "answer" : "NetBurst"
+    },
+    {
+        "number" : "174",
+        "question" : "Pentium 4 protsessori mikrosxemasi nechta chiqish oyoqchalariga ega?",
+        "answer" : "478"
+    },
+    {
+        "number" : "175",
+        "question" : "UltraSPARC III protsessori mikrosxemasi nechta chiqish oyoqchalariga ega?",
+        "answer" : "1368"
+    },
+    {
+        "number" : "176",
+        "question" : "Pentium 4 protsessori mikrosxemasida axborot signallari uchun nechta ulanish nuqtalari ajratilgan?",
+        "answer" : "198"
+    },
+    {
+        "number" : "177",
+        "question" : "Besh sathli konveyerning birinchi bosqichida (C1) nima amalga oshiriladi?",
+        "answer" : "bajarilishi kerak bolgan buyruqni tanlash"
+    },
+    {
+        "number" : "178",
+        "question" : "Besh sathli konveyerning ikkinchi bosqichida (C2) nima amalga oshiriladi?",
+        "answer" : "buyruqni dekodlash"
+    },
+    {
+        "number" : "179",
+        "question" : "Besh sathli konveyerning uchinchi bosqichida (C3) nima amalga oshiriladi?",
+        "answer" : "operandalarni tanlash"
+    },
+    {
+        "number" : "180",
+        "question" : "Besh sathli konveyerning tortinchi bosqichida (C4) nima amalga oshiriladi?",
+        "answer" : "buyruqni bajarish"
+    },
+    {
+        "number" : "181",
+        "question" : "Besh sathli konveyerning beshinchi bosqichida (C5) nima amalga oshiriladi?",
+        "answer" : "natijalarni xotiraga yoki registrlarga yozish"
+    },
+    {
+        "number" : "182",
+        "question" : "Bajariladigan buyruqni tanlash besh sathli konveyerning qaysi bosqichida amalga oshiriladi?",
+        "answer" : "S1"
+    },
+    {
+        "number" : "183",
+        "question" : "Bajariladigan buyruqni dekodlash besh sathli konveyerning qaysi bosqichida amalga oshiriladi?",
+        "answer" : "S2"
+    },
+    {
+        "number" : "184",
+        "question" : "Operandalarni tanlash besh sathli konveyerning qaysi bosqichida amalga oshiriladi?",
+        "answer" : "S3"
+    },
+    {
+        "number" : "185",
+        "question" : "Buyruqni bajarish besh sathli konveyerning qaysi bosqichida amalga oshiriladi?",
+        "answer" : "S4"
+    },
+    {
+        "number" : "186",
+        "question" : "Natijani xotiraga yoki registrlarga yozish besh sathli konveyerning qaysi bosqichida amalga oshiriladi?",
+        "answer" : "S5"
+    },
+    {
+        "number" : "187",
+        "question" : "Toliq buyruqlar toplamiga ega kompyuter qanday nomlanadi?",
+        "answer" : "CISC"
+    },
+    {
+        "number" : "188",
+        "question" : "Qisqartirilgan buyruqlar toplamiga ega kompyuter qanday nomlanadi?",
+        "answer" : "RISC"
+    },
+    {
+        "number" : "189",
+        "question" : "Protsessor siklining birinchi bosqichida nima amalga oshiriladi?",
+        "answer" : "RS yordamida bajarilishi kerak bolgan buyruq tanlab olinadi "
+    },
+    {
+        "number" : "190",
+        "question" : "Protsessor siklining ikkinchi bosqichida nima amalga oshiriladi?",
+        "answer" : "RS-ning qiymati orttiriladi"
+    },
+    {
+        "number" : "191",
+        "question" : "Protsessor siklining uchinchi bosqichida nima amalga oshiriladi?",
+        "answer" : "buyruq dekodlanadi"
+    },
+    {
+        "number" : "192",
+        "question" : "Protsessor siklining tortinchi bosqichida nima amalga oshiriladi?",
+        "answer" : "buyruqni bajarish uchun kerak boladigan malumotlar xotiradan yoki registrlardan tanlab olinadi"
+    },
+    {
+        "number" : "193",
+        "question" : "Protsessor siklining beshinchi bosqichida nima amalga oshiriladi?",
+        "answer" : "buyruq bajariladi"
+    },
+    {
+        "number" : "194",
+        "question" : "Protsessor siklining oltinchi bosqichida nima amalga oshiriladi?",
+        "answer" : "natijalarni xotiraga yoki registrlarga yozish"
+    },
+    {
+        "number" : "195",
+        "question" : "Protsessor siklining yettinchi bosqichida nima amalga oshiriladi?",
+        "answer" : "keyingi buyruqni bajarish tsikliga o‘tish"
+    },
+    {
+        "number" : "196",
+        "question" : "Protsessor sikli nechta bosqichidan iborat?",
+        "answer" : "7"
+    },
+    {
+        "number" : "197",
+        "question" : "Protsessor siklining qaysi bosqichida buyruqni bajarish amalga oshiriladi?",
+        "answer" : "5"
+    },
+    {
+        "number" : "198",
+        "question" : "Protsessor siklining qaysi bosqichida buyruqni tanlab olish amalga oshiriladi?",
+        "answer" : "1"
+    },
+    {
+        "number" : "199",
+        "question" : "Protsessor siklining qaysi bosqichida buyruqni dekodlash amalga oshiriladi?",
+        "answer" : "3"
+    },
+    {
+        "number" : "200",
+        "question" : "Protsessor siklining qaysi bosqichida natijalarini xotiraga yoki registrlarga yozish amalga oshiriladi?",
+        "answer" : "6"
+    },
+    {
+        "number" : "201",
+        "question" : "Core i7 protsessori tarkibida nechtagacha tranzistor bor? ",
+        "answer" : " 1,16  mld. gacha"
+    },
+    {
+        "number" : "202",
+        "question" : "Antiviruslar dasturlarning qaysi turiga kiradi?",
+        "answer" : "Tizimli dasturlar"
+    },
+    {
+        "number" : "203",
+        "question" : "Drayverlar dasturlarning qaysi turiga kiradi?",
+        "answer" : ""
+    },
+    {
+        "number" : "204",
+        "question" : "Tezkor tizim dasturlarning qaysi turiga kiradi?",
+        "answer" : "Tizimli dasturlar turiga"
+    },
+    {
+        "number" : "205",
+        "question" : "Core i7 protsessorida necha sathli kesh qollaniladi?",
+        "answer" : "3 sathli kesh"
+    },
+    {
+        "number" : "206",
+        "question" : "Core i7 protsessorlaridagi yadrolar sonini korsating",
+        "answer" : "kop"
+    },
+    {
+        "number" : "207",
+        "question" : "ADM  protsessorlaridagi yadrolar sonini korsating",
+        "answer" : "2"
+    },
+    {
+        "number" : "208",
+        "question" : "ATmega168  protsessoridagi yadrolar sonini korsating.",
+        "answer" : "1"
+    },
+    {
+        "number" : "209",
+        "question" : "Keltirilganlarning qaysi biri Fon Neyman printsiplariga togri keladi?",
+        "answer" : "ikkilik sanoq sistemasini qollash"
+    },
+    {
+        "number" : "210",
+        "question" : "Keltirilganlarning qaysi biri Fon Neyman printsiplariga togri keladi?",
+        "answer" : "dastur yordamida boshqarish"
+    },
+    {
+        "number" : "211",
+        "question" : "Keltirilganlarning qaysi biri Fon Neyman printsiplariga togri keladi?",
+        "answer" : "hotirani ham malumotlarni, ham dasturlarni saqlashda qollash "
+    },
+    {
+        "number" : "212",
+        "question" : "Keltirilganlarning qaysi biri Fon Neyman printsiplariga togri keladi?",
+        "answer" : "hotira yacheykalari ketma-ket keluvchi adreslarga ega”"
+    },
+    {
+        "number" : "213",
+        "question" : "Keltirilganlarning qaysi biri Fon Neyman printsiplariga togri keladi?",
+        "answer" : "dasturni bajarishda shartli otish imkoniyati"
+    },
+    {
+        "number" : "214",
+        "question" : "Keltirilganlarning qaysi biri Mur qonunini ifodalaydi?",
+        "answer" : "bir mikrosxemadagi tranzistorlar soni har yili 60% ga ortib boradi"
+    },
+    {
+        "number" : "215",
+        "question" : "Protsessorning qaysi registrida, keyingi bajariladigan buyruqning adresi yozib turiladi?",
+        "answer" : "PC"
+    },
+    {
+        "number" : "216",
+        "question" : "Raqamli mantiqiy sath, olti sathli kompyuterlarning qaysi sathiga tegishli?",
+        "answer" : "0 sathiga"
+    },
+    {
+        "number" : "217",
+        "question" : "Mikroarxitektura sathi, olti sathli kompyuterlarning qaysi sathiga tegishli?",
+        "answer" : "1 sathiga"
+    },
+    {
+        "number" : "218",
+        "question" : "Buyruqlar toplami arxitekturasi sathi, olti sathli kompyuterlarning qaysi sathiga tegishli?",
+        "answer" : "2 sathiga"
+    },
+    {
+        "number" : "219",
+        "question" : "Operatsion tizim sathi, olti sathli kompyuterlarning qaysi sathiga tegishli?",
+        "answer" : "3 sathiga"
+    },
+    {
+        "number" : "220",
+        "question" : "Assembler sathi, olti sathli kompyuterlarning qaysi sathiga tegishli?",
+        "answer" : " 4 sathiga"
+    },
+    {
+        "number" : "221",
+        "question" : "Amaliy tillar dasturchilari sath, olti sathli kompyuterlarning qaysi sathiga tegishli?",
+        "answer" : " 5 sathiga"
+    },
+    {
+        "number" : "222",
+        "question" : "16 razryadli adres shinasi yordamida qanday xajmdagi xotirani adreslash mumkin?",
+        "answer" : "64 Kbayt"
+    },
+    {
+        "number" : "223",
+        "question" : "20 razryadli adres shinasi yordamida qanday xajmdagi xotirani adreslash mumkin?",
+        "answer" : "1 Mbayt"
+    },
+    {
+        "number" : "224",
+        "question" : "32 razryadli adres shinasi yordamida qanday xajmdagi xotirani adreslash mumkin?",
+        "answer" : " 4 Gbayt"
+    },
+    {
+        "number" : "225",
+        "question" : "33 razryadli adres shinasi yordamida qanday xajmdagi xotirani adreslash mumkin?",
+        "answer" : " 8 Gbayt"
+    },
+    {
+        "number" : "226",
+        "question" : "Qaysi protsessor tarkibida 42 000 000 tranzistor mavjud? ",
+        "answer" : "Pentium 4"
+    },
+    {
+        "number" : "227",
+        "question" : "Qaysi protsessor tarkibida 29 000 000 tranzistor mavjud?",
+        "answer" : "UltraSPARC III"
+    },
+    {
+        "number" : "228",
+        "question" : "Qaysi protsessor NetBurst mikroarxitekturasiga ega?",
+        "answer" : "Pentium 4"
+    },
+    {
+        "number" : "229",
+        "question" : "Qaysi protsessor Version 9 SPARC mikroarxitekturasiga ega?",
+        "answer" : " UltraSPARC III "
+    },
+    {
+        "number" : "230",
+        "question" : "Qaysi protsessor «qatorining kengligi» 0,18 mkm ga teng?",
+        "answer" : " Pentium 4"
+    },
+    {
+        "number" : "231",
+        "question" : "Qaysi protsessor «qatorining kengligi» 0,13 mkm ga teng?",
+        "answer" : "UltraSPARC III "
+    },
+    {
+        "number" : "232",
+        "question" : "SIMM qisqartmasi nimani anglatadi?",
+        "answer" : "Ulanish nuqtalari bir tomonda joylashgan xotira moduli "
+    },
+    {
+        "number" : "233",
+        "question" : "DIMM qisqartmasi nimani anglatadi?",
+        "answer" : "Ulanish nuqtalari ikki tomonda joylashgan xotira moduli"
+    },
+    {
+        "number" : "234",
+        "question" : "PCI qisqartmasi nimani anglatadi?",
+        "answer" : " Kompyuterning tashqi tashkil etuvchi qurilmalarni ozaro birgalikda ishlashini taminlovchi shina"
+    },
+    {
+        "number" : "235",
+        "question" : "AGP qisqartmasi nimani anglatadi?",
+        "answer" : " Tez ishlaydigan grafik port shinasini"
+    },
+    {
+        "number" : "236",
+        "question" : "USB qisqartmasi nimani anglatadi?",
+        "answer" : "Malumotlarni ketma-ket uzatuvchi universal shina"
+    },
+    {
+        "number" : "237",
+        "question" : "RAID qisqartmasi nimani anglatadi?",
+        "answer" : "Magnitli disklar asosida qurilgan, malumotlarni tezkor kiritish-chiqarish qurilmasi"
+    },
+    {
+        "number" : "238",
+        "question" : "EISA qisqartmasi nimani anglatadi?",
+        "answer" : "Sanoatdagi kengaytirilgan standart arxitekturali shina"
+    },
+    {
+        "number" : "239",
+        "question" : "ISA qisqartmasi nimani anglatadi?",
+        "answer" : "Sanoatdagi standart arxitekturali shina"
+    },
+    {
+        "number" : "240",
+        "question" : "RISC qisqartmasi nimani anglatadi?",
+        "answer" : "Qisqartirilgan buyruqlar toplamiga ega kompyuter"
+    },
+    {
+        "number" : "241",
+        "question" : "CISC qisqartmasi nimani anglatadi?",
+        "answer" : "Tolik buyruqlar toplamiga ega kompyuter"
+    },
+    {
+        "number" : "242",
+        "question" : "Dasturchilarga, dasturlardagi xatolarni topish uchun yordam beradigan tizimli dastur nima ataladi?",
+        "answer" : " Otladchik"
+    },
+    {
+        "number" : "243",
+        "question" : "Dasturning xar bir qatorini taxlil qilib, osha zahoti bajaradigan tizimli dastur nima deb ataladi? ",
+        "answer" : " Interpretator"
+    },
+    {
+        "number" : "244",
+        "question" : "Dasturni toliq taxlil qilib, keyin bajarish uchun kompyuter xotirasiga yozadigan tizimli dastur nima deb ataladi? ",
+        "answer" : " Translyator"
+    },
+    {
+        "number" : "245",
+        "question" : "Fizik adreslar toplamini qanday nomlash mumkin?",
+        "answer" : " Adreslar fazosi"
+    },
+    {
+        "number" : "246",
+        "question" : "SHina orqali malumotlarni uzatishga ruxsat beradigan qurilma nima deb ataladi? ",
+        "answer" : "SHina ustasi"
+    },
+    {
+        "number" : "247",
+        "question" : "Registrga yangi malumotni yozish jarayoni qanday nomlanishi mumkin?",
+        "answer" : " YUklash"
+    },
+    {
+        "number" : "248",
+        "question" : "Qaysi xotiraga murojaat qilish tezligi eng katta? ",
+        "answer" : " registrli xotiraga"
+    },
+    {
+        "number" : "249",
+        "question" : "Hardware deganda nima tushiniladi?",
+        "answer" : "kompyuterning apparat qismi"
+    },
+    {
+        "number" : "250",
+        "question" : "«Kompyuter» sozini inglizchadan qilingan  dastlabki tarjimasi nimani anglatgan? ",
+        "answer" : " buyruqlarni bajarish uchun moljallangan elektron qurilma"
+    },
+    {
+        "number" : "251",
+        "question" : "Software deganda nima tushiniladi?",
+        "answer" : " kompyuterning dasturiy taminoti"
+    },
+    {
+        "number" : "252",
+        "question" : "Kompyuterning minimal tarkibiga nimalar kiradi?",
+        "answer" : "monitor, tizimli blok, klaviatura "
+    },
+    {
+        "number" : "253",
+        "question" : "Kompyuterning malumotlar shinasining razryadlar soni nimaga bogliq?",
+        "answer" : "foydalanilgan protsessorning adreslashi mumkin bolgan xotirasiga"
+    },
+    {
+        "number" : "254",
+        "question" : "Printirlarning qanday xillarini bilasiz?",
+        "answer" : "matritsali, sepuvchi va lazerli "
+    },
+    {
+        "number" : "255",
+        "question" : "Boshqarish shinasi nima uchun moljallangan?",
+        "answer" : "boshqarish signallarini uzatish uchun"
+    },
+    {
+        "number" : "256",
+        "question" : "Plotter nima uchun moljallangan?",
+        "answer" : "grafik axborotni qogozga chiqarish uchun "
+    },
+    {
+        "number" : "257",
+        "question" : "SHaxsiy kompyuterlar uchun moljallangan qoplamalarning qanday xillarini bilasiz? ",
+        "answer" : "gorizontal (desktop) va vertikal (tower) xillari"
+    },
+    {
+        "number" : "258",
+        "question" : "Malumotlar shinasi nima uchun moljallangan?",
+        "answer" : " ishlanayotgan axborotni uzatish uchun"
+    },
+    {
+        "number" : "259",
+        "question" : "Djoystikdan nima uchun foydalaniladi?",
+        "answer" : " kompyuter oyinlari oynash uchun "
+    },
+    {
+        "number" : "260",
+        "question" : "Modemlarning qanday xillarini bilasiz?",
+        "answer" : "ichki va tashqi"
+    },
+    {
+        "number" : "261",
+        "question" : "Kontroller nima uchun moljallangan?",
+        "answer" : " protsessordan kelayotgan axborotlarni, qurilmalar ishini boshqaruvchi mos signallariga ozgartirish uchun"
+    },
+    {
+        "number" : "262",
+        "question" : "Videoadapterning korsata olish imkoniyati deganda nima tushiniladi?",
+        "answer" : " gorizantal va vertikal boylab chiqarib bera olishi mumkin bolgan nuqtalarining soni"
+    },
+    {
+        "number" : "263",
+        "question" : "Modem nima uchun moljallangan?",
+        "answer" : " telefon tarmogi orqali bir kompyuterdan, boshqa bir kompyuterga malumotni uzatish uchun"
+    },
+    {
+        "number" : "264",
+        "question" : "Telefon tarmogi orqali kompyuterlarni ozaro boglaydigan qurilma qanday nomlanadi?",
+        "answer" : " modem "
+    },
+    {
+        "number" : "265",
+        "question" : "Qaysi qurilma odatdagi telefon aloqa chiziqlari orqali malumotlar almashinishni taminlab bera oladi? ",
+        "answer" : " modem"
+    },
+    {
+        "number" : "266",
+        "question" : "Skaner nima uchun moljallangan?",
+        "answer" : " qogoz bolagidagi grafik tasvirlarni kompyuterga kiritish uchun"
+    },
+    {
+        "number" : "267",
+        "question" : "Quyidagilardan qaysi biri dasturiy vositalarga tegishli emas?",
+        "answer" : " protsessor "
+    },
+    {
+        "number" : "268",
+        "question" : "Qaysi qurilma yordamida tashqi qurilma bilan shina ortasidagi aloqa amalga oshiriladi?",
+        "answer" : " kontroller "
+    },
+    {
+        "number" : "269",
+        "question" : "Strimmer nima uchun moljallangan?",
+        "answer" : "katta xajmdagi axborotni magnit tasmasiga yozish uchun"
+    },
+    {
+        "number" : "270",
+        "question" : "Vinchester nima uchun moljallangan?",
+        "answer" : "Malumotlarni doimiy saqlash uchun"
+    },
+    {
+        "number" : "271",
+        "question" : "Modem qanday vazifani bajaradi?",
+        "answer" : " Analogli signalni raqamli signalga va raqamli signalni analogli signalga  aylantirish uchunuzgartiradi."
+    },
+    {
+        "number" : "272",
+        "question" : "Kompyuterning ish samaradorligi nimaga bogliq? ",
+        "answer" : "Protsessor chastotasiga"
+    },
+    {
+        "number" : "273",
+        "question" : "Monitorning harakteristikasini tanlang",
+        "answer" : " Ruxsat etish imkoniyati"
+    },
+    {
+        "number" : "274",
+        "question" : "Personal kompyuterning shinalari nimani taminlab beradi?",
+        "answer" : " Element va qurilmalarning ozaro   boglanishini"
+    },
+    {
+        "number" : "275",
+        "question" : "Takt chastotasining olchov birligi nima? ",
+        "answer" : "MGts"
+    },
+    {
+        "number" : "276",
+        "question" : "Malumotni protssessor qanday qayta ishlaydi? ",
+        "answer" : "ikkilik sanoq tizimida"
+    },
+    {
+        "number" : "277",
+        "question" : "Asosiy plataga nima ornatiladi",
+        "answer" : " Protsessor"
+    },
+    {
+        "number" : "278",
+        "question" : "CD-disklarning hajmi qanchagacha bolishi mumkin? ",
+        "answer" : "700 Mbayt"
+    },
+    {
+        "number" : "279",
+        "question" : "Tarmoq kabellarining qaysi biri eng kata uzatish tezligiga va sifatga ega?",
+        "answer" : " Optik tolali"
+    },
+    {
+        "number" : "280",
+        "question" : "Diskovod – bu ...?",
+        "answer" : "Tashqi qurilmadagi malumotni oqish/ yozish qurilmasi"
+    },
+    {
+        "number" : "281",
+        "question" : "Kompyuter yoqilishini testlash dasturi qaerda yozilgan? ",
+        "answer" : " BIOS mikrosxemasida"
+    },
+    {
+        "number" : "282",
+        "question" : "Doimiy saqlovchi qurilma qanday hotira turiga kiradi? ",
+        "answer" : "Manbaga bogliq bolmagan qurilma"
+    },
+    {
+        "number" : "283",
+        "question" : "SHisha tolali kabelda signal qanday yonalishda uzatiladi? ",
+        "answer" : " Bir yonalishda"
+    },
+    {
+        "number" : "284",
+        "question" : "Magnit diskni sektorlarga bolish nimani amalga oshiradi?",
+        "answer" : " Malumotlarga murojat qilish vaqtini kamaytiradi"
+    },
+    {
+        "number" : "285",
+        "question" : "SHaxsiy kompyuterda malumotni qayta ishlash qaysi qurilmada amalaga oshiriladi? ",
+        "answer" : "Protsessorda"
+    },
+    {
+        "number" : "286",
+        "question" : "XX asrning 40 yillarida hisoblash mashinalarining ishlash printsiplari kim tomonidan tavsiflangan?",
+        "answer" : " Jon Fon Neyman tomonidan"
+    },
+    {
+        "number" : "287",
+        "question" : "Kompyuter ochirilganida kompyuterning kayerida malumot ham ochib ketadi?",
+        "answer" : " operativ hotirada"
+    },
+    {
+        "number" : "288",
+        "question" : "Multimedia- kompyuterning tarkibida qanday qurilma bolishi shart?",
+        "answer" : " CD-ROM diskovod va tovush kartasi"
+    },
+    {
+        "number" : "289",
+        "question" : "«Sichqoncha» manipulyatori – bu ...",
+        "answer" : " malumotni kiritish qurilmasidir"
+    },
+    {
+        "number" : "290",
+        "question" : "Tashqi qurilmalarni boshqarish dasturi nima deb nomlanadi?",
+        "answer" : " drayver"
+    },
+    {
+        "number" : "291",
+        "question" : "Qaysi qurilma ochirilganida kompyuter ishlamaydi?",
+        "answer" : "Kompyuterda malumot  qanday korinishda qayta ishlanadi?"
+    },
+    {
+        "number" : "292",
+        "question" : "Kompyuterda malumot  qanday korinishda qayta ishlanadi?",
+        "answer" : " Ikkilik korinishida"
+    },
+    {
+        "number" : "293",
+        "question" : "Malumotlar –bu ...?",
+        "answer" : "Kompyuter kodiga otkazilgan axborotdir"
+    },
+    {
+        "number" : "294",
+        "question" : "Dastur – bu ... ?",
+        "answer" : "Kompyuterning  malumotni qayta ishlash jarayonida bajaradigan buyruqlar ketma-ketligidir"
+    },
+    {
+        "number" : "295",
+        "question" : "Berilgan dastur boyicha malumotlarni qayta ishlash qurilmasi bu?",
+        "answer" : " Protsessor"
+    },
+    {
+        "number" : "296",
+        "question" : "Dastur va malumotlar qayta ishlash vaqtida qayerga joylashtiriladi?",
+        "answer" : " Tezkor hotiraga"
+    },
+    {
+        "number" : "297",
+        "question" : "Mikroprotsessor tomonidan qabul qilinadigan bitlarning yaxlit soni nima deyiladi? ",
+        "answer" : " Protsessor razryadligi"
+    },
+    {
+        "number" : "298",
+        "question" : "Bir sekunddagi taktlar soni nima debataladi?",
+        "answer" : " Takt chastotasi"
+    },
+    {
+        "number" : "299",
+        "question" : "Tezkor tizimni dasturi qayerda joylashgan?",
+        "answer" : " Doimiy hotirada"
+    },
+    {
+        "number" : "300",
+        "question" : "Uchta ozgaruvchili mantiqiy funksiyaning xaqiqat jadvali necha qatordan iborat boladi?",
+        "answer" : "8"
+    },
+    {
+        "number" : "1",
+        "question" : "OMAP 4430 protsessori qaysi turdagi kompyuterlarni yigishda  ishlatiladi ? ",
+        "answer" : "mobil kampyuterlarni"
+    },
+    {
+        "number" : "2",
+        "question" : "Core i7 prosessorida nechta sathi  kesh qollaniladi? ",
+        "answer" : "3 sathli kesh"
+    },
+    {
+        "number" : "3",
+        "question" : "Qaysi  protsessor  tarkibida 42 000 000 tranzistor  mavjud? ",
+        "answer" : "Pentium 4"
+    },
+    {
+        "number" : "4",
+        "question" : "Pentium 4 protsessori  mikroarxitekturasi  qanday nomlanadi? ",
+        "answer" : "NetBurst"
+    },
+    {
+        "number" : "5",
+        "question" : "U1traSARC  III  protsessori tarkibida nechta tranzistor  bor? ",
+        "answer" : "29 000 000"
+    },
+    {
+        "number" : "6",
+        "question" : "Qaysi protsessor NetBurst  mikroarxitekturasiga ega? ",
+        "answer" : "Pentium 4"
+    },
+    {
+        "number" : "7",
+        "question" : "Olti sathli kompyuterlarining  nolinchi sathi qanday nomlanadi? ",
+        "answer" : "Raqamli mantiqiy  sathga."
+    },
+    {
+        "number" : "8",
+        "question" : "Olti sathli kampyuterlarning birinchi sathi qanday nomlanadi?",
+        "answer" : ""
+    },
+    {
+        "number" : "9",
+        "question" : "Olti satihli kompyuterlarning ikkinchi sathi qanday nomlanadi?",
+        "answer" : "Buyruqlar toplami arxitekturasi sathi"
+    },
+    {
+        "number" : "10",
+        "question" : "Olti sathli kampyuterlarning uchinchi sathi qanday nomlanadi? ",
+        "answer" : "Operatsion tizm sathi"
+    },
+    {
+        "number" : "11",
+        "question" : "Olti sathli kampyuterlarning to’rtinchi sathi qanday nomlanadi?",
+        "answer" : "Assembler sathi"
+    },
+    {
+        "number" : "12",
+        "question" : "Olti sathli kampyuterlarning beshinchi sathi qanday nomlanadi?",
+        "answer" : "Amaliy tillar dasturchilari sathi "
+    },
+    {
+        "number" : "13",
+        "question" : "Keltilganlarning qaysi biri Fon Neyman prinsipiga togri keladi?",
+        "answer" : "Kompyuter xotirasi malumotlar va dasturlarni saqlashda qolaniladi "
+    },
+    {
+        "number" : "14",
+        "question" : "RISC qisqartmasi nimani anglatadi? ",
+        "answer" : "Qisqartirilgan buyuruqlar to’plamiga ega bo’lgan kompyuter"
+    },
+    {
+        "number" : "15",
+        "question" : "SHaxsiy kompyuterlar uchun moljallangan qoplamalarni qanday xillarini bilasiz?",
+        "answer" : "Gorizontal (desktop) va vertikal  (tower) xillari."
+    },
+    {
+        "number" : "16",
+        "question" : "Kompyuterning  minimal tarkibiga nimalar kiradi?",
+        "answer" : "Monitor, tizimli  blok , klavitura."
+    },
+    {
+        "number" : "17",
+        "question" : "SHaxsiy kompyuterda malumotni  qayta ishlash qaysi qurilmada amalga oshiriladi?",
+        "answer" : "protsessorda"
+    },
+    {
+        "number" : "18",
+        "question" : "Qisqartirilgan buyruqlar toplamiga ega kompyuter  qanday  nomlanadi?",
+        "answer" : "RISC"
+    },
+    {
+        "number" : "19",
+        "question" : "Qisqartirilgan buyruqlar toplamiga ega kompyuter  qanday  nomlanadi?",
+        "answer" : "Qisqartirilgan buyruqlar toplamiga ega kompyuter  qanday  nomlanadi?"
+    },
+    {
+        "number" : "20",
+        "question" : "Qaysi prosessor  Version  9 SPARC  mikroarxiterkturasiga ega?",
+        "answer" : "Ultra SPARC III"
+    },
+    {
+        "number" : "21",
+        "question" : "Kompyuterlar  axborotlarni  qanday  korinishda  saqlaydi ?",
+        "answer" : "Raqamli  signal korinishda "
+    },
+    {
+        "number" : "22",
+        "question" : "Arifmetik  mantiqiy qurilma  qanday  vazifan  bajaradi ? ",
+        "answer" : "Arifmetik  va mantiqiy amallarni bajaradi"
+    },
+    {
+        "number" : "23",
+        "question" : "Registrlar  qanday  qurilma?  ",
+        "answer" : "Protsesor  ichki  tezkor  xotirasi"
+    },
+    {
+        "number" : "24",
+        "question" : "Shina  turlari  to’g’ri  korsatilgan  javobni  belgilang ?  ",
+        "answer" : "PCI ,  ISA "
+    },
+    {
+        "number" : "25",
+        "question" : "Video  karta  qanday  vazifani  bajarib beradi ?",
+        "answer" : "Monitordagi  malumotlarni  hosil  qiladi."
+    },
+    {
+        "number" : "26",
+        "question" : "Doimiy   saqlovchi  qurilma  nomi tanlang ?  ",
+        "answer" : "Vinchestir"
+    },
+    {
+        "number" : "27",
+        "question" : "Monitor  qaysi  portturi  orqali  boglanadi ?  ",
+        "answer" : "VGA"
+    },
+    {
+        "number" : "28",
+        "question" : "Zamonaviy  kompyuterlarning  registr  razryadlari  soni  nechiga  teng ?",
+        "answer" : "64"
+    },
+    {
+        "number" : "29",
+        "question" : "Axborotlarni  kompyuterga   kirtivchi  quruilmani  toping ?",
+        "answer" : "Klaviatura"
+    },
+    {
+        "number" : "30",
+        "question" : "Asembler   qanday  dasturlaSH  tili  hisoblanadi ?",
+        "answer" : "Quyi  dasturlash  tili"
+    },
+    {
+        "number" : "31",
+        "question" : "ADD  buyrugi  qanday   amalni   bajaradi  ",
+        "answer" : "Arifmetik  qoshish ."
+    },
+    {
+        "number" : "32",
+        "question" : "Bir   bitli  xotira  elementini   korsating ",
+        "answer" : "Triger"
+    },
+    {
+        "number" : "33",
+        "question" : "Ventillar   nima asosida  quriladi  ",
+        "answer" : "Tranzistorlar"
+    },
+    {
+        "number" : "34",
+        "question" : "RAM   qanday  xotira  turi   hisoblanadi  ",
+        "answer" : "Tezkor  xotira   qurilmasi "
+    },
+    {
+        "number" : "35",
+        "question" : "RAM   xotiraning   qanday   turlari   bor ?   ",
+        "answer" : "Staik  va  Dinamik  ."
+    },
+    {
+        "number" : "36",
+        "question" : "SRAM  nima   asosida  quriladi  ?  ",
+        "answer" : "D-triggerlar  ."
+    },
+    {
+        "number" : "37",
+        "question" : "DRAM   nima  asosida  quriladi   ?  ",
+        "answer" : "Tranzistorlar  va  juda  kichik  kondensatorlardan ."
+    },
+    {
+        "number" : "38",
+        "question" : "DDR  qanday   manoni  andlatadi ?  ",
+        "answer" : "Malumotlarni  ikki   karra   tez  uzata  oluvchi ."
+    },
+    {
+        "number" : "39",
+        "question" : "ROM  qanday   xotira  qurilmasi  hisoblanadi ?  ",
+        "answer" : "Doimiy  xotira  qurilmasi "
+    },
+    {
+        "number" : "40",
+        "question" : "Vinchestrni  boshqarish-  nima yordamida  amalga  oshiriladi  ?  ",
+        "answer" : "Kontroller"
+    },
+    {
+        "number" : "41",
+        "question" : "BIu-Ray    nima  ?  ",
+        "answer" : "Malumotlarni   yozish   uchun  kok  rangli  lazer  qolaniladigan  DVD- disk ."
+    },
+    {
+        "number" : "42",
+        "question" : "Superskalyar  protsessor  deb  nimaga  aytiladi ?  ",
+        "answer" : " Bitta  sikl  davomida  bir necha  buyruqlarni  bajarish  imkoniyatiga   ega ."
+    },
+    {
+        "number" : "43",
+        "question" : "MOV   qanday  buyruq  hisoblanadi?   ",
+        "answer" : "Yo’naltirish yoki (qo’shish)"
+    },
+    {
+        "number" : "44",
+        "question" : "Buyruqlar  formatlarining  necha  xili  mavjud  ?  ",
+        "answer" : "Adressiz  , bir adresli , ikki  adresli, uch  adresli  buyruq ."
+    },
+    {
+        "number" : "45",
+        "question" : "Buyruq  nima  ? ",
+        "answer" : "Amal kodi , ushubu  amalda  qatnashayotgan  operanda yoki  operadalar qayerdan olinishi   va  nolija  qayerga  yozilishi   kerakligi  haqida  axborot ."
+    },
+    {
+        "number" : "46",
+        "question" : "Taqqoslash  va  sharli  otish   buyruqlar  ?",
+        "answer" : "CMP  "
+    },
+    {
+        "number" : "47",
+        "question" : ".   Birlashtirilgan   kesh  xotira  deb nimaga  aytiladi ? ",
+        "answer" : "Buyruqlar  ham, malumotlar   ham  saqlanadigan  kesh  xotira."
+    },
+    {
+        "number" : "48",
+        "question" : "Xotira  modularining  qanday  xillari   mavjud ?",
+        "answer" : "DIMM  va  SIMM ."
+    },
+    {
+        "number" : "49",
+        "question" : "EDO  qanday  xotira  turi  hisoblanadi  ?  ",
+        "answer" : "Ulanish  nuqtalarining  imkoniyatlari  kengaytirilgan dinamik  xotira "
+    },
+    {
+        "number" : "50",
+        "question" : "Modemlarni  qanday  xillarini  bilasiz  ?",
+        "answer" : "Ichki  va  tashqi . "
+    },
+    {
+        "number" : "51",
+        "question" : "Videodapterning  korsata  olish  imkoniyati  deganda  nima  tushuniladi ? ",
+        "answer" : "Gorizontal  va Vertikal boylab  chiqarib bera  olish  mumkin  bolgan  nuqtalarning  soni ."
+    },
+    {
+        "number" : "52",
+        "question" : "Besh  sathli konveyerning  birinchi bosqichida  (C1)  nima  amalga oshiriladi ? ",
+        "answer" : "Bajarilishi  kerak bolgan buyruqni tanlash  . Bajariladigan buyruqlarni tanlash "
+    },
+    {
+        "number" : "53",
+        "question" : "Besh  sathli  konveyerning  ikkinchi  bosqichida  (C2)  nima  amalga oshiriladi ",
+        "answer" : "Buyruqni   dekodlash . "
+    },
+    {
+        "number" : "54",
+        "question" : "Besh  sathli  konveyerning  ikkinchi  bosqichida  (C3)  nima  amalga oshiriladi ?   ",
+        "answer" : "Operandalar tanlash"
+    },
+    {
+        "number" : "55",
+        "question" : "Besh   sathli  konveyerning  tortinchi bosqichida  (C4)  nima  amalga  oshiriladi ",
+        "answer" : "Buyruqni   bajarish  ."
+    },
+    {
+        "number" : "56",
+        "question" : "Besh  sathli konveyerning   beshinchi  bosqichida  (C5)  nima  amalga  oshiriladi ? ",
+        "answer" : "Natijalarni  xotiraga  yoki  registrlarga    yozish  . "
+    },
+    {
+        "number" : "57",
+        "question" : "Bajariladigan  buyruqni  tanlash  besh  sathli   konveyerning  qaysi  bosqichida  amalga  oshiriladi  ",
+        "answer" : "C1"
+    },
+    {
+        "number" : "58",
+        "question" : "Protsessorda  xotira  yoki  registrlarni   adreslashning  necha  xili mavjud  ",
+        "answer" : "4"
+    },
+    {
+        "number" : "59",
+        "question" : "Togridan -togri  adreslash  qanday  tashkil  etiladi  ",
+        "answer" : "Buyruqning  ikkinchi  va  uchinchi  baytlari  xotira  adresdan iborat   boladi   ."
+    },
+    {
+        "number" : "60",
+        "question" : "Murajat  qilinadigan   registirni  ko’rsatib  adreslash  qanday  tashkil  etiladi ",
+        "answer" : "buyruqning o’zida malumot yozilgan registrning yoki bir juft registrlarning adreslari yozilgan bo’ladi"
+    },
+    {
+        "number" : "61",
+        "question" : "Protsessor  siklining  qanday  bosqichida buyruqni  tanlab  olish  amalga oshiriladi  ",
+        "answer" : "1"
+    },
+    {
+        "number" : "62",
+        "question" : "Protsessor  sikilining  qanday  bosqichida  buyruqni  dekodash  amalga   oshiriladi  ",
+        "answer" : "3"
+    },
+    {
+        "number" : "63",
+        "question" : "Protsessor  sikilining  qanday  bosqichida  natijalarni  xotiraga  yoki  registrlarga  yozish  amalga  oshiriladi ",
+        "answer" : "6"
+    },
+    {
+        "number" : "64",
+        "question" : "Protsessor  sikili  deb  nimaga   aytiladi ?",
+        "answer" : "buyruqlarni  malum  bir  ketma – ketlikda  bajarishga  "
+    },
+    {
+        "number" : "65",
+        "question" : "Malumotlarni  parallel  ishlashning  nechta  asosi shakil  bor   ",
+        "answer" : "2"
+    },
+    {
+        "number" : "66",
+        "question" : "Protsessor  siklining  qaysi  bosqichida  buyruqni  bajarish  amalga  oshiriladi  ",
+        "answer" : "5"
+    },
+    {
+        "number" : "67",
+        "question" : "Uchinchi avlod kompyuterlari qanday kompyuterlar hisoblanadi",
+        "answer" : "Integral sxemalar asosida qurilgan kompyuterlar"
+    },
+    {
+        "number" : "68",
+        "question" : "Fon Neyman kompyuteri nechta asosiy qismlardan iborat? ",
+        "answer" : "5"
+    },
+    {
+        "number" : "69",
+        "question" : "protsessorning qaysi registrida keying bajariladigan buyuruqning adresi yozib turiladi? ",
+        "answer" : "PC"
+    },
+    {
+        "number" : "70",
+        "question" : "IS 10646 xalqaro standarti deb e’lon qilingan kodni ko’rsating",
+        "answer" : "UNICODE"
+    },
+    {
+        "number" : "71",
+        "question" : "Tashqi qurilmalarni boshqarish dasturi nima deb nomlanadi? ",
+        "answer" : "Drayver"
+    },
+    {
+        "number" : "72",
+        "question" : "Tez ishlaydigan grafik port shinasini ko’rsating? ",
+        "answer" : "AGP"
+    },
+    {
+        "number" : "73",
+        "question" : "Ma’lumotlarni ketma ket uzatuvchi universal shinani ko’rsating.   ",
+        "answer" : "USB"
+    },
+    {
+        "number" : "74",
+        "question" : "sanoatdagi standart arxitekturali shinani ko’rsating.  ",
+        "answer" : "ISA"
+    },
+    {
+        "number" : "75",
+        "question" : "sanoatdagi kengaytirilgan standart arxitekturali shinani ko’rsating. ",
+        "answer" : "EISA"
+    },
+    {
+        "number" : "76",
+        "question" : "kompyuterning tashqi tashkil etuvchi qurilmalarni o’zaro birgalikda ishlashini ta’minlovchi shinani ko’rsating. ",
+        "answer" : "PCI"
+    },
+    {
+        "number" : "77",
+        "question" : "4 gbaytli asosiy xotiraga ega bo’lgan kompyuterlarda, adres shinasi necha razryadga teng bo’ladi? ",
+        "answer" : "32"
+    },
+    {
+        "number" : "78",
+        "question" : "Protsessorning  siklining birinchi bosqichida nima amalga oshiriladi?  ",
+        "answer" : "PC yordamida bajarilishi kerak bo’lgan buyruq tanlab olinadi"
+    },
+    {
+        "number" : "79",
+        "question" : "Protsessorning  siklining ikkinchi bosqichida nima amalga oshiriladi? ",
+        "answer" : "PC ning qiymati orttriladi "
+    },
+    {
+        "number" : "80",
+        "question" : "Protsessorning  siklining uchinchi bosqichida nima amalga oshiriladi? ",
+        "answer" : " Buyruq dekodlanadi"
+    },
+    {
+        "number" : "81",
+        "question" : ". Protsessorning  siklining to’rtinchi bosqichida nima amalga oshiriladi?  ",
+        "answer" : "Buyruqni bajarish uchun kerak bo’ladigan malumotlar xotiradan yoki regstrlardan tanlab olinadi."
+    },
+    {
+        "number" : "82",
+        "question" : ". Protsessorning  siklining beshinchi bosqichida nima amalga oshiriladi?  ",
+        "answer" : "Buyuruq bajariladi"
+    },
+    {
+        "number" : "83",
+        "question" : "Prosessorning siklining oltinchi bosqichida  nima amalga oshiriladi? ",
+        "answer" : "Natijalarni xotiraga yoki registrlarga  yozish"
+    },
+    {
+        "number" : "84",
+        "question" : ". Prosessorning siklining yettinchi bosqichida  nima amalga oshiriladi? ",
+        "answer" : "Keyingi buyruqni bajarish sikliga o’tish"
+    },
+    {
+        "number" : "85",
+        "question" : "protsessor sikli nechta bosqichdan iborat? ",
+        "answer" : "7"
+    },
+    {
+        "number" : "86",
+        "question" : "Buyuruqni bajarish besh sathli konveyerning qaysi bosqichida amalga oshiriladi? ",
+        "answer" : "C4"
+    },
+    {
+        "number" : "87",
+        "question" : "Natijani xotiraga yoki registrlarga yozish besh sathli konveyerning qaysi bosqichida amalga oshiriladi? ",
+        "answer" : "C5"
+    },
+    {
+        "number" : "88",
+        "question" : "Asosiy plataga nima o’rnatiladi? ",
+        "answer" : "Protsessor"
+    },
+    {
+        "number" : "89",
+        "question" : "sichqoncha manipulyatori – bu ….",
+        "answer" : "ma’lumotni  kiritish qurilmasidir "
+    },
+    {
+        "number" : "90",
+        "question" : ". Personal kompyuterning shinalari  nimani ta’minlab beradi? ",
+        "answer" : "Element va qurilmalar o’zaro bog’liqligini "
+    },
+    {
+        "number" : "91",
+        "question" : "Monitorning  xarakteristikasini tanlang? ",
+        "answer" : "Ruxsat etish imkoniyati"
+    },
+    {
+        "number" : "92",
+        "question" : "Ma’lumotni prosessor qanday qayta ishlaydi? ",
+        "answer" : "Ikkilik sanoq tizimida "
+    },
+    {
+        "number" : "93",
+        "question" : "Qaysi qurilma yordamida tashqi qurilma bilan shina o’rtasidagi aloqa amalga oshriladi? ",
+        "answer" : "Kontroller"
+    },
+    {
+        "number" : "94",
+        "question" : "Kontroller nima uchun mo’ljallangan? ",
+        "answer" : "Protsessordan kelayotgan axborotlarni, qurilmalar ishini  boshqaruvchi mos signallariga o’zgartirish uchun"
+    },
+    {
+        "number" : "95",
+        "question" : "Prosessor asosiy xotiradan ma’lumotlarni o’qish uchun , shina orqali qaysi boshqarish signallari bilan xotiraga murojat qiladi? ",
+        "answer" : "MREQ, RD"
+    },
+    {
+        "number" : "96",
+        "question" : "Prosessor asosiy xotiradan ma’lumotlarni o’qish uchun , shina orqali xotiraga murojaat qilish signalini ko’rsating? ",
+        "answer" : "MREQ"
+    },
+    {
+        "number" : "97",
+        "question" : "Skaner nima uchun mo’ljallangan? ",
+        "answer" : "Qog’oz bo’lagidagi grafik tasvirlarni kompyuterga kiritish  uchun"
+    },
+    {
+        "number" : "98",
+        "question" : "Modem qanday vazifani bajaradi? ",
+        "answer" : "Analogli signalni raqamli signalga va raqamli signalni analogli signalga aylantirish  uchun o’zgartiradi."
+    },
+    {
+        "number" : "99",
+        "question" : "Modem nima uchun mo’ljallangan? ",
+        "answer" : "Telefon tarmog’I orqali bir kompyuterdan boshqa bir kompyuterga malumotni uzatish uchun "
+    },
+    {
+        "number" : "100",
+        "question" : "Ma’lumotlarni kiritish –chiqarish buyuruqlarini ko’rsating. ",
+        "answer" : "IN, OUT"
+    },
+    {
+        "number" : "101",
+        "question" : "Ko’chirib yozish buyuruqlarini ko’rsating?   ",
+        "answer" : "MOV, PUSH"
+    },
+    {
+        "number" : "102",
+        "question" : "Arifmetik buyuruqlarni ko’rsating? ",
+        "answer" : "ADD, SUB"
+    },
+    {
+        "number" : "103",
+        "question" : "Umumiy maqsadlar uchun mo’ljallangan registrlarni ko’rsating.  ",
+        "answer" : "AX, EAX"
+    },
+    {
+        "number" : "104",
+        "question" : "Qaysi xotiraga murojat qilish tezligi katta? ",
+        "answer" : "Registrli xotiraga"
+    },
+    {
+        "number" : "105",
+        "question" : "Kompyuterning ish samaradorligi nimaga bog’liq?",
+        "answer" : "   Prosessor chastotasiga"
+    },
+    {
+        "number" : "106",
+        "question" : "Bir sekunddagi taktlar soni nima deb ataladi? ",
+        "answer" : "Takt chastotasi"
+    },
+    {
+        "number" : "107",
+        "question" : "protsessor tarkibidagi muhim registorlardan biri bolgan  buyruqlar sanagichi registerini korsating?",
+        "answer" : "PC"
+    },
+    {
+        "number" : "108",
+        "question" : "protsessor tarkibidagi muhim registorlardan biri bolgan  buyruqlar ko’rsatuvchi registerini korsating?",
+        "answer" : "IP"
+    },
+    {
+        "number" : "109",
+        "question" : "Takt chastotasining o’lchov birligi nima?",
+        "answer" : "Mg s"
+    },
+    {
+        "number" : "110",
+        "question" : " Mashina kodida yozilgan va arifmetik mantiqiy operatsiyalarning hamda boshqarish operatsiyalaring bajarishiga masul qurilma nima deb ataladi? ",
+        "answer" : "Mikroprotsessor"
+    },
+    {
+        "number" : "111",
+        "question" : "Registrga yangi ma’lumotni yozish jarayoni qanday nomlanishi mumkin? ",
+        "answer" : "yuklash"
+    },
+    {
+        "number" : "112",
+        "question" : " Magnitli disk yolkasini tashkil etuvchi sektorlar qanday uzunlikka ega? ",
+        "answer" : "512 bayt"
+    },
+    {
+        "number" : "113",
+        "question" : " Kichik hisoblash tizimlarining interfeyslariga ega disklar deganda qanday disklar tushuniladi?",
+        "answer" : "SCSI disklar"
+    },
+    {
+        "number" : "114",
+        "question" : " Magnitli disklar asosida qurilgan ma’lumotlarni tezkor kiritish chiqarish qurilmalari qanday nomlanadi? ",
+        "answer" : "RAID disklar"
+    },
+    {
+        "number" : "115",
+        "question" : " CD disklerning hajmi qanchagacha bo’lishi mumkin?",
+        "answer" : "700 Mb"
+    },
+    {
+        "number" : "116",
+        "question" : " Kompyuter xotirasini Ierxaik korinishda tashkil etishda ierarxiyaning eng yuqori qismida joylashgan xotirani ko’rsating?",
+        "answer" : "ichki registerlar"
+    },
+    {
+        "number" : "117",
+        "question" : " Kompyuter xotirasini Ierxaik korinishda tashkil etishda, ierarxiyaning ikkinchi qatorida  joylashgan xotirani ko’rsating?  ",
+        "answer" : "Kesh xotira"
+    },
+    {
+        "number" : "118",
+        "question" : " Kompyuter xotirasini Ierxaik korinishda tashkil etishda, ierarxiyaning uchinchi qatorida  joylashgan xotirani ko’rsating?  ",
+        "answer" : "Asosiy xotira"
+    },
+    {
+        "number" : "119",
+        "question" : "Kompyuter xotirasini Ierxaik korinishda tashkil etishda, ierarxiyaning to’rtinchi qatorida  joylashgan xotirani ko’rsating?",
+        "answer" : " Magnitli disk"
+    },
+    {
+        "number" : "120",
+        "question" : "Kompyuter xotirasini Ierxaik korinishda tashkil etishda, ierarxiyaning beshinchi qatorida  joylashgan xotirani ko’rsating? ",
+        "answer" : "Optik disk va tasmali tashivchular"
+    },
+    {
+        "number" : "121",
+        "question" : "D-triggerlar asosida qurilgan tezkor xotira qurilmasini korsating? ",
+        "answer" : "static tezkor xotira qurilmasi SRAM"
+    },
+    {
+        "number" : "122",
+        "question" : "Vinchester nima uchun mo’ljallangan?",
+        "answer" : "Ma’lumotlarni doimiy saqlash uchun"
+    },
+    {
+        "number" : "123",
+        "question" : " Diskovod bu-…?  ",
+        "answer" : "Tashqi qurilmadagi ma’lumotni o’qish yozish qurilmasi"
+    },
+    {
+        "number" : "124",
+        "question" : " Intel protsessorlari oilasining core duo protsessoridan avvalgi ishlatilgan kompyuterlarda ikkinchi sath kesh xotirasining maksimal hajmi nechtaga teng bo’lishi mumkin?",
+        "answer" : " 1MB"
+    },
+    {
+        "number" : "125",
+        "question" : " Intel protsessorlari oilasining core duo protsessoridan avvalgi ishlatilgan kompyuterlarda birinchi sath kesh xotirasining maksimal hajmi nechtaga teng bo’lishi mumkin?",
+        "answer" : " 64 Kbayt"
+    },
+    {
+        "number" : "126",
+        "question" : " Ulanish nuqtalari bir tomonda joylashgan xotira modullari qanday nomlanadi? ",
+        "answer" : "SIMM"
+    },
+    {
+        "number" : "127",
+        "question" : " Ulanish nuqtalari ikki tomonda joylashgan xotira modullari qanday nomlanadi?",
+        "answer" : "DIMM"
+    },
+    {
+        "number" : "128",
+        "question" : " SIMM qisqartmasi nimani anglatadi? ",
+        "answer" : "ulanish nuqtalari bir tomonda joylashgan xotira moduli"
+    },
+    {
+        "number" : "129",
+        "question" : "DIMM qisqartmasi nimani anglatadi? ",
+        "answer" : "ulanish nuqtalari ikki tomonda joylashgan xotira moduli"
+    },
+    {
+        "number" : "130",
+        "question" : " SPARC oilasiga mansub protsessorlar asosida qurilgan kompyuterlarning asosiy xotirasida baytlar qanday tartibda joylashtiriladi? ",
+        "answer" : "to’g’ri tartibda"
+    },
+    {
+        "number" : "131",
+        "question" : " asosiy xotirasida baytlar to’g’ri tartibda joylashgan kompyuter  protseesorini ko’rsating? ",
+        "answer" : "Ultra SARCIII"
+    },
+    {
+        "number" : "132",
+        "question" : " asosiy xotirasida baytlar teskari tartibda joylashtirlgan kompyuter protsessorini koasating? ",
+        "answer" : "Pentium 4"
+    },
+    {
+        "number" : "133",
+        "question" : " 1 Mb li asosiy xotira adresining maksimal qiymati nechaga teng? ",
+        "answer" : "FFFFF"
+    },
+    {
+        "number" : "134",
+        "question" : " 4 GB li asosiy xotira adresining maksimal qiymati nechaga teng? ",
+        "answer" : "FFFF FFFF"
+    },
+    {
+        "number" : "135",
+        "question" : " Hozirgi shaxshiy kompyuterlarda xotiraga murojaat qilishning necha xil rejimi mavjud?",
+        "answer" : "3"
+    },
+    {
+        "number" : "136",
+        "question" : "Asosiy xotiraga murojaat qilishning real rejimida bitta segmenting hajminechaga teng? ",
+        "answer" : "64 Kbayt"
+    },
+    {
+        "number" : "137",
+        "question" : "Asosiy xotiraga murojaat qilishning himoyalangan rejimida bitta sahifaning hajmi nechaga teng? ",
+        "answer" : "4 Kbayt"
+    },
+    {
+        "number" : "138",
+        "question" : "Dastur bu-…? ",
+        "answer" : "kompyuterning ma’lumotni qayta ishlash jarayonida bajaradigan buyruqlar ketma-ketligi"
+    },
+    {
+        "number" : "139",
+        "question" : " Operatsion tizimning yuklash dasturi qayerda joylashgan? ",
+        "answer" : "Doimiy xotirada"
+    },
+    {
+        "number" : "140",
+        "question" : " Dastur va ma’lumotlar qayta ishlash vaqtida qayerga joylashtiriladi? ",
+        "answer" : "Tezkor xotiraga"
+    },
+    {
+        "number" : "141",
+        "question" : " qisqartirilgan buyruqlar to’plamiga ega kompyuter qanday nomlanadi? ",
+        "answer" : "RISC"   
+    },
+    {
+        "number" : "142",
+        "question" : " Raqamli mantiqiy sath olti sathli kompyuter arxitekturasining qaysi sathiga tegishli?  ",
+        "answer" : "nol inchi sathiga"
+    },
+    {
+        "number" : "143",
+        "question" : " keltirilganlarning qaysi biri MUR qonunini ifodalaydi?",
+        "answer" : "  Bir mikrosxemadagi tranzistorlar soni har ikki yilda ortib boradi"
+    },
+    {
+        "number" : "144",
+        "question" : " Berilgan dastur boyicha ma’lumotlarni qayta izlash qurilmasi?  ",
+        "answer" : "Protsessor "
+    },
+    {
+        "number" : "145",
+        "question" : "  Kompyuterda ma’lumot qanday ko’rinishda qayta izlanadi?  ",
+        "answer" : "Ikkilik korinishida"
+    },
+    {
+        "number" : "146",
+        "question" : " CISC qisqartmasi nimani anglatadi?  ",
+        "answer" : "To’liq buyruqlar toplamiga ega kompyuter"
+    },
+    {
+        "number" : "147",
+        "question" : " Birinchi avlod kompyuterlari qanday qurilgan?",
+        "answer" : "    Elektron lampalar asosida qurilgan."
+    },
+    {
+        "number" : "148",
+        "question" : " Mikroprotsessor tomonidan qabul qilinadigan bitlarning yaxlit soni nima deyiladi?   ",
+        "answer" : "Protsessor razryadligi  "
+    },
+    {
+        "number" : "149",
+        "question" : " Bitta operanda ustida amallar bajarish buyruqlarini ko’rsating?   ",
+        "answer" : "INC, DEC"
+    },
+    {
+        "number" : "150",
+        "question" : " Quyidagilardan qaysi biri dasturiy vositalarga tegishli emas?  ",
+        "answer" : "Protsessor"
+    },
+    {
+        "number" : "151",
+        "question" : " Bevosita adreslash qanday tashkil etiladi?  ",
+        "answer" : "Malumot buyruqning o’ziga yozilgan bo’ladi."
+    },
+    {
+        "number" : "152",
+        "question" : " Guruhga birlashtirilgan triggerlar yordamida nima hosil qiladi?  ",
+        "answer" : "Registr"
+    },
+    {
+        "number" : "153",
+        "question" : "Pentium oilasiga mansub protsessorlar asosida qurilgan kompyuterlarning asosiy xotirasida baytlar qanday tartibda joylashtiriladi?   ",
+        "answer" : "Teskari tartibda"
+    },
+    {
+        "number" : "154",
+        "question" : "Protsessorning IP yoki EIP registri deganda qanday registr tushuniladi? ",
+        "answer" : "Buyruqlarni ko’rsatuvchi registr"
+    },
+    {
+        "number" : "155",
+        "question" : "SOFTWARE deganda nim tushuniladi? ",
+        "answer" : "Kompyuterni dasturiy taminoti"
+    },
+    {
+        "number" : "156",
+        "question" : "Doimiy saqlovchi qurilma qanday hotira turiga kiradi? ",
+        "answer" : "Manbaga bog’liq bo’lmagan qurilma"
+    },
+    {
+        "number" : "157",
+        "question" : "Registrlar yordamida bilvosita adreslash qanday tashkil etiladi? ",
+        "answer" : "Buyruqda, xotira adresi yoki malumotlar yozilgan bir juft registr ko’rsatiladi"
+    },
+    {
+        "number" : "158",
+        "question" : "Bajariladigan buyruqni dekodlash besh sathli konveyerning qaysi bosqichida amalga oshiriladi? ",
+        "answer" : "C2"
+    },
+    {
+        "number" : "159",
+        "question" : "Djoystikdan nima uchun foydalaniladi? ",
+        "answer" : "Kompyuter o’yinlarini o’ynash uchun"
+    },
+    {
+        "number" : "160",
+        "question" : "Plotter nima uchun mo’ljallangan? ",
+        "answer" : "Grafik axborotni qog’ozga chiqarish uchun"
+    },
+    {
+        "number" : "161",
+        "question" : "USB qisqartmasi nimani anglatadi? ",
+        "answer" : "Malumotlarni ketma-ket uzatuvchi universal shina"
+    },
+    {
+        "number" : "161",
+        "question" : "Dasturni to’liq taxlil qilib, keyin bajarish uchun kompyuter xotirasiga yoziladigan tizimli dasturga nima deb ataladi? ",
+        "answer" : "Translyator "
+    },
+    {
+        "number" : "162",
+        "question" : "Kompyuter yoqilishini testlash dasturi qayerda yozilgan? ",
+        "answer" : "BIOS mikrosxemasida"
+    },
+    {
+        "number" : "163",
+        "question" : "Axborotni o’chirish va qayta yozish mumkin bo’lgan dasturlanadigan doimiy xotira qurilmasini ko’rsating? ",
+        "answer" : "EPROM"
+    },
+    {
+        "number" : "164",
+        "question" : "Boshqarishni uzatish buyruqlarini ko’rsating? ",
+        "answer" : "JMP, CALL"
+    },
+    {
+        "number" : "165",
+        "question" : "Ma’lumotlar shinasi nima uchun mo’ljallangan? ",
+        "answer" : "Protsessor malumotlarini uzatish uchun mo’ljalangan 8 razryadli ichki malumotlar shinasiga ega"
+    },
+    {
+        "number" : "166",
+        "question" : "AGP qisqartmasi nimani anglatadi? ",
+        "answer" : "Tez ishlaydigan grafik port shinasi"
+    },
+    {
+        "number" : "167",
+        "question" : "CS registri deganda qaysi registr tushuniladi? ",
+        "answer" : "Kodlar yoziladigan segment registri"
+    },
+    {
+        "number" : "168",
+        "question" : "HARDWARE deganda nima tushuniladi? ",
+        "answer" : "Kompyuterning apparat qismi"
+    },
+    {
+        "number" : "169",
+        "question" : "“Kompyuter” so’zini inglizchadan dastlabki tarjimasi nimani anglatgan? ",
+        "answer" : "Buyruqlarni bajarish uchun mo’ljallangan elektron qurilma"
+    },
+    {
+        "number" : "170",
+        "question" : "Nolinchi avlod qanday kompyuterlar bo’lgan? ",
+        "answer" : "Mexanik kompyuterlar"
+    },
+    {
+        "number" : "171",
+        "question" : "qaysi qurilma odatdagi telefon aloqa chiziqlari orqali malumotlar almashinishini taminlab bera oladi?",
+        "answer" : " 0 va 1 lar ketma-ketligi modem yordamida modulyasiyalanadi"
+    },
+    {
+        "number" : "172",
+        "question" : "Asosiy xotiraning dasturning buyruqlari yoziladigan qismi nima deb ataladi? ",
+        "answer" : "Kodlar yoziladigan segment"
+    },
+    {
+        "number" : "173",
+        "question" : "Boshqarish shinasi nima uchun mo’ljallangan? ",
+        "answer" : "Turli bloklarni ishga tushiruvchi signallar boshqarish shinasi orqali uzatiladi"
+    },
+    {
+        "number" : "174",
+        "question" : "Murojaat qilinadigan registrni ko’rsatib adreslash qanday tashkil etiladi? ",
+        "answer" : "Buyruqning o’zida malumot yozilgan registrning yoki bir juft registrlarning adreslari yozilgan bo’ladi"
+    },
+    {
+        "number" : "175",
+        "question" : "PCI Express shinasi, kompyuter tarkibiga kirgan qurilmalarni bog’lashda, qanday rolni bajaradi?",
+        "answer" : " Malumotlarni ham parallel, ham ketma-ket uzatib beruvchi"
+    },
+    {
+        "number" : "176",
+        "question" : "XX asrning 40-yillarida hisoblash mashinalarining ishlash prinsiplari kim tomonidan tavsiflangan? ",
+        "answer" : "Djon Fon Neyman tomonidan"
+    },
+    {
+        "number" : "177",
+        "question" : "Shina orqali malumotlarni uzatishga ruxsat beradigan qurilma nima deb ataladi? ",
+        "answer" : "Shina ustasi"
+    },
+    {
+        "number" : "178",
+        "question" : "boshqarish qurilmasi? ",
+        "answer" : "Buyruqlarni xotiradan chiqarish va ularni qanday buyruqlar ekanligini aniqlash vazifalarini bajaradi"
+    },
+    {
+        "number" : "179",
+        "question" : "SF yoki EFLAGS registri deganda qaysi registr tushiniladi? ",
+        "answer" : "Bayroqlar registry"
+    },
+    {
+        "number" : "180",
+        "question" : "giperoqimli texnalogiya nima? ",
+        "answer" : "2 ta rezistorlar va qator boshqa resurslar to’plamiga ega bo’lgan qurilma"
+    },
+    {
+        "number" : "181",
+        "question" : "Buyruqlar sathidagi parallellik nima? ",
+        "answer" : "Har bir sekundda ko’proq buyruqlarni bajarilishini yo’lga qo’yish"
+    }
+    ]
